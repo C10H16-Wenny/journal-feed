@@ -4,13 +4,13 @@
       "title": "Test Article 1",
       "journal": "Nature",
       "date": "2026-03-01",
-      "url": "https://www.nature.com"
+      "url": "https://www.nature.com/articles/s41586-020-2649-2"
     },
     {
       "title": "Test Article 2",
       "journal": "Cell",
       "date": "2026-03-02",
-      "url": "https://www.cell.com"
+      "url": "https://www.cell.com/cell/fulltext/S0092-8674(20)31246-7"
     }
   ]
 }
