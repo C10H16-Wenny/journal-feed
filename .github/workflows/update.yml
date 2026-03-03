@@ -1,5 +1,7 @@
 name: Update Journal Feed
-
+permissions:
+  contents: write
+  
 on:
   schedule:
     - cron: "0 6 * * *"   # 每天 UTC 6点（英国时间早上）
