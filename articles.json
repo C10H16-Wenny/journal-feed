@@ -1,16 +1,244 @@
 {
   "items": [
     {
-      "title": "Test Article 1",
+      "title": "Author Correction: Healthy forests safeguard traditional wild meat food systems in Amazonia",
       "journal": "Nature",
-      "date": "2026-03-01",
-      "url": "https://www.nature.com/articles/s41586-020-2649-2"
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10332-x"
     },
     {
-      "title": "Test Article 2",
+      "title": "Genetically encoded assembly recorder temporally resolves cellular history",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10323-y"
+    },
+    {
+      "title": "Jam-packed star system is most compact of its kind ever found",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00667-w"
+    },
+    {
+      "title": "Releasing open-weight AI in steps would alleviate risks",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00679-6"
+    },
+    {
+      "title": "From the first telephone to videoconferencing in 100 years",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00641-6"
+    },
+    {
+      "title": "Striking a nerve: Sensory neurons orchestrate ECM remodeling and immune exclusion in TNBC",
       "journal": "Cell",
-      "date": "2026-03-02",
-      "url": "https://www.cell.com/cell/fulltext/S0092-8674(20)31246-7"
+      "date": "",
+      "url": "https://www.cell.com/cell/fulltext/S0092-8674(26)00107-8?rss=yes"
+    },
+    {
+      "title": "Listening to the bladder field: Urine liquid biopsies reveal differential treatment responses in NMIBC",
+      "journal": "Cell",
+      "date": "",
+      "url": "https://www.cell.com/cell/fulltext/S0092-8674(26)00106-6?rss=yes"
+    },
+    {
+      "title": "Fluid flow and environmental geometry guide the journey of swimming bacteria",
+      "journal": "Cell",
+      "date": "",
+      "url": "https://www.cell.com/cell/fulltext/S0092-8674(26)00057-7?rss=yes"
+    },
+    {
+      "title": "Calcium signaling in plants: Universal and unique paradigms",
+      "journal": "Cell",
+      "date": "",
+      "url": "https://www.cell.com/cell/fulltext/S0092-8674(25)01441-2?rss=yes"
+    },
+    {
+      "title": "Field-effect-informed urine liquid biopsy for bladder cancer",
+      "journal": "Cell",
+      "date": "",
+      "url": "https://www.cell.com/cell/fulltext/S0092-8674(25)01503-X?rss=yes"
+    },
+    {
+      "title": "The challengers",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aee7241?af=R"
+    },
+    {
+      "title": "The enigmatic Isthmian inscriptions",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aee2603?af=R"
+    },
+    {
+      "title": "A precessing jet from an active galactic nucleus drives gas outflow from a disk galaxy",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.adp8989?af=R"
+    },
+    {
+      "title": "STING–NF-κB signaling builds an influenza spillover barrier",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.ads4405?af=R"
+    },
+    {
+      "title": "Convergent and lineage-specific genomic changes shape adaptations in sugar-consuming birds",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.adt1522?af=R"
+    },
+    {
+      "title": "Amniogenesis in embryos and stem cell models",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01873-4"
+    },
+    {
+      "title": "Publisher Correction: Adaptor-mediated recruitment of three dyneins to dynactin enhances force generation",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01918-8"
+    },
+    {
+      "title": "Dynein upsizes under load",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01875-2"
+    },
+    {
+      "title": "How condensates tune syncytial translation",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01892-1"
+    },
+    {
+      "title": "RNA-specific local translation is patterned by condensates for multinucleate cell growth",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01887-y"
+    },
+    {
+      "title": "Sensitive matters: Sensory nerve regulation of skeletal stem cells in bone marrow",
+      "journal": "Developmental Cell",
+      "date": "",
+      "url": "https://www.cell.com/developmental-cell/fulltext/S1534-5807(25)00771-3?rss=yes"
+    },
+    {
+      "title": "Benchmarking in vivo and in vitro gene co-expression networks enables efficient β-like cell differentiation",
+      "journal": "Developmental Cell",
+      "date": "",
+      "url": "https://www.cell.com/developmental-cell/fulltext/S1534-5807(26)00027-4?rss=yes"
+    },
+    {
+      "title": "Taking the pulse of RNA polymerase II in intact tissue with PReCIS-seq",
+      "journal": "Developmental Cell",
+      "date": "",
+      "url": "https://www.cell.com/developmental-cell/fulltext/S1534-5807(26)00031-6?rss=yes"
+    },
+    {
+      "title": "Moonlighting SnRK2s stabilize a bZIP-bHLH switch in light-instructed plant development",
+      "journal": "Developmental Cell",
+      "date": "",
+      "url": "https://www.cell.com/developmental-cell/fulltext/S1534-5807(26)00032-8?rss=yes"
+    },
+    {
+      "title": "Ticker sticker: Control of heart-vessel adhesion by cadherin-6",
+      "journal": "Developmental Cell",
+      "date": "",
+      "url": "https://www.cell.com/developmental-cell/fulltext/S1534-5807(26)00036-5?rss=yes"
+    },
+    {
+      "title": "In This Issue",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/iti0826123?af=R"
+    },
+    {
+      "title": "Chen Ning “Frank” Yang (1922–2025): Profound proponent of symmetry",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2531783123?af=R"
+    },
+    {
+      "title": "Satellite thermal data applied to landscape archaeology: Mounds in Michigan (1200–1600 CE)",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2528379123?af=R"
+    },
+    {
+      "title": "Everyone wants something better than ΛCDM",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2526436123?af=R"
+    },
+    {
+      "title": "Democratizing space: India’s frugal space innovation provides key lessons for emerging nations",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2514657123?af=R"
+    },
+    {
+      "title": "Density transitions in the regulation of transcription",
+      "journal": "Molecular Cell",
+      "date": "",
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00029-8?rss=yes"
+    },
+    {
+      "title": "RAD51 succinylation regulates homologous recombination and contributes to the chemosensitivity in cancer",
+      "journal": "Molecular Cell",
+      "date": "",
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00062-6?rss=yes"
+    },
+    {
+      "title": "Unbalanced chromatin binding of Polycomb complexes drives neurodevelopmental disorders",
+      "journal": "Molecular Cell",
+      "date": "",
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00065-1?rss=yes"
+    },
+    {
+      "title": "The human BAF chromatin remodeler processes nucleosomes bound by pioneer transcription factors OCT4–SOX2",
+      "journal": "Molecular Cell",
+      "date": "",
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00063-8?rss=yes"
+    },
+    {
+      "title": "Precise control of transcription condensates across S phase balances linker histone expression with DNA replication, ensuring genome stability",
+      "journal": "Molecular Cell",
+      "date": "",
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00025-0?rss=yes"
+    },
+    {
+      "title": "3D Anderson localization of classical scalar waves",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed1319?af=R"
+    },
+    {
+      "title": "KIT supports small intestinal tuft cell hyperplasia",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady0883?af=R"
+    },
+    {
+      "title": "Ink-state preaggregation control enables scalable and automated fabrication of highly efficient and stable organic photovoltaics",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea6522?af=R"
+    },
+    {
+      "title": "Upper mantle low-velocity layer tied to volatile-charged carbonate melts",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec1018?af=R"
+    },
+    {
+      "title": "The conserved noncoding sequence CNS11 is a master control region for Rorc transcription in type 17 immune cells",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz6964?af=R"
     }
   ]
 }
