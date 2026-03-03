@@ -21,7 +21,7 @@ articles = []
 
 for journal, rss_url in RSS_FEEDS.items():
     feed = feedparser.parse(rss_url)
-    for entry in feed.entries[:5]:  # 每个期刊取前5篇
+    for entry in feed.entries[:20]:  # 每个期刊取前20篇
         articles.append({
             "title": entry.title,
             "journal": journal,
