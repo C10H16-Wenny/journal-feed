@@ -1,6 +1,72 @@
 {
   "items": [
     {
+      "title": "Briefing chat: What Galileo’s scribbled margin notes reveal about his scientific journey",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00759-7"
+    },
+    {
+      "title": "Electric-vehicle batteries toughen up to beat the heat",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00670-1"
+    },
+    {
+      "title": "Peanut-processing microbes ward off dangerous allergic shock",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00668-9"
+    },
+    {
+      "title": "Modelling the cosmos and imagining a future without meat: Books in brief",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00758-8"
+    },
+    {
+      "title": "The missing pieces of menopause science",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00692-9"
+    },
+    {
+      "title": "What a viral TikTok taught me about personal storytelling in science",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-025-04156-4"
+    },
+    {
+      "title": "Celebrate women in research and the networks that sustain them",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00761-z"
+    },
+    {
+      "title": "Climate change is speeding up — the pace nearly doubled in ten years",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00745-z"
+    },
+    {
+      "title": "Genetically modified pig liver keeps man alive until human organ transplant",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00736-0"
+    },
+    {
+      "title": "Uncharted: Understanding women’s health across the body",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00526-8"
+    },
+    {
+      "title": "Cracked, but still there: the glass ceiling persists for senior women in science",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00355-9"
+    },
+    {
       "title": "Author Correction: Programmable 200 GOPS Hopfield-inspired photonic Ising machine",
       "journal": "Nature",
       "date": "",
@@ -17,6 +83,12 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-00747-x"
+    },
+    {
+      "title": "Daily briefing: How DNA testing can tell identical twins apart",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00754-y"
     },
     {
       "title": "The Epstein scandal is a wake-up call — new rules are needed on links with rich donors",
@@ -37,7 +109,7 @@
       "url": "https://www.nature.com/articles/d41586-026-00533-9"
     },
     {
-      "title": "How AI is being used in war — and what’s next",
+      "title": "How AI is shaping the war in Iran — and what’s next for future conflicts",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-00710-w"
@@ -47,78 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-00734-2"
-    },
-    {
-      "title": "First ‘half Möbius’ carbon chain wows chemists",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00682-x"
-    },
-    {
-      "title": "High-rise transistors can be used to build space-saving circuits",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00249-w"
-    },
-    {
-      "title": "How these koalas bounced back from the brink of extinction",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00746-y"
-    },
-    {
-      "title": "Women in science are not a ‘problem to be fixed’",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00546-4"
-    },
-    {
-      "title": "Shared neural substrates of prosocial and parenting behaviours",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10327-8"
-    },
-    {
-      "title": "Heart surgery with quick-setting magnetic fluid could prevent strokes",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00742-2"
-    },
-    {
-      "title": "Magnetic gel injected into the heart could stop strokes",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00740-4"
-    },
-    {
-      "title": "Genome modelling and design across all domains of life with Evo 2",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10176-5"
-    },
-    {
-      "title": "DICER cleavage fidelity is governed by 5′-end binding pockets",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10211-5"
-    },
-    {
-      "title": "Limited thermal tolerance in tropical insects and its genomic signature",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10155-w"
-    },
-    {
-      "title": "A metabolic alarmin from keratinocytes potentiates systemic humoral immunity",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10167-6"
-    },
-    {
-      "title": "Long-term thrombus-free left atrial appendage occlusion via magnetofluids",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-025-10091-1"
     },
     {
       "title": "CLIM-TIME links genetic cancer drivers to immune landscapes",
@@ -361,6 +361,18 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aef8451?af=R"
     },
     {
+      "title": "Lysine-11 ubiquitination drives type-I/III interferon induction by cGAS–STING and Toll-like receptors 3 and 4",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01886-z"
+    },
+    {
+      "title": "The lncRNA DAMER selectively guides m<sup>6</sup>A-dependent regulation of ATF4 and asparagine metabolism under nutrient stress in cancer",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01905-z"
+    },
+    {
       "title": "Lipid droplets meet mitochondria at the MIM protein insertase",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -395,18 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01875-2"
-    },
-    {
-      "title": "How condensates tune syncytial translation",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01892-1"
-    },
-    {
-      "title": "RNA-specific local translation is patterned by condensates for multinucleate cell growth",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01887-y"
     },
     {
       "title": "Sensitive matters: Sensory nerve regulation of skeletal stem cells in bone marrow",
@@ -721,6 +721,30 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adv1236?af=R"
     },
     {
+      "title": "A worm-like nucleic acid nanostructure for gene delivery and endosomal escape via ClC3 ion exchanger",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adw0891?af=R"
+    },
+    {
+      "title": "Structural basis of outer membrane biogenesis and cell division by Tol/Pal nanomachinery",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adw6719?af=R"
+    },
+    {
+      "title": "Large terahertz photovoltaic effect enhanced by phonon excitations in ferroelectric semiconductor SbSI",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adw9796?af=R"
+    },
+    {
+      "title": "Epithelial plasticity shapes intratumoral heterogeneity and cell lineages in early-stage lung cancer",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady8546?af=R"
+    },
+    {
       "title": "Cis-regulatory evolution reveals sensory trade-offs as a genetic basis for temporal niche evolution in tapirs",
       "journal": "Science Advances",
       "date": "",
@@ -733,6 +757,24 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz9563?af=R"
     },
     {
+      "title": "Time-dependent adaptations of damaged neurons and their microenvironment in the regenerating adult zebrafish spinal cord",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea2882?af=R"
+    },
+    {
+      "title": "Nonlinear increase of compound drought-heatwave events since the early 2000s",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea3038?af=R"
+    },
+    {
+      "title": "Direct detection of an asteroid’s heliocentric deflection: The Didymos system after DART",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea4259?af=R"
+    },
+    {
       "title": "Scalable Mie-Silk textile for dual-mode personal cooling indoors and outdoors",
       "journal": "Science Advances",
       "date": "",
@@ -743,6 +785,18 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea4945?af=R"
+    },
+    {
+      "title": "Structural basis of diadinoxanthin-Chl a/b–binding proteins in the photosystem I supercomplex of Euglena gracilis",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea5561?af=R"
+    },
+    {
+      "title": "Direct observation of Notch signaling–induced transcription hubs mediating gene-expression responses",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea5664?af=R"
     },
     {
       "title": "Unidirectional exceptional point of reflectionless states in a magnonic mirror array",
@@ -763,76 +817,22 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea7017?af=R"
     },
     {
+      "title": "The accessory adapters FAF1, FAF2, and UBXN7 accelerate proteasomal degradation by increasing prior p97-mediated substrate unfolding",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea7381?af=R"
+    },
+    {
+      "title": "Present-day tropical precipitation and cloud feedbacks determine future equatorial Pacific trends",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea8070?af=R"
+    },
+    {
       "title": "Refined chronologies of magnetochron M0r reveal asynchronous terrestrial and marine carbon isotope responses to Oceanic Anoxic Event 1a",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea8374?af=R"
-    },
-    {
-      "title": "Differential SP4 expression and HSP60 abundance in buccal swabs from patients with schizophrenia",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb0460?af=R"
-    },
-    {
-      "title": "Real-time direct detection of Criegee intermediates from ozonolysis of alkenes in an atmospheric simulation chamber",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb0618?af=R"
-    },
-    {
-      "title": "Compressive stress–driven Piezo1 activation and Rho-ROCK mechanotransduction promote tumor progression via epigenetic mechanical memory",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1271?af=R"
-    },
-    {
-      "title": "Myelin sheaths persist for weeks following axon degeneration",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2628?af=R"
-    },
-    {
-      "title": "Persistent antigen is essential for sustaining Leishmania major–specific memory CD4+ T cells and long-term immunity",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb3345?af=R"
-    },
-    {
-      "title": "Odd-even conductance oscillations in meta-cycloparaphenylenes",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8037?af=R"
-    },
-    {
-      "title": "Ultrashort electron pulse generation with single-femtosecond-level jitter",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0008?af=R"
-    },
-    {
-      "title": "Touching with torque enables human-level robotic dexterity",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3263?af=R"
-    },
-    {
-      "title": "Digital support systems to improve child development in Peru: A cluster-randomized controlled open-label trial",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb9403?af=R"
-    },
-    {
-      "title": "Structural remodeling of the mitochondrial protein biogenesis machinery under proteostatic stress",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed3579?af=R"
-    },
-    {
-      "title": "Constraining the magnetohydrodynamic turbulence around Geminga by observing the γ-ray halo beyond 100 TeV",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adv8173?af=R"
     }
   ]
 }
