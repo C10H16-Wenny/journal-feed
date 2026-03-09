@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "Monthly HIV-drug injections offer potent alternative to daily tablets",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00669-8"
+    },
+    {
       "title": "Briefing chat: What Galileo’s scribbled margin notes reveal about his scientific journey",
       "journal": "Nature",
       "date": "",
@@ -113,12 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-00710-w"
-    },
-    {
-      "title": "Do obesity drugs treat addiction? Huge study hints at their promise",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00734-2"
     },
     {
       "title": "CLIM-TIME links genetic cancer drivers to immune landscapes",
@@ -559,6 +559,12 @@
       "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2524764123?af=R"
     },
     {
+      "title": "Effects of correlated collisions and intermittency on the growth of lucky droplets",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2502553123?af=R"
+    },
+    {
       "title": "Overlooked and overexploited: Extensive conversion of grasslands and wetlands driven by global food, feed, and bioenergy demand",
       "journal": "PNAS",
       "date": "",
@@ -623,12 +629,6 @@
       "journal": "PNAS",
       "date": "",
       "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2523891123?af=R"
-    },
-    {
-      "title": "Effects of correlated collisions and intermittency on the growth of lucky droplets",
-      "journal": "PNAS",
-      "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2502553123?af=R"
     },
     {
       "title": "Accelerated north–east shift of the global green wave trajectory",
