@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title": "The world’s salt lakes are drying up, but solutions are hard to come by",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00702-w"
+    },
+    {
+      "title": "Eight common errors I see in PhD applications and interviews, and how to avoid them",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-025-04128-8"
+    },
+    {
+      "title": "How pollutants and poo paint a picture of past civilizations",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00705-7"
+    },
+    {
+      "title": "How fast does a protein fold? Real-time technique captures the moment",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00755-x"
+    },
+    {
+      "title": "How Congress can restore the independence of US science",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00703-9"
+    },
+    {
+      "title": "Daily multivitamin slows signs of biological ageing",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00741-3"
+    },
+    {
+      "title": "My PhD student is stuck. How do I teach them perseverance and problem solving?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00706-6"
+    },
+    {
       "title": "Monthly HIV-drug injections offer potent alternative to daily tablets",
       "journal": "Nature",
       "date": "",
@@ -61,64 +103,22 @@
       "url": "https://www.nature.com/articles/d41586-026-00736-0"
     },
     {
-      "title": "Uncharted: Understanding women’s health across the body",
+      "title": "Uncharted: understanding women’s health across the body",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-00526-8"
+    },
+    {
+      "title": "Daily briefing: How koalas escaped a genetic bottleneck",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00771-x"
     },
     {
       "title": "Cracked, but still there: the glass ceiling persists for senior women in science",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-00355-9"
-    },
-    {
-      "title": "Author Correction: Programmable 200 GOPS Hopfield-inspired photonic Ising machine",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10305-0"
-    },
-    {
-      "title": "The first ‘AI societies’ are taking shape: how human-like are they?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00070-5"
-    },
-    {
-      "title": "These brain cells clear proteins that contribute to Alzheimer’s",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00747-x"
-    },
-    {
-      "title": "Daily briefing: How DNA testing can tell identical twins apart",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00754-y"
-    },
-    {
-      "title": "The Epstein scandal is a wake-up call — new rules are needed on links with rich donors",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00698-3"
-    },
-    {
-      "title": "Identical twins on trial: can DNA testing tell them apart?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00521-z"
-    },
-    {
-      "title": "Inside Mexico’s stem-cell industry",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00533-9"
-    },
-    {
-      "title": "How AI is shaping the war in Iran — and what’s next for future conflicts",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00710-w"
     },
     {
       "title": "CLIM-TIME links genetic cancer drivers to immune landscapes",
@@ -361,6 +361,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aef8451?af=R"
     },
     {
+      "title": "TOLLIP targets GSDME-NT-carrying endocytic vesicles for autophagy to regulate pyroptosis and chemotherapy efficacy",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01902-2"
+    },
+    {
       "title": "Lysine-11 ubiquitination drives type-I/III interferon induction by cGAS–STING and Toll-like receptors 3 and 4",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -401,12 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01918-8"
-    },
-    {
-      "title": "Dynein upsizes under load",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01875-2"
     },
     {
       "title": "Sensitive matters: Sensory nerve regulation of skeletal stem cells in bone marrow",
