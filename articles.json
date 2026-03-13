@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title": "Youthful antics predict lifespan — at least for these fish",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00782-8"
+    },
+    {
+      "title": "No such thing as a shark? Genomes shake up ocean predator’s family tree",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00594-w"
+    },
+    {
+      "title": "‘Einstein‘ bot sharpens debate over AI in the classroom",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00764-w"
+    },
+    {
+      "title": "Reckoning with my ‘ghost years’: why a high publication rate doesn’t always reflect success",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-025-04062-9"
+    },
+    {
+      "title": "‘Baked, not fried’: five highlights from nutrition research",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00598-6"
+    },
+    {
+      "title": "How bioRxiv changed the way biologists share ideas – in numbers",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00709-3"
+    },
+    {
+      "title": "Nervous networker or conference presenter? Just care less, says voice coach Susie Ashfield",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00547-3"
+    },
+    {
       "title": "Author Correction: Gut stem cell necroptosis by genome instability triggers bowel inflammation",
       "journal": "Nature",
       "date": "",
@@ -77,48 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10191-6"
-    },
-    {
-      "title": "Assembly of helper NLR resistosome clusters upon activation of a coiled-coil NLR",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10215-1"
-    },
-    {
-      "title": "A sorghum pangenome reference improves global crop trait discovery",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10229-9"
-    },
-    {
-      "title": "B cell imprinting in children impairs antibodies to the haemagglutinin stalk",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10248-6"
-    },
-    {
-      "title": "Nanophotonic waveguide chip-to-world beam scanning",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-025-10038-6"
-    },
-    {
-      "title": "A big-push community intervention reduced rates of child marriage by 80%",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10206-2"
-    },
-    {
-      "title": "Immune evasive DNA donors and recombinases license kilobase-scale writing",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10241-z"
-    },
-    {
-      "title": "Natural maternal immunity protects neonates from <i>Escherichia coli</i> sepsis",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10225-z"
     },
     {
       "title": "CLIM-TIME links genetic cancer drivers to immune landscapes",
@@ -241,124 +241,124 @@
       "url": "https://www.cell.com/cell/fulltext/S0092-8674(25)01491-6?rss=yes"
     },
     {
-      "title": "Science stories for young readers",
+      "title": "The imminent collapse of the Great Salt Lake",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aef9208?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeg4335?af=R"
     },
     {
-      "title": "Targeting amyloid-β pathology by chimeric antigen receptor astrocyte (CAR-A) therapy",
+      "title": "Antimicrobial resistance in India",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ads3972?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aee7889?af=R"
     },
     {
-      "title": "A small polymerase ribozyme that can synthesize itself and its complementary strand",
+      "title": "Whole-embryo spatial transcriptomics at subcellular resolution from gastrulation to organogenesis",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adt2760?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adt3439?af=R"
     },
     {
-      "title": "A negative feedback loop between TERMINAL FLOWER1 and LEAFY protects inflorescence indeterminacy",
+      "title": "Strong and brittle lithium dendrites",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adv5429?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adu9988?af=R"
     },
     {
-      "title": "Task learning increases information redundancy of neural responses in macaque visual cortex",
+      "title": "Computational design of conformation-biasing mutations to alter protein functions",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adw7707?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adv7953?af=R"
     },
     {
-      "title": "Repeated convergent evolution of bradykinin mimics as defensive toxins",
+      "title": "Seal and sea lion brains have evolved to support volitional control of vocal behavior and learning",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adx0452?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adx9367?af=R"
     },
     {
-      "title": "Climate change will increase forest disturbances in Europe throughout the 21st century",
+      "title": "Ravens anticipate wolf kill sites across broad scales",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adx6329?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adz9467?af=R"
     },
     {
-      "title": "Nanodomain-localized formin gates symbiotic microbial entry in legume and solanaceous plants",
+      "title": "Lifelong behavioral screen reveals an architecture of vertebrate aging",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adx8542?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aea9795?af=R"
     },
     {
-      "title": "Irregular hierarchical-porous polymer for high-performance soft thermoelectrics",
+      "title": "Autophagolysosomal exocytosis inverts Src kinase onto the cell surface in cancer",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adx9237?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec1778?af=R"
     },
     {
-      "title": "Multiple chromosomal inversions modulate continuous local adaptation along a steep thermal cline",
+      "title": "Cancer interception with KRAS inhibitors in preclinical models of pancreatic ductal adenocarcinoma",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ady6774?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec7929?af=R"
     },
     {
-      "title": "Escaping bottlenecks: The demographic path to genetic recovery in koalas (Phascolarctos cinereus)",
+      "title": "Programmable genome editing in human cells using RNA-guided bridge recombinases",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adz1430?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adz1884?af=R"
     },
     {
-      "title": "An unconventional Rubisco small subunit underpins the CO2-concentrating organelle in land plants",
+      "title": "Polymerase trapping as the mechanism of H5 highly pathogenic avian influenza virus genesis",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aea0150?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adr6632?af=R"
     },
     {
-      "title": "Structural modeling reveals phage proteins that manipulate bacterial immune signaling",
+      "title": "Evolutionary adaptation to global change reduces sustainable fisheries yields",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aea1761?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aea1341?af=R"
     },
     {
-      "title": "Democratizing climate change mitigation pathways using modernized stabilization wedges",
+      "title": "Rapid evolution predicts demographic recovery after extreme drought",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adr2118?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adu0995?af=R"
     },
     {
-      "title": "Single intramuscular injection of self-amplifying RNA of Nppa to treat myocardial infarction",
+      "title": "Multistep genomics on single cells and live cultures in subnanoliter capsules",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adu9394?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ady7209?af=R"
     },
     {
-      "title": "Structural basis for the recruitment and selective phosphorylation of Akt by mTORC2",
+      "title": "High-throughput single-cell omics using semipermeable capsules",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adv7111?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ady7227?af=R"
     },
     {
-      "title": "Inhibition of 15-hydroxy prostaglandin dehydrogenase promotes cartilage regeneration",
+      "title": "Megabase-scale human genome rearrangement with programmable bridge recombinases",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adx6649?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adz0276?af=R"
     },
     {
-      "title": "Planting a seed",
+      "title": "A global screen for magnetically induced neuronal activity in the pigeon brain",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeg8184?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aea6425?af=R"
+    },
+    {
+      "title": "My new apprentice",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh0163?af=R"
     },
     {
       "title": "In Other Journals",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeg8838?af=R"
-    },
-    {
-      "title": "Astrocytes engineered to fight Alzheimer’s plaques",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aef8451?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh0793?af=R"
     },
     {
       "title": "Fat bolsters tumours against ferroptosis",
