@@ -1,10 +1,58 @@
 {
   "items": [
     {
+      "title": "Top brass in China reaffirm goal to be world leaders in tech, AI",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00814-3"
+    },
+    {
+      "title": "Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10376-z"
+    },
+    {
+      "title": "Polymers with purpose: molecules can squirm free of the pack",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00767-7"
+    },
+    {
+      "title": "Briefing chat: ‘Can it run <i>Doom</i>?’ — why scientists got brain cells and a satellite to play the classic game",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00845-w"
+    },
+    {
+      "title": "How the classic computer game <i>Doom</i> became a tool for science",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00813-4"
+    },
+    {
+      "title": "‘RAMmageddon’ hits labs: AI-driven memory shortage is impacting science",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00844-x"
+    },
+    {
+      "title": "The problem with Canada’s plan to buy scientific prestige",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00743-1"
+    },
+    {
       "title": "Youthful antics predict lifespan — at least for these fish",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-00782-8"
+    },
+    {
+      "title": "Daily briefing: Vaccine-carrying mosquitoes could inoculate bats against rabies",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00825-0"
     },
     {
       "title": "No such thing as a shark? Genomes shake up ocean predator’s family tree",
@@ -19,7 +67,7 @@
       "url": "https://www.nature.com/articles/d41586-026-00764-w"
     },
     {
-      "title": "Reckoning with my ‘ghost years’: why a high publication rate doesn’t always reflect success",
+      "title": "Reckoning with my ‘ghost years’: why a low publication rate doesn’t always reflect failure",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-025-04062-9"
@@ -37,7 +85,7 @@
       "url": "https://www.nature.com/articles/d41586-026-00709-3"
     },
     {
-      "title": "Nervous networker or conference presenter? Just care less, says voice coach Susie Ashfield",
+      "title": "Nervous networker or conference presenter? Just care less, says speech coach Susie Ashfield",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-00547-3"
@@ -71,54 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10183-6"
-    },
-    {
-      "title": "Capturing dynamic phage–pathogen coevolution by clinical surveillance",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10136-z"
-    },
-    {
-      "title": "Multidimensional profiling of heterogeneity in supratentorial ependymomas",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10214-2"
-    },
-    {
-      "title": "Structures of Marburgvirus glycoprotein and its complex with NPC1 receptor",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10240-0"
-    },
-    {
-      "title": "Multimodal electron microscopy of halide perovskite interfacial dynamics",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10238-8"
-    },
-    {
-      "title": "Lense–Thirring precessing magnetar engine drives a superluminous supernova",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10151-0"
-    },
-    {
-      "title": "Facile induction of immune tolerance by an interleukin-2–TGFβ surrogate agonist",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10208-0"
-    },
-    {
-      "title": "Snapshots of the dynamic basis of NTSR1 G protein subtype promiscuity",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10120-7"
-    },
-    {
-      "title": "Intestinal interoceptive dysfunction drives age-associated cognitive decline",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10191-6"
     },
     {
       "title": "CLIM-TIME links genetic cancer drivers to immune landscapes",
@@ -361,6 +361,42 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aeh0793?af=R"
     },
     {
+      "title": "Of rigor and outreach, and practicing what we teach",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01914-y"
+    },
+    {
+      "title": "Emerging mechanisms of genome degradation during the mtDNA life cycle",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01903-1"
+    },
+    {
+      "title": "An SP110–SP100 axis is a critical regulator of promyelocytic leukaemia body dynamics and mitotic fidelity",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01916-w"
+    },
+    {
+      "title": "Time-resolved functional genomics using deep learning reveals global hierarchical control of autophagy",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-025-01837-0"
+    },
+    {
+      "title": "Riboflavin metabolism shapes FSP1-driven ferroptosis resistance",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-025-01856-x"
+    },
+    {
+      "title": "Palmitoylation-mediated regulation of KAT2A promotes lung metastasis in breast cancer",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01913-z"
+    },
+    {
       "title": "Fat bolsters tumours against ferroptosis",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -371,42 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01907-x"
-    },
-    {
-      "title": "TOLLIP targets GSDME-NT-carrying endocytic vesicles for autophagy to regulate pyroptosis and chemotherapy efficacy",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01902-2"
-    },
-    {
-      "title": "Lysine-11 ubiquitination drives type-I/III interferon induction by cGAS–STING and Toll-like receptors 3 and 4",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01886-z"
-    },
-    {
-      "title": "The lncRNA DAMER selectively guides m<sup>6</sup>A-dependent regulation of ATF4 and asparagine metabolism under nutrient stress in cancer",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01905-z"
-    },
-    {
-      "title": "Lipid droplets meet mitochondria at the MIM protein insertase",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01901-3"
-    },
-    {
-      "title": "Acidic niche sugar shield blocks ferroptosis",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01899-8"
-    },
-    {
-      "title": "<i>N</i><sup>6</sup>-adenosine methylation enhances nuclear mRNA export through METTL3 and NUP93",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01882-3"
     },
     {
       "title": "Nitrogen regulates flowering through FKF1 condensate dynamics",
@@ -793,10 +793,28 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea7319?af=R"
     },
     {
+      "title": "Microrobotic copper-rich electrochemical interfacing for targeted cancer theranostics in the gut",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb5934?af=R"
+    },
+    {
       "title": "Electroactive interface–enhanced dielectric elastomer with ultrahigh electroadhesion and multifunctional droplet actuation",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3342?af=R"
+    },
+    {
+      "title": "0.33g mitigates muscle atrophy while 0.67g preserves muscle function and myofiber type composition in mice during spaceflight",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed2258?af=R"
+    },
+    {
+      "title": "Life histories of straight-tusked elephants from the Last Interglacial Neanderthal site of Neumark-Nord (~125 ka)",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz0114?af=R"
     },
     {
       "title": "Enhancing plant antiviral responses and productivity through the elimination of m5C methyltransferase",
@@ -811,34 +829,16 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2066?af=R"
     },
     {
+      "title": "Modifying meiotic recombination by targeting chromatin regulators to crossover hotspots in Arabidopsis",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2890?af=R"
+    },
+    {
       "title": "Reduced MGE burden, virulence optimization, and acid stress tolerance shape the clonal succession of MRSA ST59",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb3121?af=R"
-    },
-    {
-      "title": "Ecological vaccination: A strategy to prevent zoonotic spillover from bats",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0269?af=R"
-    },
-    {
-      "title": "miR-203 facilitates timely cell fate transitions via epigenetic modulation during early embryogenesis",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adr1776?af=R"
-    },
-    {
-      "title": "The emerging human fingerprint on global extreme fire weather",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adx9845?af=R"
-    },
-    {
-      "title": "Specific ion effects on ion transport in charged polymer membranes",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adx1214?af=R"
     }
   ]
 }
