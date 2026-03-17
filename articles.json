@@ -1,7 +1,61 @@
 {
   "items": [
     {
-      "title": "Top brass in China reaffirm goal to be world leaders in tech, AI",
+      "title": "Direct conversion from alkenes to alkynes",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10372-3"
+    },
+    {
+      "title": "A single course of antibiotics can cause lingering changes in gut microbes",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00769-5"
+    },
+    {
+      "title": "Insulin resistance prediction from wearables and routine blood biomarkers",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10179-2"
+    },
+    {
+      "title": "AI and the PhD student: friend or foe?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00843-y"
+    },
+    {
+      "title": "The real story behind China’s technology triumph",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00841-0"
+    },
+    {
+      "title": "PhD students are turning to side hustles to make ends meet, finds <i>Nature</i> poll",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00422-1"
+    },
+    {
+      "title": "China approves brain chip to treat paralysis — a world first",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00849-6"
+    },
+    {
+      "title": "Data from smart watches reveal early signs of insulin resistance",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00380-8"
+    },
+    {
+      "title": "Can AI models reliably forecast extreme weather events?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00842-z"
+    },
+    {
+      "title": "China intensifies push to become world leader in tech and AI",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-00814-3"
@@ -43,6 +97,12 @@
       "url": "https://www.nature.com/articles/d41586-026-00743-1"
     },
     {
+      "title": "Daily briefing: Genomes shake up the shark family tree",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00859-4"
+    },
+    {
       "title": "Youthful antics predict lifespan — at least for these fish",
       "journal": "Nature",
       "date": "",
@@ -59,66 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-00594-w"
-    },
-    {
-      "title": "‘Einstein‘ bot sharpens debate over AI in the classroom",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00764-w"
-    },
-    {
-      "title": "Reckoning with my ‘ghost years’: why a low publication rate doesn’t always reflect failure",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-025-04062-9"
-    },
-    {
-      "title": "‘Baked, not fried’: five highlights from nutrition research",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00598-6"
-    },
-    {
-      "title": "How bioRxiv changed the way biologists share ideas – in numbers",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00709-3"
-    },
-    {
-      "title": "Nervous networker or conference presenter? Just care less, says speech coach Susie Ashfield",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00547-3"
-    },
-    {
-      "title": "Author Correction: Gut stem cell necroptosis by genome instability triggers bowel inflammation",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10302-3"
-    },
-    {
-      "title": "This supernova is too bright – now astronomers might know why",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00801-8"
-    },
-    {
-      "title": "This fish shouldn’t exist — the weird genetics of clonal vertebrates",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00798-0"
-    },
-    {
-      "title": "The dynamic basis of G-protein recognition and activation by a GPCR",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10228-w"
-    },
-    {
-      "title": "A large-scale coherent 4D imaging sensor",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10183-6"
     },
     {
       "title": "CLIM-TIME links genetic cancer drivers to immune landscapes",
@@ -253,12 +253,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aee7889?af=R"
     },
     {
-      "title": "Whole-embryo spatial transcriptomics at subcellular resolution from gastrulation to organogenesis",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adt3439?af=R"
-    },
-    {
       "title": "Strong and brittle lithium dendrites",
       "journal": "Science",
       "date": "",
@@ -325,6 +319,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.adu0995?af=R"
     },
     {
+      "title": "Whole-embryo spatial transcriptomics at subcellular resolution from gastrulation to organogenesis",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.adt3439?af=R"
+    },
+    {
       "title": "Multistep genomics on single cells and live cultures in subnanoliter capsules",
       "journal": "Science",
       "date": "",
@@ -359,6 +359,12 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aeh0793?af=R"
+    },
+    {
+      "title": "Fructose-1,6-bisphosphate couples glycolytic activity to cell adhesion",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01911-1"
     },
     {
       "title": "Of rigor and outreach, and practicing what we teach",
@@ -401,12 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01904-0"
-    },
-    {
-      "title": "Peritumoural adipose tissue promotes ferroptosis resistance by 3-hydroxykynurenine-mediated suppression of ferritinophagy",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01907-x"
     },
     {
       "title": "Nitrogen regulates flowering through FKF1 condensate dynamics",
