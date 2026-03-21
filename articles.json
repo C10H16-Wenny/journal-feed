@@ -1,10 +1,64 @@
 {
   "items": [
     {
+      "title": "Author Correction: A PP1–PP2A phosphatase relay controls mitotic progression",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10411-z"
+    },
+    {
       "title": "Chemical pollutants are rife across the world’s oceans",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-00850-z"
+    },
+    {
+      "title": "Mighty mini-magnet is low in cost and light on energy use",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00851-y"
+    },
+    {
+      "title": "Briefing Chat: Are scientists funny? The evidence is in — and it's no joke",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00937-7"
+    },
+    {
+      "title": "Elusive ‘nuclear clocks’ tick closer to reality — after decades in the making",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00848-7"
+    },
+    {
+      "title": "‘Unaffordable’ visa price hike threatens Australia’s researcher pipeline",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00822-3"
+    },
+    {
+      "title": "Lab-grown oesophagus restores pigs’ ability to swallow",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00936-8"
+    },
+    {
+      "title": "I paused my PhD for 11 years to help save Madagascar’s seas",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00401-6"
+    },
+    {
+      "title": "The mid-career reset: how to be strategic about your research direction",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-025-04077-2"
+    },
+    {
+      "title": "Paul R. Ehrlich obituary: pioneering ecologist who caused controversy by predicting a ‘population bomb’",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00939-5"
     },
     {
       "title": "Editorial Expression of Concern: A FADD-dependent innate immune mechanism in mammalian cells",
@@ -25,7 +79,7 @@
       "url": "https://www.nature.com/articles/d41586-026-00852-x"
     },
     {
-      "title": "Stress can cause eczema to flare-up – now we know why",
+      "title": "Stress can cause eczema to flare up – now we know why",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-00876-3"
@@ -65,60 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-00819-y"
-    },
-    {
-      "title": "Masked mitochondria slip into cells to treat disease in mice",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00869-2"
-    },
-    {
-      "title": "Author Correction: Autoimmune response to C9orf72 protein in amyotrophic lateral sclerosis",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10388-9"
-    },
-    {
-      "title": "Publisher Correction: Atlas-guided discovery of transcription factors for T cell programming",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10382-1"
-    },
-    {
-      "title": "Botanical mystery solved: how plants make a crucial malaria drug",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00891-4"
-    },
-    {
-      "title": "Integrated memristor for mitigating reverse-bias in perovskite solar cells",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10275-3"
-    },
-    {
-      "title": "Magnetic resonance control of spin-correlated radical pair dynamics in vivo",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10282-4"
-    },
-    {
-      "title": "In vivo site-specific engineering to reprogram T cells",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10235-x"
-    },
-    {
-      "title": "Synthetic circuits for cell ratio control",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10259-3"
-    },
-    {
-      "title": "Observing the tidal pulse of rivers from wide-swath satellite altimetry",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10287-z"
     },
     {
       "title": "RNA modifications in gene regulation: Functions and pathways",
@@ -331,6 +331,18 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aeh2594?af=R"
     },
     {
+      "title": "Seeing lipids where they live",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01919-7"
+    },
+    {
+      "title": "Visualizing suborganellar lipid distribution using correlative light and electron microscopy",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01915-x"
+    },
+    {
       "title": "Paraspeckle condensation is controlled via TDP-43 polymerization and linked to neuroprotection",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -365,18 +377,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01916-w"
-    },
-    {
-      "title": "Time-resolved functional genomics using deep learning reveals global hierarchical control of autophagy",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-025-01837-0"
-    },
-    {
-      "title": "Riboflavin metabolism shapes FSP1-driven ferroptosis resistance",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-025-01856-x"
     },
     {
       "title": "Nitrogen regulates flowering through FKF1 condensate dynamics",
@@ -727,6 +727,42 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adl2368?af=R"
     },
     {
+      "title": "Sugarcane streak mosaic virus P1 protein targets the BES1 transcription factor to subvert DAMP-triggered immunity in plant",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adr9432?af=R"
+    },
+    {
+      "title": "Stable vortices in the anomalous metallic state observed on monoatomic-layer superconductors",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adu9610?af=R"
+    },
+    {
+      "title": "Conformational dynamics of SARS-CoV-2 spike on a membrane reveals the allosteric effects of furin cleavage and the D614G mutation",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adx5178?af=R"
+    },
+    {
+      "title": "Lysosomal down-regulation of the mu opioid receptor is opposed by the Retromer complex",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adx8715?af=R"
+    },
+    {
+      "title": "Regulation of sodium/calcium homeostasis by BacNav gene therapy rescues cardiac dysfunction in chronic heart failure",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady4551?af=R"
+    },
+    {
+      "title": "Bacterial enzyme-responsive hydrogels for triggered delivery of antibiotics to infected wounds",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz0786?af=R"
+    },
+    {
       "title": "Evidence for chronological diversification of spinal neuron subtypes by a shared sequence of transcription factors",
       "journal": "Science Advances",
       "date": "",
@@ -737,6 +773,12 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz5621?af=R"
+    },
+    {
+      "title": "Caspase-3/7 deficiency results in enhanced intestinal inflammation and reduced tumorigenesis",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz5906?af=R"
     },
     {
       "title": "Ground penetrating radar observations of ancient large-scale deltaic structures in Jezero crater, Mars",
@@ -763,10 +805,22 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz7615?af=R"
     },
     {
+      "title": "Protein overabundance is driven by growth robustness",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz9623?af=R"
+    },
+    {
       "title": "KLF5 controls subtype-independent highly interactive enhancers in pancreatic cancer to regulate cell survival",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea2106?af=R"
+    },
+    {
+      "title": "Extreme precipitation reshapes nutrient flows and balance in North America’s largest river basin",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea3260?af=R"
     },
     {
       "title": "Synergistic electronic-topological strategy enables spatiotemporal control of covalent adaptable networks",
@@ -779,60 +833,6 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea6832?af=R"
-    },
-    {
-      "title": "Self-inactivating AAV-CRISPR at different ages enables sustained amelioration of Huntington’s disease deficits in BAC226Q mice",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea8052?af=R"
-    },
-    {
-      "title": "Uncovering piezoelectric effect in polycrystalline diamond membranes",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea8318?af=R"
-    },
-    {
-      "title": "All-solution-processed scalable and wearable organic thermoelectrics by structurally mimicking transverse thermoelectric effects",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea9094?af=R"
-    },
-    {
-      "title": "Jagged1 regulates extracellular matrix deposition and remodeling in triple-negative breast cancer",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea9562?af=R"
-    },
-    {
-      "title": "Bioelectronic synthesis of hydrogen sulfide enables spatiotemporal regulation of protein modification and cellular redox",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb3401?af=R"
-    },
-    {
-      "title": "In situ creation of crystalline channels in ultrathin network polymer membranes for pressurized H2/CO2 separation",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb4957?af=R"
-    },
-    {
-      "title": "The distribution of power and inclusiveness across deep time",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec1426?af=R"
-    },
-    {
-      "title": "A nature-inspired ion trap for parallel manipulation of ions on a massive scale",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec7048?af=R"
-    },
-    {
-      "title": "Insights into the structure and evolution of the human SAGA complex by affinity-ligand purification",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec8104?af=R"
     }
   ]
 }
