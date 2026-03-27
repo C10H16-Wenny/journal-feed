@@ -1,10 +1,40 @@
 {
   "items": [
     {
+      "title": "Huge lung-cancer screening campaign boosts early diagnosis",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00954-6"
+    },
+    {
+      "title": "Sunken Soviet nuclear submarine’s radioactive release",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00953-7"
+    },
+    {
       "title": "History of ‘forever’ chemicals is written in Antarctic snow",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-00867-4"
+    },
+    {
+      "title": "Chats with sycophantic AI make you less kind to others",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00979-x"
+    },
+    {
+      "title": "Trump’s new science advisers include 12 technology chiefs — and one academic",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00977-z"
+    },
+    {
+      "title": "Why labs need a napping room to help you work, rest and play",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00549-1"
     },
     {
       "title": "Retraction Note: Multisensory learning binds neurons into a cross-modal memory engram",
@@ -89,36 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10231-1"
-    },
-    {
-      "title": "Androgen activity in the male embryonic hindbrain drives lethal PFA ependymoma",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10264-6"
-    },
-    {
-      "title": "The DNA virome varies with human genes and environments",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10288-y"
-    },
-    {
-      "title": "Rapid concerted switching of the neural code in the inferotemporal cortex",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10267-3"
-    },
-    {
-      "title": "Structural basis of supercoiling-induced CRISPR–Cas9 off-target activity",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10255-7"
-    },
-    {
-      "title": "Dogs were widely distributed across western Eurasia during the Palaeolithic",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10170-x"
     },
     {
       "title": "RNA modifications in gene regulation: Functions and pathways",
@@ -211,124 +211,124 @@
       "url": "https://www.cell.com/cell/fulltext/S0092-8674(26)00054-1?rss=yes"
     },
     {
-      "title": "Self-serving “tweaks” hurt science",
+      "title": "When disease resists diagnosis",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aef2215?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef7086?af=R"
     },
     {
-      "title": "Genes enter the garden of good and evil",
+      "title": "An out of this world buddy movie",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aef2245?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeg6276?af=R"
     },
     {
-      "title": "Commensal-driven serotonin production modulates in vivo delivery of synthetic and viral vectors",
+      "title": "Family single-cell atlases reveal pig pregnancy and fetal growth restriction critical cell types",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adu7686?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adu7265?af=R"
     },
     {
-      "title": "Resetting of a tandem microRNA156 enables vegetative perennial growth in rice",
+      "title": "Chromatin buffers torsional stress during transcription",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adv2188?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adv0134?af=R"
     },
     {
-      "title": "Paleomagnetic detection of relative plate motions and an infrequently reversing core dynamo at 3.5 Ga",
+      "title": "Population genomics of Anopheles darlingi, the principal South American malaria vector mosquito",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adw9250?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adw9761?af=R"
     },
     {
-      "title": "Overcoming T cell tolerance to tumor self-antigens through catch-bond engineering",
+      "title": "Cooperation by non-kin during birth underpins sperm whale social complexity",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adx3162?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ady9280?af=R"
     },
     {
-      "title": "Host-derived nitrate fuels indole production by Escherichia coli to drive chronic kidney disease progression",
+      "title": "Rapid adaptation and extinction in synchronized outdoor evolution experiments of Arabidopsis",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ady5217?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adz0777?af=R"
     },
     {
-      "title": "Humans share acoustic preferences with other animals",
+      "title": "An Early Miocene ape from the biogeographic crossroads of African and Eurasian Hominoidea",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aea1202?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adz4102?af=R"
     },
     {
-      "title": "Cross- and branched-selective hydroalkenylation by metal hydride selection",
+      "title": "Cryo–electron microscopy structure of the budding yeast telomerase holoenzyme",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeb2389?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adz5344?af=R"
     },
     {
-      "title": "From chronic pain to depression: Neurogenesis-driven microglial remodeling in the hippocampal dentate gyrus",
+      "title": "Distinctive DNA sequence features define epigenetic longevity of inflammatory memory",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aee6177?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adz6830?af=R"
     },
     {
-      "title": "Highly efficient, deep-ultraviolet luminescence in hBN moiré quantum wells",
+      "title": "Structure and organization of AMPA receptor-TARP complexes in the mammalian cerebellum",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeb2095?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeb3577?af=R"
     },
     {
-      "title": "Live-cell single-molecule dynamics of eukaryotic RNA polymerase machineries",
+      "title": "SWOT detects dispersive tsunami tied to a near-trench source in the 2025 Kamchatka earthquake",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ads0960?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeb8634?af=R"
     },
     {
-      "title": "Hypothalamic clock governs circadian pain",
+      "title": "Experimental evidence of a liquid-liquid critical point in supercooled water",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ady6455?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec0018?af=R"
     },
     {
-      "title": "A mid-Holocene age for Monte Verde challenges the timeline of human colonization of South America",
+      "title": "High-dimensional topological photonic entanglement",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adw9217?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec1344?af=R"
     },
     {
-      "title": "A sympathetic-eosinophil axis orchestrates psychological stress to exacerbate skin inflammation",
+      "title": "Thalamic activation of the visual cortex at the single-synapse level",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adv5974?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec9923?af=R"
     },
     {
-      "title": "Higher carbon storage in primary than secondary boreal forests in Sweden",
+      "title": "Sycophantic AI decreases prosocial intentions and promotes dependence",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adz8554?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec8352?af=R"
     },
     {
-      "title": "Spatial and morphological organization of mitochondria in neurons across a connectome",
+      "title": "A genetically encoded device for transcriptome storage in mammalian cells",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ads6674?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adz9353?af=R"
     },
     {
-      "title": "Global cases of groundwater recovery after interventions",
+      "title": "Systems-level organization of extracellular proteostasis",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adu1370?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aed3712?af=R"
     },
     {
-      "title": "When science becomes personal",
+      "title": "My lesson in teaching",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeh2025?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh3849?af=R"
     },
     {
       "title": "In Other Journals",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeh2594?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh4464?af=R"
     },
     {
       "title": "Active size control of condensates by a kinase-based mechanism",
