@@ -7,16 +7,46 @@
       "url": "https://www.nature.com/articles/d41586-026-00954-6"
     },
     {
+      "title": "Giants of the deep and the wonder of space: Books in Brief",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00995-x"
+    },
+    {
       "title": "Sunken Soviet nuclear submarine’s radioactive release",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-00953-7"
     },
     {
+      "title": "Briefing Chat: ‘Zombie cells’ resurrected with new genes",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00996-w"
+    },
+    {
+      "title": "Motherhood derails women’s academic careers — these data reveal how and why",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00981-3"
+    },
+    {
+      "title": "Eye drops made from pig semen deliver cancer treatment to mice",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00982-2"
+    },
+    {
       "title": "History of ‘forever’ chemicals is written in Antarctic snow",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-00867-4"
+    },
+    {
+      "title": "Daily briefing: Earliest known dog genome pushes genetic record back 5,000 years",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00992-0"
     },
     {
       "title": "Chats with sycophantic AI make you less kind to others",
@@ -89,36 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10221-3"
-    },
-    {
-      "title": "Aversive learning hijacks a brain sugar sensor to consolidate memory",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10306-z"
-    },
-    {
-      "title": "Inactivating <i>SnRK1β1A</i> promotes broad-spectrum disease resistance in rice",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10273-5"
-    },
-    {
-      "title": "Topological soliton frequency comb in nanophotonic lithium niobate",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10292-2"
-    },
-    {
-      "title": "Structural energetics of cold sensitivity",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10276-2"
-    },
-    {
-      "title": "A fast starburst wind consumes most of the energy from supernovae",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10231-1"
     },
     {
       "title": "RNA modifications in gene regulation: Functions and pathways",
@@ -331,6 +331,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aeh4464?af=R"
     },
     {
+      "title": "An EGFR co-amplified lncRNA HELDR promotes glioblastoma malignancy through KAT7-driven gene programs",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01924-w"
+    },
+    {
       "title": "Active size control of condensates by a kinase-based mechanism",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -371,12 +377,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01911-1"
-    },
-    {
-      "title": "Of rigor and outreach, and practicing what we teach",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01914-y"
     },
     {
       "title": "Nitrogen regulates flowering through FKF1 condensate dynamics",
@@ -715,10 +715,34 @@
       "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00102-4?rss=yes"
     },
     {
+      "title": "One-component ionizable amphiphilic Janus dendrimers as a delivery platform for efficient mRNA vaccine development",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adv1554?af=R"
+    },
+    {
       "title": "A galactic cosmic ray cavity in Earth-Moon space",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adv1908?af=R"
+    },
+    {
+      "title": "Harnessing semen-derived exosomes for noninvasive fundus drug delivery: A paradigm for exosome-based ocular fundus therapeutics",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adw7275?af=R"
+    },
+    {
+      "title": "Targeted intracellular oral RNA delivery through tea polyphenol nanovesicle to outer membrane vesicle transfer for colitis treatment",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adx8336?af=R"
+    },
+    {
+      "title": "Toward ultimate NMR resolution with deep learning",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady7995?af=R"
     },
     {
       "title": "Altered morphology and diffusivity of water confined in MXenes: Machine learning–accelerated computations combined with experiments",
@@ -727,10 +751,28 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz1780?af=R"
     },
     {
+      "title": "Scalable Ising machine composed entirely of Si transistors",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz2384?af=R"
+    },
+    {
+      "title": "GraFT: A robust network-based spatiotemporal analysis of filamentous structures",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz4132?af=R"
+    },
+    {
       "title": "Seismic rhythms: Earthquake response to tectonic, hydrological, and tidal forcing in California",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz5711?af=R"
+    },
+    {
+      "title": "Unraveling branch point–driven SR45a splicing dynamics in heat stress for plant adaptation",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz7859?af=R"
     },
     {
       "title": "Quantifying urban and landfill methane emissions in the United States using TROPOMI satellite data",
@@ -751,6 +793,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea2112?af=R"
     },
     {
+      "title": "EnvZ/OmpR-driven cooperative behavior promotes cefiderocol resistance in a hanging-droplet evolution system",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea4527?af=R"
+    },
+    {
       "title": "Sequential formation of Drosophila circuit asymmetry via prolonged structural plasticity",
       "journal": "Science Advances",
       "date": "",
@@ -769,70 +817,22 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea8233?af=R"
     },
     {
+      "title": "Primary human intestinal organoids model enteric infection of monkeypox virus and enable scalable drug discovery",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea8280?af=R"
+    },
+    {
+      "title": "A small-molecule stabilizer of the calpastatin–calpain-2 complex restores mitochondrial function and mitigates neurodegeneration",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1174?af=R"
+    },
+    {
       "title": "Pixelated electrically reconfigurable metasurfaces for intelligent thermal emission control",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2016?af=R"
-    },
-    {
-      "title": "PRISM: A unified platform for phage isolation and characterization from single-droplet microenvironments",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2362?af=R"
-    },
-    {
-      "title": "Comparative proteomic profiling of receptor kinase signaling reveals key trafficking components enforcing plant stomatal development",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb6464?af=R"
-    },
-    {
-      "title": "Mechanistic insights into the therapeutic properties of delta opioid receptor",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb6737?af=R"
-    },
-    {
-      "title": "The GAPLESS-OsCASP complex mediates Casparian strip formation for proper localization and abundance of endodermal proteins in rice",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb7840?af=R"
-    },
-    {
-      "title": "Public opinion on police misconduct: Discrimination and information resistance",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb9501?af=R"
-    },
-    {
-      "title": "Nanoscale coherent chemical fluctuations driving superior thermoelectric performance in vacancy-tailored ductile AgCu(S,Se,Te)",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0728?af=R"
-    },
-    {
-      "title": "Pathogenic GM-CSF drives functional diversification of inflammatory macrophages in autoimmune arthritis",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0986?af=R"
-    },
-    {
-      "title": "Artificial embryonic node elucidates the role of flow in left-right symmetry breaking in vertebrates",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec2328?af=R"
-    },
-    {
-      "title": "Engineering low-symmetry colloidal crystals with optical anisotropies",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec7382?af=R"
-    },
-    {
-      "title": "Blood feeding triggers the terminal differentiation of precursor cells in tick salivary glands",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec7620?af=R"
     }
   ]
 }
