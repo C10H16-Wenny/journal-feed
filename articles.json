@@ -817,12 +817,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea8233?af=R"
     },
     {
-      "title": "Primary human intestinal organoids model enteric infection of monkeypox virus and enable scalable drug discovery",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea8280?af=R"
-    },
-    {
       "title": "A small-molecule stabilizer of the calpastatin–calpain-2 complex restores mitochondrial function and mitigates neurodegeneration",
       "journal": "Science Advances",
       "date": "",
@@ -833,6 +827,12 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2016?af=R"
+    },
+    {
+      "title": "PRISM: A unified platform for phage isolation and characterization from single-droplet microenvironments",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2362?af=R"
     }
   ]
 }
