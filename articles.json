@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "title": "Static electricity is a mystery but invisible carbon may be key",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01012-x"
+    },
+    {
+      "title": "Why I made a river my co-author",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00973-3"
+    },
+    {
+      "title": "How buildings and cities can be aligned with life",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00971-5"
+    },
+    {
+      "title": "Inside the ‘self-driving’ lab revolution",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00974-2"
+    },
+    {
+      "title": "Countdown to Artemis: is NASA’s Moon mission the dawn of a new space age?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00998-8"
+    },
+    {
+      "title": "Anthony Leggett obituary: physicist who brought quantum theory to the macro world",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01010-z"
+    },
+    {
+      "title": "Now is the time for scientific societies to guide global research",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-025-04155-5"
+    },
+    {
+      "title": "Quantum simulations verified by experiments for the first time",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00959-1"
+    },
+    {
+      "title": "Dawkins’s paradox: dissecting the body’s battle to keep selfish genes in check",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00970-6"
+    },
+    {
       "title": "Huge lung-cancer screening campaign boosts early diagnosis",
       "journal": "Nature",
       "date": "",
@@ -65,60 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-00549-1"
-    },
-    {
-      "title": "Retraction Note: Multisensory learning binds neurons into a cross-modal memory engram",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10355-4"
-    },
-    {
-      "title": "Why insects aren't huge: a new challenge to a decades-old idea",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00976-0"
-    },
-    {
-      "title": "Can China keep up its extraordinary research growth?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00423-0"
-    },
-    {
-      "title": "Genomic history of early dogs in Europe",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10112-7"
-    },
-    {
-      "title": "Dominant clones leverage developmental epigenomic states to drive ependymoma",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10270-8"
-    },
-    {
-      "title": "Ectopic NMDAR expression in cancer unmasks germline-encoded autoimmunity",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10278-0"
-    },
-    {
-      "title": "Exposed phosphatidylserine is an&#xa0;inhibitory molecule in T cell exhaustion",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10266-4"
-    },
-    {
-      "title": "Functional hierarchy of the human neocortex across the lifespan",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10219-x"
-    },
-    {
-      "title": "Towards intelligent and miniaturized drug delivery devices",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10221-3"
     },
     {
       "title": "RNA modifications in gene regulation: Functions and pathways",
@@ -331,6 +331,18 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aeh4464?af=R"
     },
     {
+      "title": "Linking TDP-43-regulated paraspeckle condensation to neuroprotection",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01932-w"
+    },
+    {
+      "title": "Reinvigorating COTL1<sup>high</sup> NK cells via GITR signalling overcomes immune checkpoint blockade resistance in tsMHC-I-impaired tumours",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01925-9"
+    },
+    {
       "title": "An EGFR co-amplified lncRNA HELDR promotes glioblastoma malignancy through KAT7-driven gene programs",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -365,18 +377,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01895-y"
-    },
-    {
-      "title": "Kinase KEY1 controls pyrenoid condensate size throughout the cell cycle by disrupting phase separation interactions",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01908-w"
-    },
-    {
-      "title": "Fructose-1,6-bisphosphate couples glycolytic activity to cell adhesion",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01911-1"
     },
     {
       "title": "Nitrogen regulates flowering through FKF1 condensate dynamics",
@@ -781,12 +781,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz9308?af=R"
     },
     {
-      "title": "CLOCK-catalyzed histone H3K37 glutarylation suppresses H3K36 trimethylation pathways in glioblastoma",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea1127?af=R"
-    },
-    {
       "title": "Microtubules guide Aurora B substrate geometries for accurate chromosome segregation",
       "journal": "Science Advances",
       "date": "",
@@ -833,6 +827,12 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2362?af=R"
+    },
+    {
+      "title": "Clinically relevant stereochemistry reprograms amyloid proteome for aggregation cross-talk–conferred neuroprotection",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2729?af=R"
     }
   ]
 }
