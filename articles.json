@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "Massive budget cuts for US science proposed again by Trump administration",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01105-7"
+    },
+    {
       "title": "Regular physical activity in midlife cuts risk of early death",
       "journal": "Nature",
       "date": "",
@@ -113,12 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10301-4"
-    },
-    {
-      "title": "A µ-opioid receptor superagonist analgesic with minimal adverse effects",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10299-9"
     },
     {
       "title": "Atomic unification in molecular AI",
@@ -361,6 +361,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.adr7162?af=R"
     },
     {
+      "title": "Aberrant amino acid-sensing promotes immunotherapy resistance via the inflammatory cytokine–ZBTB5–mTORC1 axis",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01926-8"
+    },
+    {
       "title": "Mosaic gastruloids reveal a temporal restriction for developmental cell competition",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -401,12 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01912-0"
-    },
-    {
-      "title": "Seeing lipids where they live",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01919-7"
     },
     {
       "title": "Nitrogen regulates flowering through FKF1 condensate dynamics",
@@ -745,10 +745,28 @@
       "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00160-7?rss=yes"
     },
     {
+      "title": "Lattice softening and diffusive dynamics in the polar metal LiReO3",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adt3886?af=R"
+    },
+    {
       "title": "Massive wildfires followed oceanic anoxic events during the Late Devonian Frasnian-Famennian mass extinction",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady4534?af=R"
+    },
+    {
+      "title": "Hemostatic B-knob–triggered microgels (BK-TriGs) to address bleeding in neonates",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady7698?af=R"
+    },
+    {
+      "title": "Global mapping of disaggregated international trade-linked transportation CO2 emissions",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz1670?af=R"
     },
     {
       "title": "Copper deficiency impairs oligodendrocyte maturation and social behavior via mitophagy and mTOR suppression in ASD",
@@ -757,10 +775,40 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz3398?af=R"
     },
     {
+      "title": "Pupil-linked arousal heterogeneously modulates cell-type–specific sensory processing",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz6495?af=R"
+    },
+    {
       "title": "Abrupt eruptive instability of ice adhered to solid surfaces",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz8663?af=R"
+    },
+    {
+      "title": "Rising flood risks in semiarid South Asia driven by changing intraseasonal oscillations under global warming",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea0082?af=R"
+    },
+    {
+      "title": "Structural insights into the mechanism underpinning iron piracy in pathogenic Neisseria",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea2470?af=R"
+    },
+    {
+      "title": "Nuclear translocation of β-catenin in Wg/Wnt signaling via the IFT-A microtubule–associated complex requires Pasovec/Gid8 proteins",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea3382?af=R"
+    },
+    {
+      "title": "Posttranscriptional reprogramming controls MASLD progression through chronic ER stress adaptation",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea4125?af=R"
     },
     {
       "title": "Inflammatory arthritis irAE may represent a unique autoimmune disease primarily driven by T cells but likely not autoantibodies",
@@ -769,10 +817,28 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea4262?af=R"
     },
     {
+      "title": "The longevity effects of reduced IGF-1 signaling depend on the stability of the mitochondrial genome",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea4279?af=R"
+    },
+    {
       "title": "Focusing on color: How the eye chooses which wavelength to see best",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea5693?af=R"
+    },
+    {
+      "title": "A stromal PAI1-tPA axis orchestrates immunosuppression in pancreatic cancer",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea6734?af=R"
+    },
+    {
+      "title": "Cryo-EM structures of human P2X2/3 heteromer channel reveal the structural basis of ligand selectivity",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea9268?af=R"
     },
     {
       "title": "Decoupled phenotypic constraints framed by respiratory adaptation in the rise of land vertebrates",
@@ -781,88 +847,22 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb0801?af=R"
     },
     {
+      "title": "Selective vulnerability of cerebral vasculature to NOTCH3 variants in small vessel disease and rescue by phosphodiesterase-5 inhibitor",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1134?af=R"
+    },
+    {
+      "title": "Inertial sensing of water content in tumor spheroids",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1451?af=R"
+    },
+    {
       "title": "Reset-free DNA logic circuits for real-time input processing and memory",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1699?af=R"
-    },
-    {
-      "title": "Hepatitis E virus replication is maintained in proliferative cells within the intestinal crypt",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2333?af=R"
-    },
-    {
-      "title": "Complete biosynthesis of psychedelic tryptamines from three kingdoms in plants",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb3034?af=R"
-    },
-    {
-      "title": "Nonlinear stiffness of NompC gating spring and its implication in mechanotransduction",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb6165?af=R"
-    },
-    {
-      "title": "Multimillennial climate-freshwater legacy beneath a large-river delta-front estuary",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb6352?af=R"
-    },
-    {
-      "title": "Structure and mechanism of the heterotetrameric ADP-glucose pyrophosphorylase essential for starch synthesis in plants",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb6384?af=R"
-    },
-    {
-      "title": "Synergy and antagonism in a genome-scale model of metabolic hijacking by bacteriophages",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb7646?af=R"
-    },
-    {
-      "title": "Protecting cells at the genetic level and simulating unauthorized access via a biohackathon",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8556?af=R"
-    },
-    {
-      "title": "Scalable entangling gates on ion qubits via structured light addressing",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0392?af=R"
-    },
-    {
-      "title": "Stomatin encapsulates aquaporin-1 and urea transporter–B in the erythrocyte membrane",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec1721?af=R"
-    },
-    {
-      "title": "A periplasmic protein complex mediates arabinofuranosyltransferase activity and intrinsic drug resistance in Mycobacterium tuberculosis",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec5100?af=R"
-    },
-    {
-      "title": "Beta cell–targeted PD-1 agonist inhibits cell-mediated autoimmunity in pancreas tissue slices",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec9029?af=R"
-    },
-    {
-      "title": "Enhancing halide ion homogeneity in blade-coated wide-bandgap perovskite for perovskite-organic tandem solar cells",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed2200?af=R"
-    },
-    {
-      "title": "Self-regulating hydrogel for diabetic wound healing: From animal models to a pilot clinical study",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed4981?af=R"
     }
   ]
 }
