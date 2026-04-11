@@ -1,13 +1,43 @@
 {
   "items": [
     {
+      "title": "Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10484-w"
+    },
+    {
+      "title": "How the butterfly got its name: Books in brief",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01160-0"
+    },
+    {
+      "title": "Behind the scenes with Artemis II’s scientists during the historic Moon fly-by",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01208-1"
+    },
+    {
+      "title": "Homelessness of the heart",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01063-0"
+    },
+    {
+      "title": "The middle years of my life and career: balancing two experiments at once",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00195-7"
+    },
+    {
       "title": "Ambiphilic cross-coupling with aryl-bismuth reagents",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10486-8"
     },
     {
-      "title": "Do the twist: bacteria can spin ‘pucks’ without touching them",
+      "title": "Microbial hockey: bacteria can spin a ‘puck’ just by swimming",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01112-8"
@@ -29,6 +59,12 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01111-9"
+    },
+    {
+      "title": "Daily briefing: A treatment to reverse cellular ageing is about to be tested in people",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01207-2"
     },
     {
       "title": "One woman, three autoimmune diseases: CAR-T therapy vanquishes ultra-rare disease trio",
@@ -83,42 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01132-4"
-    },
-    {
-      "title": "High-precision calculation of the quark–gluon coupling from lattice QCD",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10339-4"
-    },
-    {
-      "title": "Engineered immunosuppressive dendritic cells protect against cardiac remodelling",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10346-5"
-    },
-    {
-      "title": "Biodiversity resilience in a tropical rainforest",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10365-2"
-    },
-    {
-      "title": "Protected quantum gates using qubit doublons in dynamical optical lattices",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10285-1"
-    },
-    {
-      "title": "Saturation editing of <i>RNU4-2</i> reveals distinct dominant and recessive disorders",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10334-9"
-    },
-    {
-      "title": "The importance of competition and facilitation for global tree diversity",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10349-2"
     },
     {
       "title": "Atomic unification in molecular AI",
@@ -745,10 +745,28 @@
       "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00160-7?rss=yes"
     },
     {
+      "title": "Dissection of the T cell infiltrate in mouse pancreatic tumors reveals an extensive and diverse tumor-reactive T cell repertoire",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adr6132?af=R"
+    },
+    {
+      "title": "Synergistic impact of marine heat waves and rapid intensification exacerbates tropical cyclone destructive power worldwide",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adu1733?af=R"
+    },
+    {
       "title": "Faulting triggered by a quasi-diffusionless shear transition of olivine in deep subducted slabs",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adu5181?af=R"
+    },
+    {
+      "title": "Intracellular enzymatic reducing systems control receptor tyrosine kinase signaling via PTP1B",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adv5362?af=R"
     },
     {
       "title": "CD69 regulates the tissue dynamics of epigenetically imprinted memory CD4+ T cells",
@@ -775,10 +793,28 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady8614?af=R"
     },
     {
+      "title": "Nanoconfined superionic water is a molecular superionic",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz6392?af=R"
+    },
+    {
+      "title": "Miniaturized optically generated Bessel beam ultrasound for volumetric transcranial brain stimulation",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz7708?af=R"
+    },
+    {
       "title": "Meridionally consistent decline in the observed western boundary contribution to the Atlantic Meridional Overturning Circulation",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz7738?af=R"
+    },
+    {
+      "title": "RNA binding protein Pcbp1 maintains mitochondria integrity to promote antibody production and germinal center response",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz9095?af=R"
     },
     {
       "title": "The optical nose: Monolayer sensitization of Au surfaces for plasmonic gas sensing",
@@ -793,76 +829,40 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea2709?af=R"
     },
     {
+      "title": "Innate immune sensing of dietary alcohol ignites inflammation to drive alcohol-related disease",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea3979?af=R"
+    },
+    {
+      "title": "Critical coupling–assisted extraordinary electromagnetic transmission unrestricted by aperture size",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea4450?af=R"
+    },
+    {
+      "title": "Constitutive AMPK activation prevents hepatocellular carcinoma development through inhibition of HNF4α activity",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea8017?af=R"
+    },
+    {
       "title": "Multimodal platform for ITN efficacy: Surface chemistry, bioavailability, and mosquito behavior",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2023?af=R"
     },
     {
+      "title": "Sixty years of plant community change in Europe indicate a shift toward nutrient-richer and denser vegetation",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2493?af=R"
+    },
+    {
       "title": "Increasing the power density of electrohydrodynamic pumps by mapping the fluid landscape",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2623?af=R"
-    },
-    {
-      "title": "Linking carbonatites, rare earth ores, and subduction-fertilized mantle lithosphere",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2942?af=R"
-    },
-    {
-      "title": "A diffusion-based framework for designing molecules in flexible protein pockets",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb7045?af=R"
-    },
-    {
-      "title": "Vasculogenic tissue nanotransfection accelerates functional recovery after peripheral nerve injury",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb7631?af=R"
-    },
-    {
-      "title": "Land subsidence on Java Island and its contributions to relative sea level change",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0172?af=R"
-    },
-    {
-      "title": "Measurement-based assessment reveals key drivers and mitigation potential of methane emissions from China’s wastewater treatment",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0536?af=R"
-    },
-    {
-      "title": "Wealth and land-cover change govern landslide fatalities on world’s mountains",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec2739?af=R"
-    },
-    {
-      "title": "Childhood immune imprinting shapes cohort and period influenza mortality",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3183?af=R"
-    },
-    {
-      "title": "Linker histone H1 functions as a liquid-like glue to organize chromatin in living human cells",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec9801?af=R"
-    },
-    {
-      "title": "Impact-processed nitrogen-bearing organics in Chang’e-5 and Chang’e-6 lunar regolith",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed4951?af=R"
-    },
-    {
-      "title": "Scalable generalized meta-spanners enabling parallel multitasking optical manipulation",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed5302?af=R"
     }
   ]
 }
