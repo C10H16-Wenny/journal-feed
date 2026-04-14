@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "Viruses allegedly stolen from high-security lab cause stir in Brazil",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01211-6"
+    },
+    {
+      "title": "14 things our PhD supervisors got right and why it mattered",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00853-w"
+    },
+    {
+      "title": "The ‘crazy rule-defying’ genes that determine sex",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01101-x"
+    },
+    {
+      "title": "Human scientists trounce the best AI agents on complex tasks",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01199-z"
+    },
+    {
+      "title": "How I harness research to inform humanitarian relief efforts",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00197-5"
+    },
+    {
+      "title": "Huge analysis of 320,000 careers suggests that productive researchers stay that way",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00744-0"
+    },
+    {
       "title": "Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults",
       "journal": "Nature",
       "date": "",
@@ -83,42 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01147-x"
-    },
-    {
-      "title": "How to thrive in science when you move abroad",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00550-8"
-    },
-    {
-      "title": "I was with Artemis II’s scientists during the Moon fly-by. Here’s what I saw",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01138-y"
-    },
-    {
-      "title": "Almost half of traded wildlife carry disease-causing pathogens",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01121-7"
-    },
-    {
-      "title": "Author Correction: Foundation model of neural activity predicts response to new stimulus types",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10457-z"
-    },
-    {
-      "title": "Author Correction: Oncogene ablation-resistant pancreatic cancer cells depend on mitochondrial function",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10488-6"
-    },
-    {
-      "title": "Briefing Chat: The tongue trick that helps sunbirds suck",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01132-4"
     },
     {
       "title": "Atomic unification in molecular AI",
@@ -361,6 +361,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aeh8289?af=R"
     },
     {
+      "title": "Lipid-trap mass spectrometry identifies lipid–protein interactions in cells",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01928-6"
+    },
+    {
       "title": "A guide to using embedded ethics in human stem-cell-based embryo model research",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -401,12 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01925-9"
-    },
-    {
-      "title": "An EGFR co-amplified lncRNA HELDR promotes glioblastoma malignancy through KAT7-driven gene programs",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01924-w"
     },
     {
       "title": "A lineage-specific autophagic mechanism of P-body turnover",
