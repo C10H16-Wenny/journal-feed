@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Briefing Chat: Penguins pick up PFAS pollution",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01263-8"
+    },
+    {
+      "title": "Immune cells have a surprising role in exercise endurance",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01245-w"
+    },
+    {
+      "title": "New year, old me",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01067-w"
+    },
+    {
+      "title": "US lawmakers intensify scrutiny of scientific-publishing practices",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01251-y"
+    },
+    {
       "title": "Venus’s impenetrable haze could be made of cosmic dust",
       "journal": "Nature",
       "date": "",
@@ -31,7 +55,7 @@
       "url": "https://www.nature.com/articles/d41586-026-00509-9"
     },
     {
-      "title": "Quantum computers take on health care: light-sensitive cancer drugs win US$2 million contest",
+      "title": "Quantum computers take on health care: light-sensitive cancer drugs win US$2-million contest",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01236-x"
@@ -41,6 +65,12 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01227-y"
+    },
+    {
+      "title": "Daily briefing: AI systems can ‘teach’ biases to other models",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01265-6"
     },
     {
       "title": "Cytoplasmic lattices are megadalton storage complexes in mammalian oocytes",
@@ -89,36 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10362-5"
-    },
-    {
-      "title": "Identifying the topographic signature of early Martian oceans",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10381-2"
-    },
-    {
-      "title": "Brainwide blood volume reflects opposing neural populations",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10350-9"
-    },
-    {
-      "title": "Ancient DNA reveals pervasive directional selection across West Eurasia",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10358-1"
-    },
-    {
-      "title": "Tumour promotion through the lens of evolution",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10386-x"
-    },
-    {
-      "title": "mRNA vaccines engage unconventional pathways in CD8<sup>+</sup> T cell priming",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10353-6"
     },
     {
       "title": "The Hallmarks of Cancer: 25 years guiding discovery and therapy",
@@ -259,12 +259,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.adt9147?af=R"
     },
     {
-      "title": "Calcium-triggered apoplastic ROS bursts balance gravity and mechanical signals for soil navigation",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adu8197?af=R"
-    },
-    {
       "title": "Late Miocene Colorado River arrival in the Bidahochi basin supports spillover origin of Grand Canyon",
       "journal": "Science",
       "date": "",
@@ -343,6 +337,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.adt2981?af=R"
     },
     {
+      "title": "Calcium-triggered apoplastic ROS bursts balance gravity and mechanical signals for soil navigation",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.adu8197?af=R"
+    },
+    {
       "title": "Talk therapy",
       "journal": "Science",
       "date": "",
@@ -353,6 +353,24 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aei0198?af=R"
+    },
+    {
+      "title": "A transgene-free, human peri-gastrulation embryo model presents trilaminar embryonic disc-, amnion- and yolk sac-like structures",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01930-y"
+    },
+    {
+      "title": "SLC33A1 exports oxidized glutathione to maintain endoplasmic reticulum redox homeostasis",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01922-y"
+    },
+    {
+      "title": "Organellar insights in ageing and longevity",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01927-7"
     },
     {
       "title": "GPX1 dictates in vivo ferroptosis",
@@ -383,24 +401,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01909-9"
-    },
-    {
-      "title": "Morally relevant features warranting ethical oversight in human stem cell-based embryo models",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01881-4"
-    },
-    {
-      "title": "Aberrant amino acid-sensing promotes immunotherapy resistance via the inflammatory cytokine–ZBTB5–mTORC1 axis",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01926-8"
-    },
-    {
-      "title": "Mosaic gastruloids reveal a temporal restriction for developmental cell competition",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01923-x"
     },
     {
       "title": "A lineage-specific autophagic mechanism of P-body turnover",
@@ -727,6 +727,12 @@
       "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00189-9?rss=yes"
     },
     {
+      "title": "Revealing the bond exchange and network rearrangement mechanism in vitrimers",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee9093?af=R"
+    },
+    {
       "title": "C. elegans somatostatin/allatostatin C signaling regulates sleep, metabolism, survival, and memory via a sleep-active neuron",
       "journal": "Science Advances",
       "date": "",
@@ -757,6 +763,42 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady9194?af=R"
     },
     {
+      "title": "Healthy donor T cell receptors expand functional neoantigen recognition beyond patient vaccination",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz1156?af=R"
+    },
+    {
+      "title": "Mesoglea biogenesis reveals a cryptic aboral valve for pressure regulation in cnidarian morphogenesis",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz2530?af=R"
+    },
+    {
+      "title": "Molecular basis of CXC chemokine receptor 3 ligand multispecificity",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz3767?af=R"
+    },
+    {
+      "title": "Historical and contemporary genomes of an endangered rodent reveal shifts in environmentally associated genes",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz5059?af=R"
+    },
+    {
+      "title": "Noncovalent through-space charge transfer enables efficient and stable blue electroluminescence",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz5381?af=R"
+    },
+    {
+      "title": "Synthetic control of implanted engineered liver tissue growth",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz8362?af=R"
+    },
+    {
       "title": "Imaging cell phone radiation in tissue mimics with hyperpolarized low-field MRI",
       "journal": "Science Advances",
       "date": "",
@@ -767,6 +809,18 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea1826?af=R"
+    },
+    {
+      "title": "A TIEGCM-based inversion model for ionosphere-thermosphere parameters driven by three-dimensional electron density",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea2406?af=R"
+    },
+    {
+      "title": "Seasonal bromate formation in the Arctic snowpack: Implications for the bromine biogeochemical cycle",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea3286?af=R"
     },
     {
       "title": "Ion trap membrane with confined bind-jump strategy for high-efficiency direct lithium extraction",
@@ -791,60 +845,6 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea7305?af=R"
-    },
-    {
-      "title": "Multimodal operando characterization unravels polaron accumulation and ion dynamics in high-stability ambipolar OECTs",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea9786?af=R"
-    },
-    {
-      "title": "Multiomics profiling and experiments in preclinical models revealed RAD51-IN-1 as a synergistic potentiator of anlotinib sensitivity",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb0855?af=R"
-    },
-    {
-      "title": "Mucoadhesive tumor-penetrating nanomedicine for intravesical chemo-immunotherapy against bladder cancer",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb9764?af=R"
-    },
-    {
-      "title": "Bioresorbable acoustic patch for simultaneous sealing and early detection of gastric leakage",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec6857?af=R"
-    },
-    {
-      "title": "Underestimated agricultural losses due to flooding",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed2754?af=R"
-    },
-    {
-      "title": "Drawn-on-skin electronic tattoo as a closed-loop sensing-stimulation system for the muscles",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed7673?af=R"
-    },
-    {
-      "title": "Morphogenesis of moss leaf-like organs through variations in deeply shared developmental principles",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee6959?af=R"
-    },
-    {
-      "title": "Breaking the activity-stability limit in acidic oxygen evolution reaction with dual-iridium active sites",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee7510?af=R"
-    },
-    {
-      "title": "Broad presence of ferromagnetism in bees and relationship to phylogeny, natural history, and sociality",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed7391?af=R"
     }
   ]
 }
