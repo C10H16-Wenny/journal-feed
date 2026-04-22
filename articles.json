@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "title": "Yellow glass shows insect wings at their best",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00915-z"
+    },
+    {
+      "title": "AI doom warnings are getting louder. Are they realistic?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01257-6"
+    },
+    {
+      "title": "Personalized CRISPR therapies could soon reach thousands — here’s how",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01243-y"
+    },
+    {
+      "title": "Triple-decker solar cells reach efficiency milestone",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01149-9"
+    },
+    {
+      "title": "US speeds research into mind-altering drugs — including mysterious 'ibogaine'",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01286-1"
+    },
+    {
+      "title": "Forty years after Chornobyl, more nuclear disasters are inevitable — plan for them",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01255-8"
+    },
+    {
+      "title": "Vaccines mean malaria deaths should be falling — not rising",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01253-w"
+    },
+    {
+      "title": "How big is Big <i>G</i>? Mystery deepens after ten-year effort to measure gravity’s strength",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01284-3"
+    },
+    {
       "title": "‘Bat feast’ animal videos at African cave offer clues to how deadly viruses spread",
       "journal": "Nature",
       "date": "",
@@ -43,6 +91,12 @@
       "url": "https://www.nature.com/articles/d41586-026-01260-x"
     },
     {
+      "title": "Daily briefing: Immune cells have a surprising role in exercise endurance",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01291-4"
+    },
+    {
       "title": "Magnetic muon measurements and gene-therapy advances win US$3-million Breakthrough prizes",
       "journal": "Nature",
       "date": "",
@@ -65,60 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01280-7"
-    },
-    {
-      "title": "New year, old me",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01067-w"
-    },
-    {
-      "title": "US lawmakers intensify scrutiny of scientific-publishing practices",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01251-y"
-    },
-    {
-      "title": "Venus’s impenetrable haze could be made of cosmic dust",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01212-5"
-    },
-    {
-      "title": "Graves reveal plague’s inequitable toll",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01210-7"
-    },
-    {
-      "title": "Ageing could prime women for autoimmune disorders",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01213-4"
-    },
-    {
-      "title": "‘Science needs defending’: record number of researchers run for office in US mid-terms",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01134-2"
-    },
-    {
-      "title": "The nine-to-five PhD: mere myth or an achievable goal?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00509-9"
-    },
-    {
-      "title": "Quantum computers take on health care: light-sensitive cancer drugs win US$2-million contest",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01236-x"
-    },
-    {
-      "title": "Revealed: how male and female brain cells differ in gene activity",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01227-y"
     },
     {
       "title": "The Hallmarks of Cancer: 25 years guiding discovery and therapy",
@@ -331,16 +331,16 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aea6343?af=R"
     },
     {
-      "title": "Mesothermic fishes face high fuel demands and overheating risk in warming oceans",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adt2981?af=R"
-    },
-    {
       "title": "Calcium-triggered apoplastic ROS bursts balance gravity and mechanical signals for soil navigation",
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.adu8197?af=R"
+    },
+    {
+      "title": "Mesothermic fishes face high fuel demands and overheating risk in warming oceans",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.adt2981?af=R"
     },
     {
       "title": "Talk therapy",
