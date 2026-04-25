@@ -1,10 +1,64 @@
 {
   "items": [
     {
+      "title": "Author Correction: Commensal yeast promotes <i>Salmonella</i> Typhimurium virulence",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10518-3"
+    },
+    {
+      "title": "Author Correction: A µ-opioid receptor superagonist analgesic with minimal adverse effects",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10552-1"
+    },
+    {
+      "title": "Cosmic-ray detection heralds era of mega-observatories for neutrinos",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01282-5"
+    },
+    {
+      "title": "From bats at dusk to asteroid quests: Books in brief",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01304-2"
+    },
+    {
+      "title": "Inside the evidence revolution — how decision-making became data driven",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01359-1"
+    },
+    {
+      "title": "Brain tissue near tumours is loaded with plastic",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01281-6"
+    },
+    {
+      "title": "Hit a glitch in your research? Some ‘night science’ thinking could move it forward",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01294-1"
+    },
+    {
+      "title": "The memory dealer of Old Jeddah",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01071-0"
+    },
+    {
       "title": "Closure of China’s influential journal ranking leaves academics reeling — what will take its place?",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01277-2"
+    },
+    {
+      "title": "How much for a fake authorship? Ad database reveals secrets of scientific fraud",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01340-y"
     },
     {
       "title": "Author Correction: Rewiring an E3 ligase enhances cold resilience and phosphate use in maize",
@@ -19,7 +73,7 @@
       "url": "https://www.nature.com/articles/s41586-026-10547-y"
     },
     {
-      "title": "Why is heart cancer so rare? The pumping muscle ‘beats’ it",
+      "title": "How your heartbeat could keep cancer at bay",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01296-z"
@@ -55,70 +109,16 @@
       "url": "https://www.nature.com/articles/d41586-026-01061-2"
     },
     {
+      "title": "Daily briefing: This AI-powered robot is a table-tennis master",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01356-4"
+    },
+    {
       "title": "Academics demand apology for scientist investigated for China ties but never charged",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01113-7"
-    },
-    {
-      "title": "Thousands of Harvard graduate students strike — bringing research to a halt",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01344-8"
-    },
-    {
-      "title": "Did kraken-like octopuses rule Cretaceous seas? Massive jaw fossils offer clues",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01342-w"
-    },
-    {
-      "title": "Delays have kept new NSF grants to a trickle — that could be about to change",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01287-0"
-    },
-    {
-      "title": "Evaluating large language models for accuracy incentivizes hallucinations",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10549-w"
-    },
-    {
-      "title": "Ubiquitination of glycogen and metabolites in cells and tissues",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10548-x"
-    },
-    {
-      "title": "Author Correction: Robust cytoplasmic partitioning by solving a cytoskeletal instability",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10390-1"
-    },
-    {
-      "title": "This robot can beat you at table tennis",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01343-9"
-    },
-    {
-      "title": "Meet Ace, the table-tennis robot that can beat elite players",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01341-x"
-    },
-    {
-      "title": "Little ants groom big ones in a desert spa",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01237-w"
-    },
-    {
-      "title": "Caspase&#xa0;5c amplifies Wnt via APC cleavage to promote intestinal homeostasis",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10343-8"
     },
     {
       "title": "The Hallmarks of Cancer: 25 years guiding discovery and therapy",
@@ -355,6 +355,24 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aeg5991?af=R"
     },
     {
+      "title": "The proteomic landscape and temporal dynamics of human and mouse gastruloid development",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01937-5"
+    },
+    {
+      "title": "Electrophilic compound screening identifies GPX4-dependent ferroptosis as a senescence vulnerability",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01921-z"
+    },
+    {
+      "title": "Longitudinal localization of leukaemic stem cells between the metaphysis and central marrow governs their behaviour",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01939-3"
+    },
+    {
       "title": "A lipid-centric view of endocytosis by caveolae",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -383,24 +401,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01935-7"
-    },
-    {
-      "title": "Contracting and fracturing to invade",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01942-8"
-    },
-    {
-      "title": "NK progenitors against cancer",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01934-8"
-    },
-    {
-      "title": "Lipid-trap mass spectrometry identifies lipid–protein interactions in cells",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01928-6"
     },
     {
       "title": "A lineage-specific autophagic mechanism of P-body turnover",
@@ -739,10 +739,34 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adp3054?af=R"
     },
     {
+      "title": "All-optically tunable electromagnetic chirality transfer",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adv3124?af=R"
+    },
+    {
+      "title": "Transcobalamin 1 is a keratinocyte-derived autoantigen driving psoriasis through T helper 17 cell activation",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adv6716?af=R"
+    },
+    {
+      "title": "Directional guidance to orient Schwann cell alignment in nerve regeneration requires Plexin-B1",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adw4136?af=R"
+    },
+    {
       "title": "ArchesWeatherGen: Skillful and compute-efficient probabilistic weather forecasting with machine learning",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adx2372?af=R"
+    },
+    {
+      "title": "COSA-1–SLX-4 interaction directly links crossover designation with Holliday junction resolution",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adx9148?af=R"
     },
     {
       "title": "CryptoBank: A resource for the identification and prediction of cryptic sites in proteins",
@@ -751,10 +775,28 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady6364?af=R"
     },
     {
+      "title": "Fetal and postnatal metal metabolism–related changes in brain function are associated with childhood behavioral deficits",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz1340?af=R"
+    },
+    {
       "title": "The importance of layer-dependent molecular twisting for the structural anisotropy of interfacial water",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz5505?af=R"
+    },
+    {
+      "title": "Slow RNAPII elongation enhances naive pluripotency rewiring while maintaining high replication fork speed",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz6211?af=R"
+    },
+    {
+      "title": "A strong, reversible, and conformal adhesive gel for diverse plants",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz6379?af=R"
     },
     {
       "title": "Wearable thumb sleeves enabled by self-supervised learning with few stretchable sensors and few-shot data for switchable finger tasks",
@@ -775,10 +817,22 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea4657?af=R"
     },
     {
+      "title": "Generation of reconfigurable hypercubic graph states in one to four dimensions in a simple optical system",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea8426?af=R"
+    },
+    {
       "title": "Quantum interference of single photons without optical superposition: Toward high resolution imaging in spatial and spectral domains",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea9701?af=R"
+    },
+    {
+      "title": "Cell-internal autocrine receptor inactivation supports maintenance of mating-type identity in yeast",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1729?af=R"
     },
     {
       "title": "Quantifying submicrometer atmospheric aerosol chemical composition using nanoelectromechanical Fourier transform infrared spectroscopy",
@@ -787,64 +841,10 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2254?af=R"
     },
     {
-      "title": "High altitude–mediated immune remodeling accelerates aging",
+      "title": "MYC-bound enhancer RNAs in cis regulate gene transcription and tumorigenesis",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb5599?af=R"
-    },
-    {
-      "title": "Closed-loop tactile-visual interactivity via chip-free luminescent fibers enabled by capacitive coupling",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec5676?af=R"
-    },
-    {
-      "title": "Dual computational systems in the development and evolution of mammalian brains",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec6112?af=R"
-    },
-    {
-      "title": "Thalamocortical regulation of prefrontal stability enables abstract rule generalization",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec6201?af=R"
-    },
-    {
-      "title": "A sensorimotor instability drives a locomotor transition during fish development",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec6922?af=R"
-    },
-    {
-      "title": "A volcano reawakens after more than 100,000 years of “silent” magma reservoir growth",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec9565?af=R"
-    },
-    {
-      "title": "A time-stamping tactile sensor enabled by pseudoconductive interface design at dielectric heterojunctions",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec9793?af=R"
-    },
-    {
-      "title": "Ancient regulatory evolution shapes individual language abilities in present-day humans",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed5260?af=R"
-    },
-    {
-      "title": "Enterovirus-induced cleavage of Mitofusin 2 generates mitophagosomes for enveloped virion release",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed6824?af=R"
-    },
-    {
-      "title": "Patterns of mitochondrial ATP predict tissue folding",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee6175?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb5147?af=R"
     }
   ]
 }
