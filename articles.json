@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "title": "China’s latest push to commercialize research: match 680,000 innovators with companies",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01202-7"
+    },
+    {
+      "title": "Telomere-to-Telomere Assembly Using HERRO-Corrected Simplex Nanopore Reads",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10563-y"
+    },
+    {
+      "title": "#ScientistAtWork 2026: <i>Nature</i> seeks striking photographs that capture researchers at work",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01266-5"
+    },
+    {
+      "title": "A chemistry lab that runs itself to find the perfect reaction",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01283-4"
+    },
+    {
+      "title": "Could agentic AI topple grant-funding systems?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01297-y"
+    },
+    {
+      "title": "Mitochondria can spawn new ‘organelles’ — hinting at how modern cells evolved",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01295-0"
+    },
+    {
+      "title": "‘The job description is changing’: mathematician Terence Tao on the rise of AI",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01246-9"
+    },
+    {
+      "title": "Why cosmology is more than a theory",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01303-3"
+    },
+    {
       "title": "Entire NSF science advisory board fired by Trump administration",
       "journal": "Nature",
       "date": "",
@@ -49,6 +97,12 @@
       "url": "https://www.nature.com/articles/d41586-026-01294-1"
     },
     {
+      "title": "Daily briefing: The heart’s pumping motion seems to keep cancer at bay",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01363-5"
+    },
+    {
       "title": "The memory dealer of Old Jeddah",
       "journal": "Nature",
       "date": "",
@@ -65,60 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01340-y"
-    },
-    {
-      "title": "Author Correction: Rewiring an E3 ligase enhances cold resilience and phosphate use in maize",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10560-1"
-    },
-    {
-      "title": "Field re-entrant superconductivity in Eu-doped infinite-layer nickelates",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10547-y"
-    },
-    {
-      "title": "How your heartbeat could keep cancer at bay",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01296-z"
-    },
-    {
-      "title": "Publisher Correction: Reproducibility and robustness of economics and political science research",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10503-w"
-    },
-    {
-      "title": "What elite sport prepared me for in the lab — and what it didn’t",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01131-5"
-    },
-    {
-      "title": "Wikipedia-based AI model reveals the 100 technologies to watch",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00980-4"
-    },
-    {
-      "title": "We need to talk about failure in science",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01254-9"
-    },
-    {
-      "title": "What 6,000 researchers think about the future of science",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01061-2"
-    },
-    {
-      "title": "Daily briefing: This AI-powered robot is a table-tennis master",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01356-4"
     },
     {
       "title": "The Hallmarks of Cancer: 25 years guiding discovery and therapy",
@@ -355,6 +355,18 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aeg5991?af=R"
     },
     {
+      "title": "Cancer-associated fibroblasts regulate DNA repair in pancreatic cancer through NDRG1-mediated R-loop processing",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01938-4"
+    },
+    {
+      "title": "Somatic mutations distinguish melanocyte subpopulations in human skin",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01943-7"
+    },
+    {
       "title": "The proteomic landscape and temporal dynamics of human and mouse gastruloid development",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -389,18 +401,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01922-y"
-    },
-    {
-      "title": "Organellar insights in ageing and longevity",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01927-7"
-    },
-    {
-      "title": "GPX1 dictates in vivo ferroptosis",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01935-7"
     },
     {
       "title": "A lineage-specific autophagic mechanism of P-body turnover",
