@@ -1,10 +1,58 @@
 {
   "items": [
     {
+      "title": "Author Correction: Titration of RAS alters senescent state and influences tumour initiation",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10601-9"
+    },
+    {
+      "title": "Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01439-2"
+    },
+    {
+      "title": "The imperfect legacy",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01075-w"
+    },
+    {
+      "title": "US faculty members report high levels of anxiety",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01252-x"
+    },
+    {
+      "title": "The exotic particles that could finally break the Standard Model",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01387-x"
+    },
+    {
+      "title": "The news is not all bad: five inspiring science stories to lift your mood",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01290-5"
+    },
+    {
+      "title": "European funder must increase capacity to meet the ambition of scientists",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01411-0"
+    },
+    {
       "title": "This organoid can menstruate — and shows how tissue can repair itself",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01428-5"
+    },
+    {
+      "title": "Prestigious European science funder scraps stricter rules after researcher backlash",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01435-6"
     },
     {
       "title": "Continuously graded-doped SnO<sub>2</sub> for efficient n–i–p perovskite solar cells",
@@ -61,7 +109,7 @@
       "url": "https://www.nature.com/articles/d41586-026-01396-w"
     },
     {
-      "title": "US lawmakers vote to reduce science spending – but reject Trump’s massive cuts",
+      "title": "US lawmakers vote to reject Trump’s massive budget cuts — but call for substantial decreases",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01427-6"
@@ -71,54 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01203-6"
-    },
-    {
-      "title": "‘Beyond COP’ climate summit puts scientists at the centre of the action",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01399-7"
-    },
-    {
-      "title": "Why cows burp methane: new ‘cellular organ’ discovered in gut microbes",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01425-8"
-    },
-    {
-      "title": "Scientists to return to Fukushima — this time to study disaster recovery",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01345-7"
-    },
-    {
-      "title": "How sewing can set you up for failure and success in science",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01388-w"
-    },
-    {
-      "title": "Saving sharks and rays, one catch at a time — in photos",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01145-z"
-    },
-    {
-      "title": "Author Correction: Broadly stable atmospheric CO<sub>2</sub> and CH<sub>4</sub> levels over the past 3 million years",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10600-w"
-    },
-    {
-      "title": "Overestimating outsourced biodiversity loss may misguide policy",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10370-5"
-    },
-    {
-      "title": "Reply to: Overestimating outsourced biodiversity loss may misguide policy",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10371-4"
     },
     {
       "title": "Angiocrine signaling drives liver fibrosis: From mechanism to early clinical translation",
@@ -361,6 +361,18 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aei4123?af=R"
     },
     {
+      "title": "Mapping specific lipid–protein interactions in living cells",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01952-6"
+    },
+    {
+      "title": "SLC33A1-mediated glutathione transport regulates ER redox balance and function",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01929-5"
+    },
+    {
       "title": "The atypical E3 ligase HOIL-1 safeguards the ribosome during cellular stress",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -395,18 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01941-9"
-    },
-    {
-      "title": "Cancer-associated fibroblasts regulate DNA repair in pancreatic cancer through NDRG1-mediated R-loop processing",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01938-4"
-    },
-    {
-      "title": "Somatic mutations distinguish melanocyte subpopulations in human skin",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01943-7"
     },
     {
       "title": "A lineage-specific autophagic mechanism of P-body turnover",
@@ -739,10 +739,28 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adj6957?af=R"
     },
     {
+      "title": "Pervasive enhanced transcription in inflammatory breast cancer tumors and PBMCs impacts RNA splicing and intronic RNAs in plasma",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adu0031?af=R"
+    },
+    {
+      "title": "Stress-induced CXCL13 regulates pancreatic exocrine homeostasis, age-related chronic inflammation, and cancer progression",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adu7865?af=R"
+    },
+    {
       "title": "Dust storms: Hidden drivers of extreme rainfall and global precipitation shifts",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adw6864?af=R"
+    },
+    {
+      "title": "Extended nonradiative dipole-dipole energy transfer and spatiotemporal coherence enabled by bound states in the continuum",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adx2005?af=R"
     },
     {
       "title": "TLR7 alters the maternal immune landscape during influenza A infection to increase maternal and fetal morbidity",
@@ -763,6 +781,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz1998?af=R"
     },
     {
+      "title": "Spliceosomal mutation drives melanoma tumorigenesis via lineage-specific RAS activation",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz8289?af=R"
+    },
+    {
       "title": "Crystallization modulation of methylammonium-free narrow-bandgap perovskite for thermal-stable all-perovskite tandem solar modules",
       "journal": "Science Advances",
       "date": "",
@@ -773,6 +797,12 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz9284?af=R"
+    },
+    {
+      "title": "HnRNP C binding to inverted Alu elements protects the transcriptome from pre-mRNA circularization",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea2351?af=R"
     },
     {
       "title": "H-linear magnetoresistance in NbSe2 due to impeded cyclotron motion",
@@ -793,6 +823,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea9831?af=R"
     },
     {
+      "title": "A dynamic gateway: Uncovering the expanded human TOM complex interactome and its regulatory complexity",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2995?af=R"
+    },
+    {
       "title": "PSGRN: Gene regulatory network inference from single-cell perturbational data through self-training with synthetic gold standards",
       "journal": "Science Advances",
       "date": "",
@@ -805,52 +841,16 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb3503?af=R"
     },
     {
-      "title": "Molecular quantum nanosensors functioning in living cells",
+      "title": "Attosecond high-harmonic interferometry probes orbital- and band-dependent dipole phase in magnesium oxide",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb5422?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb4109?af=R"
     },
     {
-      "title": "Functional interrogation of neuronal connections by chemoptogenetic presynaptic ablation",
+      "title": "Dynamic safe nitrogen boundary for maintaining surface water quality in China",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb6755?af=R"
-    },
-    {
-      "title": "Unlocking biodiversity data with robotic imaging and AI-driven transcription of natural history collections",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb6975?af=R"
-    },
-    {
-      "title": "Twirlbot: Tumbleweed-inspired rolling robot",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8948?af=R"
-    },
-    {
-      "title": "Plant-associated fungi co-opt ancient antimicrobials for host manipulation",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec1406?af=R"
-    },
-    {
-      "title": "Physics-based models outperform AI weather forecasts of record-breaking extremes",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec1433?af=R"
-    },
-    {
-      "title": "Growing impacts of fire smoke on ozone pollution and associated mortality burden in the United States",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec2903?af=R"
-    },
-    {
-      "title": "Dynamic heterogeneity and hidden fluidity in dense epithelial tissues",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3773?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb4368?af=R"
     }
   ]
 }
