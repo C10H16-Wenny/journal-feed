@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "Powerful tools are revealing the ‘control knobs’ of the genome",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01410-1"
+    },
+    {
+      "title": "Hantavirus crops up on a cruise ship — what scientists are watching",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01450-7"
+    },
+    {
+      "title": "'Heartbreaking': Iranian scientists on losing labs, libraries and liberty",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01394-y"
+    },
+    {
       "title": "Author Correction: Titration of RAS alters senescent state and influences tumour initiation",
       "journal": "Nature",
       "date": "",
@@ -101,24 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01226-z"
-    },
-    {
-      "title": "All life runs on 20 amino acids. These cells run key machinery on just 19",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01396-w"
-    },
-    {
-      "title": "US lawmakers vote to reject Trump’s massive budget cuts — but call for substantial decreases",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01427-6"
-    },
-    {
-      "title": "Why preprint servers are increasing moderation — and what that means for researchers",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01203-6"
     },
     {
       "title": "Angiocrine signaling drives liver fibrosis: From mechanism to early clinical translation",
@@ -361,6 +361,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aei4123?af=R"
     },
     {
+      "title": "NAT10 maintains stem cell homeostasis by mitigating mRNA decay through an ac<sup>4</sup>C-independent mechanism",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01949-1"
+    },
+    {
       "title": "Mapping specific lipid–protein interactions in living cells",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -401,12 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01959-z"
-    },
-    {
-      "title": "Nuclear N-glycosylation maintains H3K9me3 heterochromatin and genomic stability",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01941-9"
     },
     {
       "title": "A lineage-specific autophagic mechanism of P-body turnover",
