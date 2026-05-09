@@ -1,16 +1,82 @@
 {
   "items": [
     {
+      "title": "Radioactive rain and proving relativity: Books in brief",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01500-0"
+    },
+    {
+      "title": "‘Undruggable’ cancer proteins meet their match",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01447-2"
+    },
+    {
+      "title": "World-leading climate centre takes Trump administration to court",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01501-z"
+    },
+    {
+      "title": "Goodbye GDP? 31 ways to replace the world's favourite measure of economic health",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01511-x"
+    },
+    {
       "title": "Surge in fake citations uncovered by audit of 2.5 million biomedical science papers",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-00748-w"
     },
     {
+      "title": "World’s largest forest research agency faces severe cutback by Trump administration",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01493-w"
+    },
+    {
+      "title": "Three mental-health claims from RFK’s wellness movement: what scientists say",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01449-0"
+    },
+    {
+      "title": "Matter of taste",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01079-6"
+    },
+    {
+      "title": "A life in pictures: celebrating David Attenborough at 100",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01371-5"
+    },
+    {
+      "title": "How a passion for baking fermented a fresh career move",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01390-2"
+    },
+    {
+      "title": "Happy 100th birthday David Attenborough! <i>Nature</i> salutes you",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01473-0"
+    },
+    {
       "title": "Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10608-2"
+    },
+    {
+      "title": "Trafficked pangolins can be traced to their source by DNA — even to a specific forest",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01446-3"
     },
     {
       "title": "There is no vaccine for deadly hantavirus: what that means for future outbreaks",
@@ -25,10 +91,16 @@
       "url": "https://www.nature.com/articles/d41586-026-01466-z"
     },
     {
-      "title": "OpenAI is under criminal investigation — why chatbots don’t always follow the law",
+      "title": "Why AI chatbots that follow human laws are hard to build",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01405-y"
+    },
+    {
+      "title": "Daily briefing: A stunningly detailed map of the Universe and the month’s best science images",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01508-6"
     },
     {
       "title": "My English skills are hurting my chances in academic publishing — how can I improve?",
@@ -47,78 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10602-8"
-    },
-    {
-      "title": "Anaesthetized brains can still process podcasts",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01480-1"
-    },
-    {
-      "title": "Two-qubit logic and teleportation with mobile spin qubits in silicon",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10423-9"
-    },
-    {
-      "title": "Expanding the human proteome with microproteins and peptideins",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10459-x"
-    },
-    {
-      "title": "RNA-triggered cell killing with CRISPR–Cas12a2",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10466-y"
-    },
-    {
-      "title": "Pollinators support the nutrition and income of vulnerable communities",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10421-x"
-    },
-    {
-      "title": "Electrocaloric effects across room temperature in multilayer capacitors",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10492-w"
-    },
-    {
-      "title": "Foreshock-induced slip transients set mainshock nucleation timing",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10497-5"
-    },
-    {
-      "title": "Non-invasive profiling of the tumour microenvironment with spatial ecotypes",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10452-4"
-    },
-    {
-      "title": "Plasticity and language in the anaesthetized human hippocampus",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10448-0"
-    },
-    {
-      "title": "Genome-wide sweeps create ecological units in the human gut microbiome",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10476-w"
-    },
-    {
-      "title": "Tree community resource economics control soil food web multifunctionality",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10455-1"
-    },
-    {
-      "title": "Prefrontal to ventral tegmental area dynamics drive contingency degradation",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10443-5"
     },
     {
       "title": "Angiocrine signaling drives liver fibrosis: From mechanism to early clinical translation",
@@ -325,12 +325,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aed8713?af=R"
     },
     {
-      "title": "Climate-induced range shifts support local plant diversity but don’t reduce extinction risk",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aea1676?af=R"
-    },
-    {
       "title": "Rapid directed evolution guided by protein language models and epistatic interactions",
       "journal": "Science",
       "date": "",
@@ -341,6 +335,12 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aea3321?af=R"
+    },
+    {
+      "title": "Climate-induced range shifts support local plant diversity but don’t reduce extinction risk",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aea1676?af=R"
     },
     {
       "title": "Knowledge gaps for neuromorphic ionic computing",
@@ -757,16 +757,34 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec4482?af=R"
     },
     {
+      "title": "PARP2 deficiency impairs pancreatic cancer progression by promoting genomic instability and antitumor immunity",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adu8849?af=R"
+    },
+    {
       "title": "Contrasting temporal dynamics of fluorescence and photoacoustic signals from Cetuximab-IRDye800 conjugate in EGFR-overexpressing tumors",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adv4639?af=R"
     },
     {
+      "title": "The anterior cingulate cortex modulates pupil-linked arousal",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adv5652?af=R"
+    },
+    {
       "title": "HSPCs and Treg cells cooperate to preserve extramedullary hematopoiesis under chronic inflammation",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adv9351?af=R"
+    },
+    {
+      "title": "RAB5c orchestrates LC3-associated phagocytosis to promote microbicidal function of macrophages",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz0196?af=R"
     },
     {
       "title": "Machine learning–driven discovery of optimal designs for water electrolysis devices",
@@ -781,10 +799,28 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz2809?af=R"
     },
     {
+      "title": "Antigen spreading mediates heterogeneous solid tumor eradication by DNA demethylating agent–programmed CAR T cells",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz4088?af=R"
+    },
+    {
       "title": "Hooked hairs: A cellular key adaptation aiding seedling survival in nutrient-limited and drought conditions",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz6873?af=R"
+    },
+    {
+      "title": "DLP-bioprinted ultrabiomimetic trachea with spatiotemporal angiogenesis regulation for segmental airway reconstruction",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz9453?af=R"
+    },
+    {
+      "title": "A balance between nucleating and elongating actin filaments controls deformation of protein condensates",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea0196?af=R"
     },
     {
       "title": "Activating the Mn2+/Mn7+ redox for a neutral Zn||Mn-compound battery with 2.2-V discharge plateau",
@@ -799,76 +835,40 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea1984?af=R"
     },
     {
+      "title": "Electronics-free soft robotic minitablet for on-demand gastric molecular sensing and diagnostics in vivo",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea3309?af=R"
+    },
+    {
       "title": "SHANK3 mutations disrupt olfactory valence coding across species, with cortical amygdala mechanisms identified in mice",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea3775?af=R"
     },
     {
-      "title": "Formation of calcium silicate perovskite above the core-mantle boundary during solidification of Earth’s magma ocean",
+      "title": "Hierarchical brain dynamics supporting visual perceptual transitions",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea8372?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea3919?af=R"
     },
     {
-      "title": "A redox-sensitive phosphatase regulates glycolysis as a metabolic switch in the bacterial inner membrane",
+      "title": "Three cryo-EM structures of complement C3d-bound αMβ2 reveal an unexpected layer of dynamics for αI-containing integrin receptors",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea8724?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea7241?af=R"
     },
     {
-      "title": "SnRK2.6 phosphorylates sucrose transporter ZmSUT1 to enhance yield by modulating leaf senescence in maize",
+      "title": "Spatial reorganization of object representations in high-level visual cortex distinguishes working memory from perception",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2472?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea7764?af=R"
     },
     {
-      "title": "3D mapping of defects and moiré corrugations via electron ptychography atomic coordinate retrieval",
+      "title": "Biogenesis and downstream effects of 3′,5′ and 2′,3′ cAMP isomers in plants",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb4305?af=R"
-    },
-    {
-      "title": "Electroactive microneedle augmented stem cell therapy in myocardial infarction",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb4840?af=R"
-    },
-    {
-      "title": "HONO emission from marine algae",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8486?af=R"
-    },
-    {
-      "title": "Generation of carbonated peridotite melts via biogenic sediment recycling in modern subduction zones",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec1599?af=R"
-    },
-    {
-      "title": "Cis-regulatory evolution shapes facial diversity in birds and mammals",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec2511?af=R"
-    },
-    {
-      "title": "Integrated climate effects on nitrogen cycles in global grasslands",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec5940?af=R"
-    },
-    {
-      "title": "Super-stable two-dimensional radical conjugated metal-organic frameworks for efficient NIR-II photothermal conversion",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec7519?af=R"
-    },
-    {
-      "title": "Tunable TriPcides suppress virulence factor secretion during Staphylococcus aureus infection and kill dormant cells",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec9100?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea7828?af=R"
     }
   ]
 }
