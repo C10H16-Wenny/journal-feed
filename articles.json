@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "title": "Even mild blows to the head disrupt the microbiome",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01504-w"
+    },
+    {
+      "title": "Briefing Chat: Hantavirus — what this outbreak reveals about the disease",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01575-9"
+    },
+    {
+      "title": "Bespoke DNA vaccine offers hope for treatment of notorious brain cancer",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01503-x"
+    },
+    {
+      "title": "Exclusive: NIH ousts infectious-disease leaders as COVID scientists face US charges",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01558-w"
+    },
+    {
+      "title": "Running a farm, pursuing a research career: what’s the difference?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01391-1"
+    },
+    {
+      "title": "Mouse eyes photosynthesize after plant-to-animal transplant",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01559-9"
+    },
+    {
+      "title": "Serebral",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01083-w"
+    },
+    {
+      "title": "US biology lab locked down for more than a week amid smuggling inquiry",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01590-w"
+    },
+    {
       "title": "Genetic survey exposes flaws in widely used mouse models",
       "journal": "Nature",
       "date": "",
@@ -71,54 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01424-9"
-    },
-    {
-      "title": "Red-light therapy is all the rage — does it work?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01547-z"
-    },
-    {
-      "title": "Pristine Antarctic ice records the Solar System’s travels",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01505-9"
-    },
-    {
-      "title": "An ultra-faint, chemically primitive galaxy forming in the reionization era",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10374-1"
-    },
-    {
-      "title": "More concentrated precipitation decreases terrestrial water storage",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10487-7"
-    },
-    {
-      "title": "Efficient robot navigation inspired by honeybee learning flights",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10461-3"
-    },
-    {
-      "title": "Sustaining microglial reparative function enhances stroke recovery",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10480-0"
-    },
-    {
-      "title": "Adaptive cellular evolution in the intestine of hyperdiverse cichlid fishes",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10494-8"
-    },
-    {
-      "title": "Long-term editing of brain circuits using an engineered electrical synapse",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10501-y"
     },
     {
       "title": "This is IT: How accelerated intermittent theta burst stimulation relieves depression symptoms",
@@ -361,6 +361,30 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aei7754?af=R"
     },
     {
+      "title": "Fuelling basement membrane invasion",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01968-y"
+    },
+    {
+      "title": "Alu RNAs organize transcription at speckles",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01969-x"
+    },
+    {
+      "title": "Tracking the fates of cystine in tumours",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01967-z"
+    },
+    {
+      "title": "Mechanisms and functions of large extracellular vesicle biogenesis",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01940-w"
+    },
+    {
       "title": "Tissue rigidity phase transition shapes morphogen gradients",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -383,30 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01933-9"
-    },
-    {
-      "title": "Author Correction: Ultrasensitive Ribo-seq reveals translational landscapes during mammalian oocyte-to-embryo transition and pre-implantation development",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01976-y"
-    },
-    {
-      "title": "A three-dimensional spatial transcriptome atlas reconstructs early organogenesis in primate Carnegie stages 9 and 10 embryos",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01956-2"
-    },
-    {
-      "title": "lncRNA in EGFR‑driven glioblastoma",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01947-3"
-    },
-    {
-      "title": "NAT10 maintains stem cell homeostasis by mitigating mRNA decay through an ac<sup>4</sup>C-independent mechanism",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01949-1"
     },
     {
       "title": "A BAFfling link between the β cell nucleolus, islet immune microenvironment, and type 2 diabetes",
@@ -745,6 +745,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adx7966?af=R"
     },
     {
+      "title": "mTOR-NAA10-C7orf50 axis senses nutritional status to coordinate ribosome biogenesis and autophagy",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz3835?af=R"
+    },
+    {
       "title": "Mechanical pulling force and alternating current comodulation electrohydrodynamic printing",
       "journal": "Science Advances",
       "date": "",
@@ -761,6 +767,24 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz6570?af=R"
+    },
+    {
+      "title": "Sublithospheric diamond constraints on the state of deeply subducted slabs",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz7447?af=R"
+    },
+    {
+      "title": "Mercury accumulation over the Holocene revealed from a Greenlandic ice core",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea0517?af=R"
+    },
+    {
+      "title": "Proton-shuttling nanosheet membranes enable high-power-density protonic fuel cells",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea1569?af=R"
     },
     {
       "title": "Acidic-alkaline tandem system for durable CO2-CO-C2+",
@@ -781,10 +805,46 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2528?af=R"
     },
     {
+      "title": "Thermoforming nanoparticle aggregates via interfacial ionic self-diffusion",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb3281?af=R"
+    },
+    {
+      "title": "An engineered insulin analog with dual insulin and IGF-1 receptor agonism and distinct signaling",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb7558?af=R"
+    },
+    {
+      "title": "High-energy anode-free Li metal batteries with in-built surface-fluorinated Li-rich Mn-based cathodes",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb7563?af=R"
+    },
+    {
       "title": "A thyroid hormone–mediated opsin switch initiates metamorphosis in a proto-vertebrate",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8106?af=R"
+    },
+    {
+      "title": "Sub-mV tunable photonic p-bits for probabilistic computing",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb9277?af=R"
+    },
+    {
+      "title": "Helicase A determines the transcription program of TH17 lineage differentiation and autoimmunity",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb9679?af=R"
+    },
+    {
+      "title": "Microswarm bridging effect for dual-surface biofilm eradication in submillimeter infection pockets",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb9792?af=R"
     },
     {
       "title": "A pioneering plastic particle footprint concept for addressing the challenges posed by plastic pollution",
@@ -793,70 +853,10 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec1418?af=R"
     },
     {
-      "title": "From hotspots to hotspaces: Cascaded photonic-plasmonic coupling for SERS-based deep profiling of whole small extracellular vesicles",
+      "title": "Helper lipid-engineered extracellular vesicles enable PET imaging–guided pulmonary siRNA delivery to treat lung metastasis",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec1846?af=R"
-    },
-    {
-      "title": "IgLON5 autoimmune antibodies activate Tau via neuronal hyperactivity",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec2042?af=R"
-    },
-    {
-      "title": "Cell cycle oscillations in a polarity network facilitate state switching by morphogenetic cues",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3379?af=R"
-    },
-    {
-      "title": "Self-organized criticality in aquatic robot swarm",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec6153?af=R"
-    },
-    {
-      "title": "Axial-time mapping: A diagnostic method to reveal concealed long-term catalyst deactivation mechanism in CO2 hydrogenation",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec8813?af=R"
-    },
-    {
-      "title": "Synergistic antioxidant and gene supplementation for high-efficacy retinitis pigmentosa therapy",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed0154?af=R"
-    },
-    {
-      "title": "4D printing of hierarchically porous carbon–supported high-entropy ceramic metamaterial for tunable microwave absorption",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed0172?af=R"
-    },
-    {
-      "title": "Polyketide synthase–like functionality acquired by plant fatty acid elongase",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed2892?af=R"
-    },
-    {
-      "title": "Beyond formic acid: Peptides in carpenter ant venoms aid in disease protection",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed4078?af=R"
-    },
-    {
-      "title": "Open and closed forms of assembled henipavirus nucleoprotein suggest structural basis of genome access",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed8300?af=R"
-    },
-    {
-      "title": "A Wnt-induced conformational phospho-switch in DVL3 controls association with Frizzled receptors and Wnt/β-catenin signaling",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed8899?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec1692?af=R"
     }
   ]
 }
