@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "title": "Vanishing tongues and life on Mars: Books in brief",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01655-w"
+    },
+    {
+      "title": "De novo design of miniproteins targeting GPCRs",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10656-8"
+    },
+    {
+      "title": "Did a boy’s life-saving gene therapy cause his brain tumour?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01593-7"
+    },
+    {
+      "title": "See the clouds streaming and vanishing around this planet — 690 light years away",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01608-3"
+    },
+    {
+      "title": "A star gone rogue tears through the Galaxy",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01591-9"
+    },
+    {
+      "title": "Ebola outbreak spirals out of control: how might it have started?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01645-y"
+    },
+    {
+      "title": "Should I get a dog? What to know about pet ownership as a scientist",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00198-4"
+    },
+    {
+      "title": "Will this Ebola outbreak be the biggest yet?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01646-x"
+    },
+    {
+      "title": "How we’re using AI tools to improve psychedelic-drug research",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01467-y"
+    },
+    {
       "title": "Spinal neuromotor rehabilitation using a portable isokinetic training robot",
       "journal": "Nature",
       "date": "",
@@ -65,60 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10485-9"
-    },
-    {
-      "title": "Dopamine drives persistent remodelling of the maternal brain",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10509-4"
-    },
-    {
-      "title": "Feature-specific threat coding in lateral septum guides defensive action",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10520-9"
-    },
-    {
-      "title": "A critical initialization for biological neural networks",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10528-1"
-    },
-    {
-      "title": "Neural representation of action symbols in primate frontal cortex",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10297-x"
-    },
-    {
-      "title": "A deep-learning framework reveals whole-body perturbations at cell level",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10535-2"
-    },
-    {
-      "title": "Advancing solar and wind penetration in China through energy complementarity",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10570-z"
-    },
-    {
-      "title": "Imaging hidden objects with consumer LiDAR via motion-induced sampling",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10502-x"
-    },
-    {
-      "title": "Design of one-component quasisymmetric protein nanocages",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10554-z"
-    },
-    {
-      "title": "Divergent urban storm response to convective, frontal and tropical systems",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10479-7"
     },
     {
       "title": "This is IT: How accelerated intermittent theta burst stimulation relieves depression symptoms",
@@ -241,124 +241,124 @@
       "url": "https://www.cell.com/cell/fulltext/S0092-8674(26)00465-4?rss=yes"
     },
     {
-      "title": "The economics of morally ambiguous markets",
+      "title": "Artificial intimacies",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeg5752?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeg5507?af=R"
     },
     {
-      "title": "A powerhouse species in peril",
+      "title": "A student takes on Stanford (and the world)",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeh0749?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aei4087?af=R"
     },
     {
-      "title": "Accelerated Himalayan river meandering and dynamics due to climate change",
+      "title": "Magnon hydrodynamics in an atomically thin ferromagnet",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adg8401?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adp2397?af=R"
     },
     {
-      "title": "Raf-like protein kinase heterocomplexes directly regulate the plant plasma membrane H+-ATPase",
+      "title": "Interacting effects of human presence and landscape modification on birds and mammals",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adx9533?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adq3396?af=R"
     },
     {
-      "title": "Predictable seismic cycles result from structural rupture barriers on oceanic transform faults",
+      "title": "Complex interplay of neuronal and hormonal gut-brain responses to essential amino acid deficit",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ady6190?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adv3355?af=R"
     },
     {
-      "title": "Microtubule dynamics control the direction of cardiomyocyte growth",
+      "title": "Dynamics of disordered quantum systems with two- and three-dimensional tensor networks",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adz1970?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adx2728?af=R"
     },
     {
-      "title": "Protist-dominated hard substrate faunas thrive at the deepest ocean depths",
+      "title": "Cloudy mornings and clear evenings on a gas giant exoplanet",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aea7086?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adx5903?af=R"
     },
     {
-      "title": "Decoding collective dynamics and complexity in nanoparticle assemblies using graph theory",
+      "title": "Role of tectonic rock damage in erosional processes: A global analysis",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeb5134?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ady9857?af=R"
     },
     {
-      "title": "High-temperature memristors enabled by interfacial engineering",
+      "title": "Abrupt stream acidification and metal mobilization from permafrost degradation",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeb9934?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aea2898?af=R"
     },
     {
-      "title": "An entropy-regulating molecular lock stabilizes formamidinium lead halide perovskite",
+      "title": "Reward magnitude determines reinforcement learning efficiency",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeb9953?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeb0813?af=R"
     },
     {
-      "title": "Implantable living materials autonomously deliver therapeutics using contained engineered bacteria",
+      "title": "FERONIA orchestrates plasma membrane nanoclusters for plant thermotolerance",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aec2071?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeb1752?af=R"
     },
     {
-      "title": "A molecular pathway to corrosion-resistant printable copper",
+      "title": "Device-scaling constraints imposed by the van der Waals gap formed in two-dimensional materials",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed4488?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeb2271?af=R"
     },
     {
-      "title": "Genetic variability of SARS-CoV-2 in wastewater and associations with community transmission",
+      "title": "A relay energy transfer paradigm for asymmetric photocatalyzed [4+2] cycloadditions",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed6094?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeb8506?af=R"
     },
     {
-      "title": "A unified platform for nucleoside analog synthesis",
+      "title": "Biogeographic processes underlying global patterns of plant diversity",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed6880?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adv6172?af=R"
     },
     {
-      "title": "AI-guided design of efficient perovskite solar cells operationally stable at 100°C",
+      "title": "Long-distance genetic relatedness in megalithic central Europe",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aef1620?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeb2926?af=R"
     },
     {
-      "title": "Aiding peace or conflict? The impact of USAID cuts on violence",
+      "title": "A deep-time landscape of plant cis-regulatory sequence evolution",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed6802?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adt8983?af=R"
     },
     {
-      "title": "Picosecond ultralow-power switching device based on an antiferromagnet",
+      "title": "Mucosal vaccination in mice provides protection from diverse respiratory threats",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adt3136?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aea1260?af=R"
     },
     {
-      "title": "Rewiring STAT signaling from the cell surface with Trikine immunotherapeutics",
+      "title": "Microglia Rank signaling regulates GnRH neuronal function and the hypothalamic-pituitary-gonadal axis",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adx9954?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeb6999?af=R"
     },
     {
-      "title": "Evolving nature-based solutions for urban resilience",
+      "title": "Divergent and programmable skeletal remodeling of complex macrocycles with a small method set",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aea9563?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aee3540?af=R"
     },
     {
-      "title": "In Other Journals",
+      "title": "The oscillatory biology of sleep: Linkage to dementia",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aei7754?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeg2276?af=R"
     },
     {
       "title": "In situ cryo-ET defines the ultrastructure of ER exit sites in human cells",
@@ -529,16 +529,16 @@
       "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2605022123?af=R"
     },
     {
-      "title": "Fungal proliferation before and after the Cretaceous–Paleogene mass extinction event in North America",
-      "journal": "PNAS",
-      "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2536899123?af=R"
-    },
-    {
       "title": "The Antarctic Treaty System needs a disaster management authority to guard the continent against disasters",
       "journal": "PNAS",
       "date": "",
       "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2535757123?af=R"
+    },
+    {
+      "title": "Fungal proliferation before and after the Cretaceous–Paleogene mass extinction event in North America",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2536899123?af=R"
     },
     {
       "title": "Soil temperature fluctuations modulated millet agriculture evolution in Neolithic East Asia",
@@ -637,106 +637,94 @@
       "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2528499123?af=R"
     },
     {
-      "title": "Microbial signals meet regulatory DNA: Gut microbiota control liver gene expression through cis-regulatory elements",
+      "title": "Fun2Fountain: Investigating transcription-replication conflicts in 3D genome",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00243-1?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00282-0?rss=yes"
     },
     {
-      "title": "Enzyme agglomerates change cytoplasmic fluidity",
+      "title": "Pyruvylation of STAT1 inhibits anti-viral immunity: Prospects for new anti-viral therapeutics",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00245-5?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00279-0?rss=yes"
     },
     {
-      "title": "Extracellular alkalinization boosts plant immunity",
+      "title": "INSTALLing recombinase-driven genome writing: Engineered single-stranded donors bypass innate immunity to enable large DNA integration",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00239-X?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00272-8?rss=yes"
     },
     {
-      "title": "Aconitase 2 the rescue: A safeguard against excess mitochondrial citrate",
+      "title": "Rapid customization of base editors via machine learning-powered combinatorial mutagenesis",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00244-3?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00206-6?rss=yes"
     },
     {
-      "title": "The discovery of 5mC-selective deaminases and their application to ultra-sensitive direct sequencing of methylated sites at base resolution",
+      "title": "Damage-induced i-loops generate eccDNA from repetitive elements",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00203-0?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00237-6?rss=yes"
     },
     {
-      "title": "PDS5 proteins control genome architecture by limiting the lifetime of cohesin-NIPBL complexes",
+      "title": "Deciphering the dual effects of transcription on DNA replication elongation by replication-associated Micro-C",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00201-7?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00210-8?rss=yes"
     },
     {
-      "title": "Cohesin cofactor dosage sets the rate of loop extrusion, rendering genome folding tunable yet vulnerable to genetic disruption",
+      "title": "Structural basis for multi-subunit DNA-dependent RNA polymerase catalytic activity",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00233-9?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00209-1?rss=yes"
     },
     {
-      "title": "A time-resolved atlas of histone modifications during mitotic entry",
+      "title": "Sub-2 Å cryo-EM structures of transcribing RNA polymerase II reveal critical roles of water molecules in catalysis",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00234-0?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00241-8?rss=yes"
     },
     {
-      "title": "Mutual antagonism between PRC1 condensates and SWI/SNF in chromatin regulation",
+      "title": "Transcription and cohesin direct domain boundary spatial positioning and are linked to Friedreich’s ataxia",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00235-2?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00273-X?rss=yes"
     },
     {
-      "title": "H2AK119ub1-MLL2 counteraction underlies heritable H3K27me3 formation in oocytes",
+      "title": "MRE11 proximal polyadenylation site-mediated looping impacts transcription and genomic stability",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00190-5?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00208-X?rss=yes"
     },
     {
-      "title": "Gut microbiota modulation of regulatory DNA elements revealed by massively parallel functional characterization",
+      "title": "Acyltransferase ZDHHC22 promotes N-Myc transcriptional activation to drive neuroblastoma progression and chemoresistance",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00232-7?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00236-4?rss=yes"
     },
     {
-      "title": "Alu repeat-containing RNAs spatially organize actively transcribed genomic regions around nuclear speckles",
+      "title": "Proteotoxic stress response is governed by ER-associated sorting of proteasome transcriptional activators",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00207-8?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00238-8?rss=yes"
     },
     {
-      "title": "PARP1 suppression drives ROS resistance in aneuploid cancer cells",
+      "title": "Salmonella effector SteE reprograms the macrophage regulatory network to drive specific hyperactivation of STAT3 target genes",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00240-6?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00266-2?rss=yes"
     },
     {
-      "title": "Cytoplasmic RNase III Drosha controls lipogenesis by noncanonical regulation of SREBP1",
+      "title": "CRL2FEM1B uses heme to recruit BACH1 for degradation and regulate ferroptosis in lung cancer",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00204-2?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00242-X?rss=yes"
     },
     {
-      "title": "Condition-dependent amorphous protein agglomerates control cytoplasmic rheology",
+      "title": "High-throughput screening approach identifies substrate-selective Hsp104 variants that counter amyloid seeding with diminished off-target effects",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00194-2?rss=yes"
-    },
-    {
-      "title": "A phosphorelay circuit drives extracellular alkalinization in receptor kinase-mediated immune and cell-wall damage signaling",
-      "journal": "Molecular Cell",
-      "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00211-X?rss=yes"
-    },
-    {
-      "title": "Multi-site DMS probing reveals higher-order structure of RNA-protein complexes in living cells",
-      "journal": "Molecular Cell",
-      "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00205-4?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00269-8?rss=yes"
     },
     {
       "title": "Autism-like phenotypes and increased NMDAR2D expression in mice with KDM5B histone lysine demethylase deficiency",
