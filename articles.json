@@ -7,6 +7,36 @@
       "url": "https://www.nature.com/articles/d41586-026-01655-w"
     },
     {
+      "title": "Major Ebola outbreak is escalating: what happens next",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01660-z"
+    },
+    {
+      "title": "Neuroflix",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01087-6"
+    },
+    {
+      "title": "AI cracks 80-year-old mathematics challenge — researchers are astonished",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01651-0"
+    },
+    {
+      "title": "Hit a lab project glitch? Thinking about your thesis title like a storyteller can help you focus",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01392-0"
+    },
+    {
+      "title": "Stress impairs your brain’s ability to link memories — dampening insight",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01644-z"
+    },
+    {
       "title": "De novo design of miniproteins targeting GPCRs",
       "journal": "Nature",
       "date": "",
@@ -17,12 +47,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01593-7"
-    },
-    {
-      "title": "See the clouds streaming and vanishing around this planet — 690 light years away",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01608-3"
     },
     {
       "title": "A star gone rogue tears through the Galaxy",
@@ -43,7 +67,13 @@
       "url": "https://www.nature.com/articles/d41586-026-00198-4"
     },
     {
-      "title": "Will this Ebola outbreak be the biggest yet?",
+      "title": "See the clouds streaming and vanishing around this planet — 690 light years away",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01608-3"
+    },
+    {
+      "title": "Ebola outbreak: the data that show why researchers are so alarmed",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01646-x"
@@ -53,6 +83,12 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01467-y"
+    },
+    {
+      "title": "Daily briefing: Wearable robot could help kids with neuromuscular disease stand",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01656-9"
     },
     {
       "title": "Spinal neuromotor rehabilitation using a portable isokinetic training robot",
@@ -83,42 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01627-0"
-    },
-    {
-      "title": "What China’s rise in chemistry means for the rest of the world",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-00428-9"
-    },
-    {
-      "title": "Cusp-singularity-enhanced Coriolis effect for sensitive chip-scale gyroscopes",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10565-w"
-    },
-    {
-      "title": "A pathogen lncRNA secreted into rice sequesters a host miRNA for virulence",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10572-x"
-    },
-    {
-      "title": "De novo design of quasisymmetric two-component protein cages",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10464-0"
-    },
-    {
-      "title": "Genetic analysis of circulating metabolic traits in 619,372 individuals",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10532-5"
-    },
-    {
-      "title": "Nonlinear atomic tunnelling boosted by bright squeezed vacuum",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10485-9"
     },
     {
       "title": "This is IT: How accelerated intermittent theta burst stimulation relieves depression symptoms",
@@ -289,12 +289,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.ady9857?af=R"
     },
     {
-      "title": "Abrupt stream acidification and metal mobilization from permafrost degradation",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aea2898?af=R"
-    },
-    {
       "title": "Reward magnitude determines reinforcement learning efficiency",
       "journal": "Science",
       "date": "",
@@ -319,16 +313,22 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aeb8506?af=R"
     },
     {
+      "title": "Long-distance genetic relatedness in megalithic central Europe",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeb2926?af=R"
+    },
+    {
       "title": "Biogeographic processes underlying global patterns of plant diversity",
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.adv6172?af=R"
     },
     {
-      "title": "Long-distance genetic relatedness in megalithic central Europe",
+      "title": "Abrupt stream acidification and metal mobilization from permafrost degradation",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeb2926?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aea2898?af=R"
     },
     {
       "title": "A deep-time landscape of plant cis-regulatory sequence evolution",
@@ -359,6 +359,18 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aeg2276?af=R"
+    },
+    {
+      "title": "Stress granules shape ferroptosis in cancer",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01950-8"
+    },
+    {
+      "title": "Stress granules restrain ferroptosis by sequestering ferritin",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01953-5"
     },
     {
       "title": "In situ cryo-ET defines the ultrastructure of ER exit sites in human cells",
@@ -395,18 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01954-4"
-    },
-    {
-      "title": "High-throughput generation of patient-derived cancer stem cells for precision medicine using a microwell-chip platform",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01957-1"
-    },
-    {
-      "title": "RNA imbalance as a hallmark of cellular ageing",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01946-4"
     },
     {
       "title": "A BAFfling link between the β cell nucleolus, islet immune microenvironment, and type 2 diabetes",
@@ -589,12 +589,6 @@
       "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2527503123?af=R"
     },
     {
-      "title": "Sperm, egg, and embryo proteins critical for genetic adaptation of herring to low salinity in the Baltic Sea",
-      "journal": "PNAS",
-      "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2601861123?af=R"
-    },
-    {
       "title": "Emergent anisotropic three-phase order in critically doped superconducting diamond films",
       "journal": "PNAS",
       "date": "",
@@ -613,12 +607,6 @@
       "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2534895123?af=R"
     },
     {
-      "title": "Structural and dynamic basis of indirect apoptosis inhibition by Bcl-xL: A case study with Bid",
-      "journal": "PNAS",
-      "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2527963123?af=R"
-    },
-    {
       "title": "Exploring entropy landscapes using hard particle Monte Carlo metadynamics",
       "journal": "PNAS",
       "date": "",
@@ -635,6 +623,18 @@
       "journal": "PNAS",
       "date": "",
       "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2528499123?af=R"
+    },
+    {
+      "title": "Global and regional climate modes modulate armed conflict risk",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2532935123?af=R"
+    },
+    {
+      "title": "Oak masting breaks down in a highly fragmented, pollen-limited landscape",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2533900123?af=R"
     },
     {
       "title": "Fun2Fountain: Investigating transcription-replication conflicts in 3D genome",
@@ -733,10 +733,28 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adq6577?af=R"
     },
     {
+      "title": "P2X7R of synovial fibroblasts is a potential therapeutic target associated with refractory rheumatoid arthritis",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adw9543?af=R"
+    },
+    {
+      "title": "Scalable and cost-efficient custom gene library assembly from oligopools",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady2279?af=R"
+    },
+    {
       "title": "Paleo–salt water dominates coastal aquifer salinization: A continental-scale study in China",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady2322?af=R"
+    },
+    {
+      "title": "The posteroventral part of the medial amygdala nucleus glutamatergic neurons encodes conspecifics’ individual identity in rodents",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady9830?af=R"
     },
     {
       "title": "The immunoproteome and multimorbidity: A Mendelian randomization study",
@@ -763,6 +781,24 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea0755?af=R"
     },
     {
+      "title": "Critical point–based wireless sensors enabling tiny perturbation detection",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea6541?af=R"
+    },
+    {
+      "title": "Molecular interfaces drive vertical crystallization in Dion-Jacobson perovskite solar cells",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea7043?af=R"
+    },
+    {
+      "title": "Multiplexed single-cell transcriptomics reveals diverse phenotypic outcomes for pathogenic SHP2 variants",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea9389?af=R"
+    },
+    {
       "title": "Tropical basin interactions reduce spring predictability barrier of ENSO in a deep learning model",
       "journal": "Science Advances",
       "date": "",
@@ -779,6 +815,12 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1429?af=R"
+    },
+    {
+      "title": "Room-temperature spinor condensate in halide perovskite microcavity",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1521?af=R"
     },
     {
       "title": "Ferromagnetic superconductivity with excitonic Cooper pairs: Application to Γ-valley twisted semiconductors",
@@ -799,52 +841,10 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8034?af=R"
     },
     {
-      "title": "Adaptive tunneling photodiodes enable visual recognition in high-contrast scenes",
+      "title": "Noncanonical PI(4,5)P2 coordinates lysosome positioning through cholesterol trafficking",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec4849?af=R"
-    },
-    {
-      "title": "Discovery of spontaneous mesoscopic strain waves in nematic domains using dark-field x-ray microscopy",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec8998?af=R"
-    },
-    {
-      "title": "Visualizing the mechanism of quinol oxidation and inhibition of a bd-type oxidase using cryo-EM",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec9946?af=R"
-    },
-    {
-      "title": "A dual membrane-adsorption evaporator for solar-powered lithium extraction from complex brines",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed0975?af=R"
-    },
-    {
-      "title": "Continuous monitoring of blood–interstitial fluid intercompartmental molecular kinetics in freely moving animals",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed1895?af=R"
-    },
-    {
-      "title": "Erythrocyte patch for enhanced B cell depletion therapy",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed3138?af=R"
-    },
-    {
-      "title": "Cooperativity, entropy, and effective concentration in DNA origami self-replication",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed9517?af=R"
-    },
-    {
-      "title": "Ionic liquid–regulated interfacial charge transport and asymmetric device architecture for high-performance electrochemiluminescence",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed9796?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8658?af=R"
     }
   ]
 }
