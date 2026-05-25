@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "How I eavesdrop on frog conversations",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01621-6"
+    },
+    {
       "title": "Vanishing tongues and life on Mars: Books in brief",
       "journal": "Nature",
       "date": "",
@@ -113,12 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01643-0"
-    },
-    {
-      "title": "AI ‘scientists’ promise to accelerate research — how do they work?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01627-0"
     },
     {
       "title": "This is IT: How accelerated intermittent theta burst stimulation relieves depression symptoms",
@@ -359,54 +359,6 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aeg2276?af=R"
-    },
-    {
-      "title": "Stress granules shape ferroptosis in cancer",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01950-8"
-    },
-    {
-      "title": "Stress granules restrain ferroptosis by sequestering ferritin",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01953-5"
-    },
-    {
-      "title": "In situ cryo-ET defines the ultrastructure of ER exit sites in human cells",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01964-2"
-    },
-    {
-      "title": "Fuelling basement membrane invasion",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01968-y"
-    },
-    {
-      "title": "Alu RNAs organize transcription at speckles",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01969-x"
-    },
-    {
-      "title": "Tracking the fates of cystine in tumours",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01967-z"
-    },
-    {
-      "title": "Mechanisms and functions of large extracellular vesicle biogenesis",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01940-w"
-    },
-    {
-      "title": "Tissue rigidity phase transition shapes morphogen gradients",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01954-4"
     },
     {
       "title": "A BAFfling link between the β cell nucleolus, islet immune microenvironment, and type 2 diabetes",
