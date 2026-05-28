@@ -1,6 +1,126 @@
 {
   "items": [
     {
+      "title": "Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10700-7"
+    },
+    {
+      "title": "Author Correction: Satellite megaconstellations will threaten space-based astronomy",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10553-0"
+    },
+    {
+      "title": "Could a pill prevent the world’s deadliest cancer?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01382-2"
+    },
+    {
+      "title": "Bohmian mechanics remains unchallenged by tunnelling experiment",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10450-6"
+    },
+    {
+      "title": "β-Arrestin condensates regulate G-protein-coupled receptor function",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10539-y"
+    },
+    {
+      "title": "Human haematopoietic stem cells remember inflammatory stress",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10522-7"
+    },
+    {
+      "title": "Darkness and body size shaped end-Cretaceous marine extinction patterns",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10541-4"
+    },
+    {
+      "title": "Sparse-to-dense coding transformation between hippocampal areas CA3 and CA1",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10537-0"
+    },
+    {
+      "title": "Technology mediation in child sexual exploitation and abuse in Africa and Asia",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10525-4"
+    },
+    {
+      "title": "αKG-mediated carnitine synthesis drives DNA repair via histone acetylation",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10584-7"
+    },
+    {
+      "title": "Four ppm measurement of the antihydrogen ground-state hyperfine splitting",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10556-x"
+    },
+    {
+      "title": "Cellular water-potential sensing through biomolecular condensation",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10591-8"
+    },
+    {
+      "title": "Distinct genetic architecture in the tails of complex traits",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10516-5"
+    },
+    {
+      "title": "Universal transcriptomic hallmarks of mammalian ageing and mortality",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10542-3"
+    },
+    {
+      "title": "Substrate selectivity of the human RNA m<sup>5</sup>C methyltransferase NSUN2",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10582-9"
+    },
+    {
+      "title": "Transcription factor codes patterning neuronal groundplans of the cerebrum",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10526-3"
+    },
+    {
+      "title": "Spatiotemporal transcriptome atlas of human embryos after gastrulation",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10545-0"
+    },
+    {
+      "title": "Dynamical freezing for magnetometry in an interacting spin ensemble",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10585-6"
+    },
+    {
+      "title": "Cavity-driven attractive interactions in quantum materials",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10609-1"
+    },
+    {
+      "title": "Experimental randomness amplification",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10521-8"
+    },
+    {
       "title": "This is IT: How accelerated intermittent theta burst stimulation relieves depression symptoms",
       "journal": "Cell",
       "date": "",
@@ -139,12 +259,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.adp2397?af=R"
     },
     {
-      "title": "Interacting effects of human presence and landscape modification on birds and mammals",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adq3396?af=R"
-    },
-    {
       "title": "Complex interplay of neuronal and hormonal gut-brain responses to essential amino acid deficit",
       "journal": "Science",
       "date": "",
@@ -167,12 +281,6 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.ady9857?af=R"
-    },
-    {
-      "title": "Reward magnitude determines reinforcement learning efficiency",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeb0813?af=R"
     },
     {
       "title": "FERONIA orchestrates plasma membrane nanoclusters for plant thermotolerance",
@@ -199,16 +307,22 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aeb2926?af=R"
     },
     {
+      "title": "Abrupt stream acidification and metal mobilization from permafrost degradation",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aea2898?af=R"
+    },
+    {
       "title": "Biogeographic processes underlying global patterns of plant diversity",
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.adv6172?af=R"
     },
     {
-      "title": "Abrupt stream acidification and metal mobilization from permafrost degradation",
+      "title": "Reward magnitude determines reinforcement learning efficiency",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aea2898?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeb0813?af=R"
     },
     {
       "title": "A deep-time landscape of plant cis-regulatory sequence evolution",
@@ -235,10 +349,22 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aee3540?af=R"
     },
     {
+      "title": "Interacting effects of human presence and landscape modification on birds and mammals",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.adq3396?af=R"
+    },
+    {
       "title": "The oscillatory biology of sleep: Linkage to dementia",
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aeg2276?af=R"
+    },
+    {
+      "title": "Transcription-independent induction of rapid-onset senescence is integral to healing",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01948-2"
     },
     {
       "title": "A transport-independent role for SLC25A12 in mitochondrial stress signalling",
@@ -281,12 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01950-8"
-    },
-    {
-      "title": "Stress granules restrain ferroptosis by sequestering ferritin",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01953-5"
     },
     {
       "title": "A BAFfling link between the β cell nucleolus, islet immune microenvironment, and type 2 diabetes",
@@ -607,124 +727,124 @@
       "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00269-8?rss=yes"
     },
     {
-      "title": "Autism-like phenotypes and increased NMDAR2D expression in mice with KDM5B histone lysine demethylase deficiency",
+      "title": "Warming and vegetation greening drive recent surge in flash droughts",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adq6577?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea8452?af=R"
     },
     {
-      "title": "P2X7R of synovial fibroblasts is a potential therapeutic target associated with refractory rheumatoid arthritis",
+      "title": "Distinct properties of plastic-derived submicrometer particles from smoldering burning",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adw9543?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec8184?af=R"
     },
     {
-      "title": "Scalable and cost-efficient custom gene library assembly from oligopools",
+      "title": "Evolution of Southern Hemisphere Westerly asymmetry since the Early Miocene",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady2279?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee0530?af=R"
     },
     {
-      "title": "Paleo–salt water dominates coastal aquifer salinization: A continental-scale study in China",
+      "title": "Coral growth, retraction, defense, and regenerative strategies revealed by live microCT",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady2322?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee3183?af=R"
     },
     {
-      "title": "The posteroventral part of the medial amygdala nucleus glutamatergic neurons encodes conspecifics’ individual identity in rodents",
+      "title": "Extreme-range precipitation probability across global weather systems",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady9830?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec6879?af=R"
     },
     {
-      "title": "The immunoproteome and multimorbidity: A Mendelian randomization study",
+      "title": "Hurricane air-sea drag saturation and sea-state dependence revealed by surface drones",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz7117?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec7422?af=R"
     },
     {
-      "title": "Emergence of unconventional ferroelectric phase in ultrathin Hf0.5Zr0.5O2 films",
+      "title": "Multicellular senescence impairs skeletal muscle recovery following disuse in aging",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz8245?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed5255?af=R"
     },
     {
-      "title": "Hypoxia-responsive interaction between P-TEFb, BHLHE40, and Tim8-Tim13 regulates hypoxic gene transcription",
+      "title": "Phosphorylation remodels the mitotic centrosome matrix to generate bipartite γ-tubulin complex docking sites",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz9295?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed6539?af=R"
     },
     {
-      "title": "Schizophrenia risk gene ZNF804A controls ribosome localization and synaptogenesis in developing human neurons",
+      "title": "Mechanisms of ligand recognition and channel opening for P2X2 receptors in lipid nanodiscs",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea0755?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee4242?af=R"
     },
     {
-      "title": "Critical point–based wireless sensors enabling tiny perturbation detection",
+      "title": "Multiple photon field–induced topological states in bulk HgTe",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea6541?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea5823?af=R"
     },
     {
-      "title": "Molecular interfaces drive vertical crystallization in Dion-Jacobson perovskite solar cells",
+      "title": "Understanding the density maximum of water with machine-learned potentials",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea7043?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec6748?af=R"
     },
     {
-      "title": "Multiplexed single-cell transcriptomics reveals diverse phenotypic outcomes for pathogenic SHP2 variants",
+      "title": "Femtosecond modulation of electron correlations in a Luttinger liquid",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea9389?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec7494?af=R"
     },
     {
-      "title": "Tropical basin interactions reduce spring predictability barrier of ENSO in a deep learning model",
+      "title": "Bioelectric calcium transport and activation in mammalian cells using field-focused DNA-carbon nanotube meshes",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb0901?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed4736?af=R"
     },
     {
-      "title": "Identifying menstrual metrics as personal health markers: Age trends and individual footprints in temperature across 5674 cycles",
+      "title": "A strengthened and southward-shifted westerly jet mitigates warming-induced drying across Asian drylands",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1175?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed7890?af=R"
     },
     {
-      "title": "Nereid as a regular satellite of Neptune",
+      "title": "A plant immune receptor mediates tritrophic interactions by linking caterpillar detection to predator recruitment",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1429?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3229?af=R"
     },
     {
-      "title": "Room-temperature spinor condensate in halide perovskite microcavity",
+      "title": "Structural properties, polymorphism, and multiscale disorder unravel energy transport limitations in perylene diimide semiconductors",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1521?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed0037?af=R"
     },
     {
-      "title": "Ferromagnetic superconductivity with excitonic Cooper pairs: Application to Γ-valley twisted semiconductors",
+      "title": "Limited transmission of cervid prions to nonhuman primates provides insights into the zoonotic potential of chronic wasting disease",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb4888?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb7613?af=R"
     },
     {
-      "title": "Interpreting the dominant signature of inhomogeneous mixing resulting from dry-air entrainment in clouds",
+      "title": "A miniaturized implantable electrochemical platform for continuous monitoring of metabolites in deep tissue",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb6751?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz8930?af=R"
     },
     {
-      "title": "Deciphering the ancestral mechanisms of neural regeneration through single-cell analyses of jellyfish rhopalium repair",
+      "title": "Natural tissue immortality: Indefinite survival of sea cucumber explants",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8034?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1394?af=R"
     },
     {
-      "title": "Noncanonical PI(4,5)P2 coordinates lysosome positioning through cholesterol trafficking",
+      "title": "The MsZFP1-MsWRKY40-MsWRKY41 module efficiently regulates LHCII biogenesis via ABA-dependent manner in alfalfa",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8658?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb4778?af=R"
     }
   ]
 }
