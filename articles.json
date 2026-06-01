@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "How long can humans live? We simply don’t know",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01728-w"
+    },
+    {
+      "title": "Science fiction: nine lab-life novels for your holiday reading",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01730-2"
+    },
+    {
+      "title": "Why it’s time to bin recommendation letters in science job applications",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-00507-x"
+    },
+    {
+      "title": "Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01729-9"
+    },
+    {
       "title": "Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe<sub>2</sub> bilayers",
       "journal": "Nature",
       "date": "",
@@ -61,6 +85,12 @@
       "url": "https://www.nature.com/articles/d41586-026-01692-5"
     },
     {
+      "title": "Daily briefing: Pigeons might find their way by following their liver",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01768-2"
+    },
+    {
       "title": "How jazz boosts my creativity in physics",
       "journal": "Nature",
       "date": "",
@@ -89,36 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01732-0"
-    },
-    {
-      "title": "Share the highs and lows of your career in science: take <i>Nature</i>’s global survey",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01589-3"
-    },
-    {
-      "title": "Bridget Ogilvie obituary: parasitologist who championed biomedical labs and scientific evidence",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01733-z"
-    },
-    {
-      "title": "Gene therapies to fix failing hearts gain steam after years in the doldrums",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01598-2"
-    },
-    {
-      "title": "Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10700-7"
-    },
-    {
-      "title": "Author Correction: Satellite megaconstellations will threaten space-based astronomy",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10553-0"
     },
     {
       "title": "Spatial transcriptomics redraws the olfactory map",
@@ -361,6 +361,30 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aei9225?af=R"
     },
     {
+      "title": "Diffusing caveolin-1 scaffolds regulate mechanosignalling",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01966-0"
+    },
+    {
+      "title": "Developmental chronology of mouse embryo from 2-cell stage through birth",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01971-3"
+    },
+    {
+      "title": "Segmental specification of the human female fetal reproductive tract revealed by spatiotemporal dynamics",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01962-4"
+    },
+    {
+      "title": "Emerging roles of ferroptosis in modulating the immune landscape of glial tumours",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01972-2"
+    },
+    {
       "title": "Transcription-independent induction of rapid-onset senescence is integral to healing",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -383,30 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01963-3"
-    },
-    {
-      "title": "Epigenetic programming by H3K23ac defines lineage fate of <i>Meg3</i><sup>+</sup> haematopoietic stem cells and drives immune ageing",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01960-6"
-    },
-    {
-      "title": "Tissue organization and morphogen gradients dynamically tune one another",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01987-9"
-    },
-    {
-      "title": "A kinetics-based model of haematopoiesis reveals extrinsic regulation of skewed lineage output from stem cells",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01958-0"
-    },
-    {
-      "title": "Stress granules shape ferroptosis in cancer",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01950-8"
     },
     {
       "title": "A BAFfling link between the β cell nucleolus, islet immune microenvironment, and type 2 diabetes",
