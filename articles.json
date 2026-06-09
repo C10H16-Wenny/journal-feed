@@ -1,16 +1,58 @@
 {
   "items": [
     {
+      "title": "GPR15-guided CD8<sup>+</sup> T regulatory cells control intestinal inflammation",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10749-4"
+    },
+    {
+      "title": "Distributed control circuits across a brain-and-cord connectome",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10735-w"
+    },
+    {
+      "title": "Targeting Cancer-Specific Mutations with RNA-Triggered Chromatin Shredding",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10738-7"
+    },
+    {
+      "title": "Fifty years since a simple equation described the chaos of biology",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01584-8"
+    },
+    {
+      "title": "How AI is reshaping discovery in maths and physics",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01820-1"
+    },
+    {
       "title": "Why are so many young people getting cancer? What researchers do and don't know",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01780-6"
     },
     {
+      "title": "Bots are scraping open data — how should researchers respond?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01689-0"
+    },
+    {
       "title": "AI is taking on antibiotic resistance — here’s how",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01818-9"
+    },
+    {
+      "title": "Nuclear-fusion firm says plant will deliver electricity to grid – but big questions remain",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01795-z"
     },
     {
       "title": "Sustainability or dystopia? What past patterns tell us about where society is heading",
@@ -25,7 +67,7 @@
       "url": "https://www.nature.com/articles/d41586-026-01831-y"
     },
     {
-      "title": "First precise genome editing of human embryos triggers praise and alarm",
+      "title": "Precise genome editing of human embryos triggers praise and alarm",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01827-8"
@@ -35,6 +77,12 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01610-9"
+    },
+    {
+      "title": "Daily briefing: A spectacular flowery frame for the Milky Way",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01837-6"
     },
     {
       "title": "See a helicopter destined for Mars and a spectacular flowery frame for the Milky Way — May’s best science images",
@@ -71,54 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01789-x"
-    },
-    {
-      "title": "Science with military applications is cited more than civilian-only research",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01770-8"
-    },
-    {
-      "title": "What’s behind China’s historically high counts of corresponding authors?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01623-4"
-    },
-    {
-      "title": "Editorial Expression of Concern: Functional proteomic identification of DNA replication proteins by induced proteolysis <i>in vivo</i>",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10727-w"
-    },
-    {
-      "title": "AI in science recruitment: friend or foe? Join our free webinar",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01774-4"
-    },
-    {
-      "title": "Your phone can use tiny skin-colour changes to measure your heart rate",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01793-1"
-    },
-    {
-      "title": "Reply to: The size of tropical vegetation gross primary production",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10561-0"
-    },
-    {
-      "title": "The size of tropical vegetation gross primary production",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10562-z"
-    },
-    {
-      "title": "A natural depsipeptide antibiotic binds the E-site of the bacterial ribosome",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10589-2"
     },
     {
       "title": "Spatial transcriptomics redraws the olfactory map",
@@ -361,6 +361,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aej3527?af=R"
     },
     {
+      "title": "Author Correction: Plasma membrane curvature regulates the formation of contacts with the endoplasmic reticulum",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01999-5"
+    },
+    {
       "title": "The nuclear shredder behind PARPi resistance",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -401,12 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01948-2"
-    },
-    {
-      "title": "A transport-independent role for SLC25A12 in mitochondrial stress signalling",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01973-1"
     },
     {
       "title": "A BAFfling link between the β cell nucleolus, islet immune microenvironment, and type 2 diabetes",
