@@ -1,10 +1,40 @@
 {
   "items": [
     {
+      "title": "Why we seek to fly: Books in brief",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01911-z"
+    },
+    {
+      "title": "Briefing Chat: The epic journey of Stonehenge’s central stone",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01912-y"
+    },
+    {
       "title": "I advise the Vatican and the UN on AI — don’t dismiss the Pope’s message as theology",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01876-z"
+    },
+    {
+      "title": "‘Student Geng’ ignites research-integrity scandal in China after calling out senior academics<b> </b>",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01902-0"
+    },
+    {
+      "title": "Humans outperform AI at this highly rigorous mathematics test",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01888-9"
+    },
+    {
+      "title": "An innovative technology boosts image quality for protein structures",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01858-1"
     },
     {
       "title": "Author Correction: Plasticity and language in the anaesthetized human hippocampus",
@@ -89,36 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10596-3"
-    },
-    {
-      "title": "A prognostic human brain network for diffuse midline glioma",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10631-3"
-    },
-    {
-      "title": "Two-component exciton condensates in an electron–hole bilayer",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10636-y"
-    },
-    {
-      "title": "Mutation-dependent responses to sleep and exercise in clonal haematopoiesis",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10634-0"
-    },
-    {
-      "title": "Efficient and accurate neural-field reconstruction using resistive memory",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10646-w"
-    },
-    {
-      "title": "Gene ancestries reveal diverse microbial associations during eukaryogenesis",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10639-9"
     },
     {
       "title": "Charting human cellular senescence in aging and disease",
@@ -301,12 +301,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.adv0367?af=R"
     },
     {
-      "title": "Super-earths and mini-neptunes follow different orbital period–eccentricity relations",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adu3916?af=R"
-    },
-    {
       "title": "Global density and biomass of arbuscular mycorrhizal fungal networks",
       "journal": "Science",
       "date": "",
@@ -323,6 +317,12 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.adz7518?af=R"
+    },
+    {
+      "title": "Super-earths and mini-neptunes follow different orbital period–eccentricity relations",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.adu3916?af=R"
     },
     {
       "title": "A 481-meter-high landslide-tsunami in a cruise ship–frequented Alaska fjord",
@@ -721,16 +721,40 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adu7607?af=R"
     },
     {
+      "title": "Composable free-space continuous-variable quantum key distribution using discrete modulation",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adv1440?af=R"
+    },
+    {
+      "title": "Ready-to-load MHC-I nanoparticles for high-throughput T cell screening studies",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adv2687?af=R"
+    },
+    {
       "title": "Bacterial extracellular vesicles promote membrane repair and tolerance to polymyxin B",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adx6378?af=R"
     },
     {
-      "title": "A decline in skeletal muscle NOX4 abrogates exercise-induced adaptive homeostasis and exacerbates biological aging",
+      "title": "Decoupled carbon assimilation and growth responses to aridity in temperate deciduous oaks",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz1953?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady7139?af=R"
+    },
+    {
+      "title": "VMP1 forms a Ca2+ release channel essential for postnatal heartbeat",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz0706?af=R"
+    },
+    {
+      "title": "Widespread ancient bedrock landslide deposits facilitate deep weathering for storage and access of organic carbon",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz1644?af=R"
     },
     {
       "title": "Marine population-genetic inferences reveal stronger oceanic structure in protists than Archaeplastida (plants) and Metazoa (animals)",
@@ -743,6 +767,12 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz7842?af=R"
+    },
+    {
+      "title": "Net release of CO2 from thawing permafrost soil carbon predicted to occur earlier in this century",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz8478?af=R"
     },
     {
       "title": "Chiral nanoparticles drive enantiomer-specific osteogenic differentiation of stem cells and accelerate bone regeneration",
@@ -769,6 +799,24 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb4265?af=R"
     },
     {
+      "title": "SHLD2 loss is a synthetic vulnerability to Polθ inhibition combined with radiotherapy",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb4508?af=R"
+    },
+    {
+      "title": "Integrated evaluation of antibody responses to mosquitoes and mosquito-borne pathogens using highly multiplexed serology",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb7044?af=R"
+    },
+    {
+      "title": "B cell αv integrin regulates tissue specialization and clonal expansion of lung germinal center and memory B cells after viral infection",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb7633?af=R"
+    },
+    {
       "title": "Spatial double-shelled structure achieving stable anion exchange membrane water electrolysis via enhanced local alkalinity",
       "journal": "Science Advances",
       "date": "",
@@ -781,58 +829,10 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec1996?af=R"
     },
     {
-      "title": "High-energy-density aqueous magnesium metal battery textiles enable ultrasensitive pressure sensing across −40° to 100°C",
+      "title": "A biodegradable low-voltage soft actuator with exceptional energy density and ultrafast response",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec8124?af=R"
-    },
-    {
-      "title": "Deep learning reveals enhanced ENSO predictability under historical anthropogenic forcing",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec9518?af=R"
-    },
-    {
-      "title": "Ultrasound priming gated by solid tumor hallmarks to guide CAR-T therapy",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed0666?af=R"
-    },
-    {
-      "title": "Nonequilibrium ion transport in a hybrid battery material",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed1629?af=R"
-    },
-    {
-      "title": "Mice produce interneurons in the septum as a response to aversive experiences and antidepressant treatment",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed3625?af=R"
-    },
-    {
-      "title": "Ultrastable green top-emitting OLEDs approaching BT.2020 enabled by narrowband phosphorescent emitters",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed4859?af=R"
-    },
-    {
-      "title": "Oil-impregnated densified wood veneer with high electrical insulation enabled by nanosized oil channels",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed5744?af=R"
-    },
-    {
-      "title": "PathTIGR: A pathway topology-informed graph representation learning framework for immunotherapy response prediction",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed6373?af=R"
-    },
-    {
-      "title": "Multiphase nanocomposite prelithiation agents for service life lithium replenishment in Si-based Li-ion batteries",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed6926?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec5692?af=R"
     }
   ]
 }
