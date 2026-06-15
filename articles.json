@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Bones of Iron Age skeleton were whittled into tools",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01833-w"
+    },
+    {
+      "title": "Why people should work together to shape the economy",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01889-8"
+    },
+    {
+      "title": "How AI is revealing the secret lives of animals from hummingbirds to pumas",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01887-w"
+    },
+    {
+      "title": "In the field — and sometimes in the lab — the simplest tool is best",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01885-y"
+    },
+    {
+      "title": "Huge study hints at risks of switching from tobacco cigarettes to vapes",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01834-9"
+    },
+    {
       "title": "Why we seek to fly: Books in brief",
       "journal": "Nature",
       "date": "",
@@ -19,7 +49,7 @@
       "url": "https://www.nature.com/articles/d41586-026-01876-z"
     },
     {
-      "title": "‘Student Geng’ ignites research-integrity scandal in China after calling out senior academics<b> </b>",
+      "title": "‘Student Geng’ ignites research-integrity scandal in China after calling out senior academics",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01902-0"
@@ -89,36 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01864-3"
-    },
-    {
-      "title": "Structural basis for chaperone-guided assembly of RNA-induced silencing complex",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10640-2"
-    },
-    {
-      "title": "SIRT7 regulates dosage compensation and safeguards the female X&#xa0;chromosome",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10645-x"
-    },
-    {
-      "title": "A 5.3-million-year-old deep-sea whale necropolis in the Diamantina Zone",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10546-z"
-    },
-    {
-      "title": "Whole-genome duplication shaped cell-type evolution in the vertebrate brain",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10629-x"
-    },
-    {
-      "title": "In situ nanocrystal confinement for efficient blue perovskite LEDs",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10596-3"
     },
     {
       "title": "Charting human cellular senescence in aging and disease",
@@ -359,54 +359,6 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aei3391?af=R"
-    },
-    {
-      "title": "A scientist can come from anywhere",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01975-z"
-    },
-    {
-      "title": "ERO1a fosters glioblastoma aggressiveness and metabolic flexibility by regulating mitochondria-associated membrane dynamics",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01980-2"
-    },
-    {
-      "title": "Publisher Correction: Epigenetic programming by H3K23ac defines lineage fate of <i>Meg3</i><sup>+</sup> haematopoietic stem cells and drives immune ageing",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02000-z"
-    },
-    {
-      "title": "TEAD1 condensates are transcriptionally inactive storage sites on the pericentromeric heterochromatin in cancer cells",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01985-x"
-    },
-    {
-      "title": "DRP1 and MID49 co-diffusion scans mitochondria for fission",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01986-w"
-    },
-    {
-      "title": "Proteomics-based insights into mammalian oocyte and early embryo development",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01993-x"
-    },
-    {
-      "title": "Mitochondria–ER contacts function as an iron supply hub",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01974-0"
-    },
-    {
-      "title": "Long-range mutual activation establishes Rho and Rac polarity during cell migration",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01965-1"
     },
     {
       "title": "A human model of progressive pancreatic neoplasia and cancer",
