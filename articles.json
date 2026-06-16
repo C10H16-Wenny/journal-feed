@@ -1,10 +1,52 @@
 {
   "items": [
     {
+      "title": "Terms of endearment? Bias in first-name eponyms for species named after people",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01916-8"
+    },
+    {
+      "title": "The Haber–Bosch fertilizer production process should be taught through a social-ecological lens",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01914-w"
+    },
+    {
+      "title": "El Niño in a thermally saturated world",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01915-9"
+    },
+    {
+      "title": "Tech titans are hacking their bodies for a longer life: is there science behind their methods?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01884-z"
+    },
+    {
+      "title": "Nanocrystal-tailored recombination for all-perovskite tandem solar modules",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10768-1"
+    },
+    {
       "title": "Bones of Iron Age skeleton were whittled into tools",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01833-w"
+    },
+    {
+      "title": "The latest benefit of obesity drugs: boosting testosterone and sperm quality",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01867-0"
+    },
+    {
+      "title": "‘Every box has been opened’: London botanic gardens digitizes 7 million specimens",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01917-7"
     },
     {
       "title": "Why people should work together to shape the economy",
@@ -13,13 +55,19 @@
       "url": "https://www.nature.com/articles/d41586-026-01889-8"
     },
     {
+      "title": "At-home brain implant gives man with motor neuron disease his daily life back",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01863-4"
+    },
+    {
       "title": "How AI is revealing the secret lives of animals from hummingbirds to pumas",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01887-w"
     },
     {
-      "title": "In the field — and sometimes in the lab — the simplest tool is best",
+      "title": "In the field — and in the lab — sometimes the simplest tool is best",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01885-y"
@@ -71,54 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10784-1"
-    },
-    {
-      "title": "Whale graveyard discovered 7km under the sea",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01886-x"
-    },
-    {
-      "title": "My diverse academic background is affecting my PhD studies — what do I do?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01129-z"
-    },
-    {
-      "title": "Tool flags suspicious journals before researchers submit papers",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01707-1"
-    },
-    {
-      "title": "‘Footballers are not superheroes’: we must tackle the mental and physical pressures of elite sport",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01865-2"
-    },
-    {
-      "title": "This World Cup could be the most high-tech yet — the innovations to watch for",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01866-1"
-    },
-    {
-      "title": "Revealed: how Venus flytraps snap shut with astonishing speed",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01857-2"
-    },
-    {
-      "title": "Giant crustacean of the deep sea steals a trick from bacteria",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01832-x"
-    },
-    {
-      "title": "Newly discovered whale graveyard dates back millions of years",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01864-3"
     },
     {
       "title": "Charting human cellular senescence in aging and disease",
@@ -301,12 +301,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.adv0367?af=R"
     },
     {
-      "title": "Global density and biomass of arbuscular mycorrhizal fungal networks",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adu4373?af=R"
-    },
-    {
       "title": "Divergent evolution of nitrogen cycling along gradients of landscape water velocities",
       "journal": "Science",
       "date": "",
@@ -323,6 +317,12 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.adu3916?af=R"
+    },
+    {
+      "title": "Global density and biomass of arbuscular mycorrhizal fungal networks",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.adu4373?af=R"
     },
     {
       "title": "A 481-meter-high landslide-tsunami in a cruise ship–frequented Alaska fjord",
@@ -745,12 +745,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1989?af=R"
     },
     {
-      "title": "Single-nucleus profiling reveals a core disease signature and cell type–specific vulnerabilities in early Rett syndrome",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb4265?af=R"
-    },
-    {
       "title": "SHLD2 loss is a synthetic vulnerability to Polθ inhibition combined with radiotherapy",
       "journal": "Science Advances",
       "date": "",
@@ -785,6 +779,12 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec5692?af=R"
+    },
+    {
+      "title": "Topological acoustic synapse for high-dimensional neuromorphic computing",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec6633?af=R"
     }
   ]
 }
