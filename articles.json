@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "The EU needs to back its ambition to end animal testing with cash",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01882-1"
+    },
+    {
+      "title": "Should nicotine be regulated like a narcotic? A Pacific nation makes the case",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01903-z"
+    },
+    {
+      "title": "These ‘master’ proteins protect us from deadly mutations — and could inspire new drugs",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01883-0"
+    },
+    {
+      "title": "Author Correction: Ontogeny and transcriptional regulation of Thetis cells",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10770-7"
+    },
+    {
       "title": "Terms of endearment? Bias in first-name eponyms for species named after people",
       "journal": "Nature",
       "date": "",
@@ -13,10 +37,22 @@
       "url": "https://www.nature.com/articles/d41586-026-01914-w"
     },
     {
+      "title": "How do researchers choose what to work on?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01811-2"
+    },
+    {
       "title": "El Niño in a thermally saturated world",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01915-9"
+    },
+    {
+      "title": "AI has entered the workforce: tax tech profits, not people",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01877-y"
     },
     {
       "title": "Tech titans are hacking their bodies for a longer life: is there science behind their methods?",
@@ -41,6 +77,12 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01867-0"
+    },
+    {
+      "title": "Daily briefing: Iron-Age human bones were made into tools before interment",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01929-3"
     },
     {
       "title": "‘Every box has been opened’: London botanic gardens digitizes 7 million specimens",
@@ -77,48 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01834-9"
-    },
-    {
-      "title": "Why we seek to fly: Books in brief",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01911-z"
-    },
-    {
-      "title": "Briefing Chat: The epic journey of Stonehenge’s central stone",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01912-y"
-    },
-    {
-      "title": "I advise the Vatican and the UN on AI — don’t dismiss the Pope’s message as theology",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01876-z"
-    },
-    {
-      "title": "‘Student Geng’ ignites research-integrity scandal in China after calling out senior academics",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01902-0"
-    },
-    {
-      "title": "Humans outperform AI at this highly rigorous mathematics test",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01888-9"
-    },
-    {
-      "title": "An innovative technology boosts image quality for protein structures",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01858-1"
-    },
-    {
-      "title": "Author Correction: Plasticity and language in the anaesthetized human hippocampus",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10784-1"
     },
     {
       "title": "Charting human cellular senescence in aging and disease",
@@ -361,6 +361,54 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aei3391?af=R"
     },
     {
+      "title": "Author Correction: Increasing the efficiency and targeting range of cytidine base editors through fusion of a single-stranded DNA-binding protein domain",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02001-y"
+    },
+    {
+      "title": "Author Correction: Long-term, in toto live imaging of cardiomyocyte behaviour during mouse ventricle chamber formation at single-cell resolution",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02011-w"
+    },
+    {
+      "title": "Author Correction: MISO regulates mitochondrial dynamics and mtDNA homeostasis by establishing membrane subdomains",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02017-4"
+    },
+    {
+      "title": "A platform to study pacemaker",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01994-w"
+    },
+    {
+      "title": "Author Correction: BRIT1/MCPH1 links chromatin remodelling to DNA damage response",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01997-7"
+    },
+    {
+      "title": "Spatial profiling in bladder cancer",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01990-0"
+    },
+    {
+      "title": "Starving and crowded in quiescence",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01995-9"
+    },
+    {
+      "title": "Integrated stress response couples mitochondrial fitness with lineage reprogramming to drive cancer evolution",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01991-z"
+    },
+    {
       "title": "A human model of progressive pancreatic neoplasia and cancer",
       "journal": "Developmental Cell",
       "date": "",
@@ -454,121 +502,121 @@
       "title": "In This Issue",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/iti2326123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/iti2426123?af=R"
     },
     {
-      "title": "Mean field game model of the impact of reductions in support on faculty research activity",
+      "title": "Madhav Gadgil (1942–2026): A pioneering Indian ecologist’s legacy of biodiversity conservation and human coexistence",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2538029123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2611387123?af=R"
     },
     {
-      "title": "The politicization of academic collaborations threatens to harm international science",
+      "title": "Driven by climate change, sudden swings between wet and dry create “hydrologic whiplash”",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2502611123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2617960123?af=R"
     },
     {
-      "title": "Kernel embeddings and the separation of measure phenomenon",
+      "title": "Quantum algorithms for viscosity solutions to nonlinear Hamilton–Jacobi equations based on an entropy penalization method",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2522504123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2607144123?af=R"
     },
     {
-      "title": "Elevated threat status of large-fruited plants is associated with the extinction of large frugivores in the Caribbean islands",
+      "title": "Enhanced global storm surges by tropical cyclone poleward migration",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2535192123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2535524123?af=R"
     },
     {
-      "title": "Animals have expanded the evolutionary legacy of unicellular ancestors in blood cells",
+      "title": "New climate regime restructures the ecology of Canada’s Northern Great Lakes",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2528110123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2603271123?af=R"
     },
     {
-      "title": "Damselflies overcome color saturation barriers of photonic glasses via pigment loading and refractive index modulation",
+      "title": "An aquaglyceroporin governs cellular water and CO2 conductance relevant for vesicular mineral formation in a marine calcifier",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2527433123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2524614123?af=R"
     },
     {
-      "title": "miR-146a is a pleiotropic regulator of motor neuron degeneration",
+      "title": "Arabidopsis YEATS domain proteins facilitate DNA double-strand break repair via homology-directed pathways",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2526314123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2612171123?af=R"
     },
     {
-      "title": "GPIHBP1 on oligodendrocytes binds lipoprotein lipase within the human brain",
+      "title": "mRNA delivery of a class 1/4 SARS-CoV-2 neutralizing antibody protects against diverse sarbecoviruses in a lethal mouse challenge model",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2610646123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2536870123?af=R"
     },
     {
-      "title": "Canonical and variant PRC1 functionally converge on PRC2 targets to regulate transcriptional programs during mouse limb development",
+      "title": "Functional asymmetry and essential structural roles of PDE6α and PDE6β subunits in rod–photoreceptor integrity",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2514963123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2604088123?af=R"
     },
     {
-      "title": "Climate change, inequality, and childhood stunting in African countries",
+      "title": "A census of anti-CRISPR proteins reveals AcrIE9 and AcrIE13 as inhibitors of the Escherichia coli K12 type IE CRISPR-Cas system",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2518179123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2529903123?af=R"
     },
     {
-      "title": "Memory, chaos, and noise in ecological forecasting",
+      "title": "Circular and athermal atmospheric CO2 capture by food waste-derived amyloid sorbents",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2604256123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2535689123?af=R"
     },
     {
-      "title": "Egress thresholds and wildfire fatalities",
+      "title": "Dissecting hydrogen bond energetics to answer the age-old question: “How much do hydrogen bonds contribute to enzymatic catalysis?”",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2535081123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2534793123?af=R"
     },
     {
-      "title": "Synthetic pectin–cellulose nanofiber capsule recapitulates the mechanical properties of a regenerating plant cell wall",
+      "title": "Structural modeling reveals the mechanism of motor ATPase coordination during type IV pilus retraction",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2528515123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2531253123?af=R"
     },
     {
-      "title": "Polyphosphate affects the growth and methanogenesis of deep-sea methanogenic archaea",
+      "title": "A pericyte chloride clamp mechanism governs capillary control of cerebral blood flow",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2608127123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2523612123?af=R"
     },
     {
-      "title": "Resolving Feynman’s restaurant problem reveals optimal solutions and human strategies",
+      "title": "Avoidance of MAIT cells is an essential determinant of Listeria monocytogenes pathogenesis",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2509612123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2601925123?af=R"
     },
     {
-      "title": "Impacts of future sea level change on Greenland from community knowledge, coastal mapping, and glacial isostatic adjustment models",
+      "title": "A long-distance signaling loop promotes soybean nodulation and productivity",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2528615123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2609325123?af=R"
     },
     {
-      "title": "HLA micropolymorphisms confine neoantigen conformational adaptability and guide T cell receptor selectivity",
+      "title": "Targeting the cGAS–STING pathway mitigates Huntington disease pathogenesis in a knock-in mouse model",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2602949123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2535879123?af=R"
     },
     {
-      "title": "Type I hair cells of striolar and central zones in vestibular organs are essential for head stability and postural control",
+      "title": "Active zone plasticity couples sleep need to presynaptic hypophosphorylation",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2535179123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2524065123?af=R"
     },
     {
-      "title": "Resetting population mobility responses under repeated nonpharmaceutical interventions: Implications for hypothesized pandemic fatigue",
+      "title": "A biomineralized light-guiding structure in the porous calcitic skeleton of the sea star Protoreaster nodosus",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2533284123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2533437123?af=R"
     },
     {
       "title": "Everything you always wanted to know about plasmid chromatinization … but were afraid to ask",
@@ -685,12 +733,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adv2687?af=R"
     },
     {
-      "title": "Bacterial extracellular vesicles promote membrane repair and tolerance to polymyxin B",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adx6378?af=R"
-    },
-    {
       "title": "Decoupled carbon assimilation and growth responses to aridity in temperate deciduous oaks",
       "journal": "Science Advances",
       "date": "",
@@ -785,6 +827,12 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec6633?af=R"
+    },
+    {
+      "title": "Bacteriophages hijack 2′,3′-cNMPs to enhance transposase-mediated phage DNA integration in Acinetobacter baumannii",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec7770?af=R"
     }
   ]
 }
