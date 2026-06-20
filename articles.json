@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10812-0"
+    },
+    {
+      "title": "A long-lived butterfly’s secret to graceful ageing",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01948-0"
+    },
+    {
+      "title": "Briefing Chat: Testosterone and sperm might get a boost from obesity drugs",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01963-1"
+    },
+    {
       "title": "Stem cells banish severe autoimmune disease for 15 years",
       "journal": "Nature",
       "date": "",
@@ -37,10 +55,10 @@
       "url": "https://www.nature.com/articles/d41586-026-01910-0"
     },
     {
-      "title": "Daily briefing: The proteins that protect us from deadly mutations",
+      "title": "Daily briefing: The brain builds a sentence neuron by neuron",
       "journal": "Nature",
       "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01960-4"
+      "url": "https://www.nature.com/articles/d41586-026-01967-x"
     },
     {
       "title": "Towards Conversational AI for Disease Management",
@@ -49,10 +67,10 @@
       "url": "https://www.nature.com/articles/s41586-026-10764-5"
     },
     {
-      "title": "Fiery data hint that controlled forest fires benefit human health",
+      "title": "The brain region that could provide a cognitive ‘reservoir’ in old age",
       "journal": "Nature",
       "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01868-z"
+      "url": "https://www.nature.com/articles/d41586-026-01870-5"
     },
     {
       "title": "The brain region that could provide a cognitive ‘reservoir’ in old age",
@@ -101,24 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10657-7"
-    },
-    {
-      "title": "A 98-qubit trapped-ion quantum computer with all-to-all connectivity",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10676-4"
-    },
-    {
-      "title": "Fast formation to reinforce lithium-rich cathodes",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-025-09553-3"
-    },
-    {
-      "title": "Revealing competitive interfacial reactions in high-energy Li–S batteries",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-025-09473-2"
     },
     {
       "title": "Charting human cellular senescence in aging and disease",
@@ -727,16 +727,88 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adt2527?af=R"
     },
     {
+      "title": "Merging neural stimulation and exoskeletons to enhance sensorimotor hand functions after brain or spinal cord injury",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady3144?af=R"
+    },
+    {
+      "title": "Neuronal microexons modulate arousal via the cAMP-PKA-CREB pathway in zebrafish",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady8291?af=R"
+    },
+    {
+      "title": "Neuronal YTHDF2 suppresses innate immune activation in Aβ pathology by promoting m6A-dependent decay of cytosolic mitochondrial mRNAs",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz0887?af=R"
+    },
+    {
+      "title": "Statins promote muscle metabolic danger and NLRP3-mediated myopathy via lower protein-prenylation and YAP",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz3612?af=R"
+    },
+    {
+      "title": "Rainfall deficit reduces biodiversity and destabilizes a saline-soil plant community",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz4549?af=R"
+    },
+    {
+      "title": "Copy-back RNA synthesis by coronavirus polymerase requires helicase activity and is stimulated by remdesivir and molnupiravir",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz9231?af=R"
+    },
+    {
+      "title": "Receptor basis of unusual tissue tropism of avian influenza H5N1 clade 2.3.4.4b virus in cattle",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea2068?af=R"
+    },
+    {
       "title": "Piezobiomimetic delivery nanosystem converts cold tumors to hot by parallel PANoptosis/STING activation in hepatocellular carcinoma",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea6844?af=R"
     },
     {
+      "title": "Machine learning potentials for modeling alloys across compositions",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea9951?af=R"
+    },
+    {
       "title": "Plasticity in brittle intermetallics enabled by framework of amorphous interfaces and preexisting dislocations",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb0766?af=R"
+    },
+    {
+      "title": "SIRT2 antagonizes MOF function during mitotic entry",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2915?af=R"
+    },
+    {
+      "title": "Universal diseased-site targeting via glycolysis-driven lactic acid gradient",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb4570?af=R"
+    },
+    {
+      "title": "Architecture and function of holocentric CENP-A–independent inner kinetochores",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb5817?af=R"
+    },
+    {
+      "title": "A three-dimensional scanning trapped-ion probe",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0794?af=R"
     },
     {
       "title": "Aptamer-functionalized apoptotic vesicles ameliorate osteoarthritis via resuming mitochondria OXPHOS of chondrocytes",
@@ -761,78 +833,6 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec4824?af=R"
-    },
-    {
-      "title": "Scalable multiplexed machine learning gas sensor chips for food classification",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec7965?af=R"
-    },
-    {
-      "title": "Spatial transcriptome mapping identifies Ppara-Anxa2 cross-talk in microplastic-induced hepatotoxicity",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec8681?af=R"
-    },
-    {
-      "title": "Untethered thin-film neurostimulator wrapped around tiny nerve trunks for wireless neuromodulation",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec9247?af=R"
-    },
-    {
-      "title": "Direct all-electrical decoding of vector vortex beams on chip",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed0418?af=R"
-    },
-    {
-      "title": "Superefficient optical frequency division referenced to μHz Schawlow-Townes-linewidth quantum noise–limited lasers",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed1856?af=R"
-    },
-    {
-      "title": "Live imaging and multimodal profiling reveal transdifferentiation of a cochlear supporting cell subpopulation upon Notch inhibition",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed3887?af=R"
-    },
-    {
-      "title": "A stage-based framework for closed-loop recycling of polymeric composite membranes",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed5675?af=R"
-    },
-    {
-      "title": "Conversion of all polyester units to amines: Ruthenium-catalyzed, acid-assisted hydrogenative amination",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed9124?af=R"
-    },
-    {
-      "title": "A ∼0.5 Myr perturbation of carbon and mercury cycles during the Middle Triassic biotic radiation",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee2291?af=R"
-    },
-    {
-      "title": "Haplotype-resolved methylomes reveal parent-of-origin DNA methylation imbalance in autism spectrum disorder",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee4069?af=R"
-    },
-    {
-      "title": "Noninvasive whole-brain imaging of glymphatic dynamics",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee4926?af=R"
-    },
-    {
-      "title": "Determination of stable carbon isotope ratios for molecules in natural organic matter using ESI FT-ICR MS",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee5238?af=R"
     }
   ]
 }
