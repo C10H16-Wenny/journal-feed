@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "The first ticking ‘nuclear clocks’ are here — what can they do?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01909-7"
+    },
+    {
+      "title": "Will AI spark a scientific renaissance — or a diffuse monoculture?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01954-2"
+    },
+    {
+      "title": "Make science more reliable: study people as they go about their lives",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01957-z"
+    },
+    {
+      "title": "Why heritage sites are at risk in a warming world — and how to save them",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01956-0"
+    },
+    {
       "title": "Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
       "journal": "Nature",
       "date": "",
@@ -23,6 +47,12 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01925-7"
+    },
+    {
+      "title": "Daily briefing: Human detritus remakes geology",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01991-x"
     },
     {
       "title": "Clues to the sloth’s sloth found in its genome",
@@ -89,36 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10614-4"
-    },
-    {
-      "title": "A distant brown dwarf coplanar to a warm Jupiter and a hot super-Earth",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10586-5"
-    },
-    {
-      "title": "Probing picometre-scale interlayer deformations via hyperbolic polaritons",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10638-w"
-    },
-    {
-      "title": "Optical fibre gripper for high-performance 3D micromanipulation",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10673-7"
-    },
-    {
-      "title": "A prototype differential atom interferometer for fundamental physics",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10617-1"
-    },
-    {
-      "title": "Structure of the pre-initiation complex explains CMGE biogenesis",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10657-7"
     },
     {
       "title": "Charting human cellular senescence in aging and disease",
@@ -361,6 +361,18 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aej7460?af=R"
     },
     {
+      "title": "Rewiring dormancy",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01977-x"
+    },
+    {
+      "title": "Mediator subunit MED4 enforces metastatic dormancy in breast cancer",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01984-y"
+    },
+    {
       "title": "Lysosome-derived methylated arginine is a signalling metabolite controlling the lipidome",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -395,18 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01997-7"
-    },
-    {
-      "title": "Spatial profiling in bladder cancer",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01990-0"
-    },
-    {
-      "title": "Starving and crowded in quiescence",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01995-9"
     },
     {
       "title": "A human model of progressive pancreatic neoplasia and cancer",
