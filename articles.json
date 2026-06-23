@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "title": "The first ticking ‘nuclear clocks’ are here — what can they do?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01909-7"
-    },
-    {
-      "title": "Will AI spark a scientific renaissance — or a diffuse monoculture?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01954-2"
-    },
-    {
-      "title": "Make science more reliable: study people as they go about their lives",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01957-z"
-    },
-    {
-      "title": "Why heritage sites are at risk in a warming world — and how to save them",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01956-0"
-    },
-    {
-      "title": "Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10812-0"
-    },
-    {
-      "title": "A long-lived butterfly’s secret to graceful ageing",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01948-0"
-    },
-    {
-      "title": "Briefing Chat: Testosterone and sperm might get a boost from obesity drugs",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01963-1"
-    },
-    {
-      "title": "Stem cells banish severe autoimmune disease for 15 years",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01925-7"
-    },
-    {
-      "title": "Daily briefing: Human detritus remakes geology",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01991-x"
-    },
-    {
-      "title": "Clues to the sloth’s sloth found in its genome",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01869-y"
-    },
-    {
-      "title": "It slices! It dices! Sashimi-Bot handles seafood with ease",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01871-4"
-    },
-    {
-      "title": "Is AI ruining our skills? Early results are in — and they’re not good",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01947-1"
-    },
-    {
-      "title": "Brexit tore apart European science — now the research rifts are healing",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01841-w"
-    },
-    {
-      "title": "Cell transplant across the tree of life hints at how animals emerged",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01910-0"
-    },
-    {
-      "title": "Daily briefing: The brain builds a sentence neuron by neuron",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01967-x"
-    },
-    {
-      "title": "Towards Conversational AI for Disease Management",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10764-5"
-    },
-    {
-      "title": "The brain region that could provide a cognitive ‘reservoir’ in old age",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01870-5"
-    },
-    {
-      "title": "The brain region that could provide a cognitive ‘reservoir’ in old age",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01870-5"
-    },
-    {
-      "title": "DNA from hunter-gatherer teeth reveals secrets of ancient plague",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01941-7"
-    },
-    {
-      "title": "Emergent decadal predictability in Antarctic contribution to sea-level rise",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10614-4"
-    },
-    {
       "title": "Charting human cellular senescence in aging and disease",
       "journal": "Cell",
       "date": "",
@@ -361,6 +241,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aej7460?af=R"
     },
     {
+      "title": "Author Correction: Targeting a key disulfide linkage to regulate RIG-I condensation and cytosolic RNA-sensing",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02023-6"
+    },
+    {
       "title": "Rewiring dormancy",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -401,12 +287,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01994-w"
-    },
-    {
-      "title": "Author Correction: BRIT1/MCPH1 links chromatin remodelling to DNA damage response",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01997-7"
     },
     {
       "title": "A human model of progressive pancreatic neoplasia and cancer",
