@@ -1,6 +1,126 @@
 {
   "items": [
     {
+      "title": "Why science needs the humanities more than ever",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01958-y"
+    },
+    {
+      "title": "Retraction Note: Sub-second periodicity in a fast radio burst",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10799-8"
+    },
+    {
+      "title": "Nepal’s new science ministry must strengthen scientific capacity",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01970-2"
+    },
+    {
+      "title": "Academic success still assumes uninterrupted careers",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01971-1"
+    },
+    {
+      "title": "The halo effect: how academic hierarchy undermines peer review and enables fraud",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01969-9"
+    },
+    {
+      "title": "Do not leave fungi out of impact assessments",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01972-0"
+    },
+    {
+      "title": "A 1970s patent that changed the course of commercial biotechnology",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01812-1"
+    },
+    {
+      "title": "Silicon Valley’s vision for global AI is flawed: each country needs its own blueprint",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01951-5"
+    },
+    {
+      "title": "Europe as science superpower: what it will take to rival the US and China",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01955-1"
+    },
+    {
+      "title": "How should I respond to race-based exclusion in my lab?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01130-6"
+    },
+    {
+      "title": "Europe must seize the moment to lead on free and open science",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01953-3"
+    },
+    {
+      "title": "Making samples one billion times bigger lets simple microscopes pinpoint amino acids",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01842-9"
+    },
+    {
+      "title": "C-glycoside synthesis via radical cross-coupling of glycohydrazides",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10807-x"
+    },
+    {
+      "title": "Stereoretentive decarbonylative C(sp<sup>3</sup>)-C(sp<sup>3</sup>) cross-coupling",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10800-4"
+    },
+    {
+      "title": "Isotopic evidence for a cold and distant origin of 3I/ATLAS",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10771-6"
+    },
+    {
+      "title": "A spacecraft is falling to its doom — can NASA save it?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01949-z"
+    },
+    {
+      "title": "The first ticking ‘nuclear clocks’ are here — what can they do?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01909-7"
+    },
+    {
+      "title": "Will AI spark a scientific renaissance — or a diffuse monoculture?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01954-2"
+    },
+    {
+      "title": "Forty years of high-temperature superconductivity",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01801-4"
+    },
+    {
+      "title": "Daily briefing: First-ever ‘nuclear’ clocks put atomic clocks in the shade",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01997-5"
+    },
+    {
       "title": "Charting human cellular senescence in aging and disease",
       "journal": "Cell",
       "date": "",
@@ -241,6 +361,18 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aej7460?af=R"
     },
     {
+      "title": "<i>Cis</i> and <i>trans</i> regulatory mechanisms of extrachromosomal DNA segregation",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01982-0"
+    },
+    {
+      "title": "Author Correction: DNA nanodevices detect an acidic nanolayer on the lysosomal surface",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02024-5"
+    },
+    {
       "title": "Author Correction: Targeting a key disulfide linkage to regulate RIG-I condensation and cytosolic RNA-sensing",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -275,18 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02011-w"
-    },
-    {
-      "title": "Author Correction: MISO regulates mitochondrial dynamics and mtDNA homeostasis by establishing membrane subdomains",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02017-4"
-    },
-    {
-      "title": "A platform to study pacemaker",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01994-w"
     },
     {
       "title": "A human model of progressive pancreatic neoplasia and cancer",
