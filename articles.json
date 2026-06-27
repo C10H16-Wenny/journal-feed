@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title": "Briefing Chat: What tickling a chimpanzee can tell us about the evolution of speech",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02059-6"
+    },
+    {
+      "title": "The poetry of twilight and the awe-inspiring magic of eclipses: Books in brief",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02055-w"
+    },
+    {
+      "title": "The surprising career parallels between footballers and researchers",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01794-0"
+    },
+    {
+      "title": "CRISPR’s next act: the companies editing the epigenome to treat disease",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01976-w"
+    },
+    {
+      "title": "Inside the new political screening that’s stalling NIH grants",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01924-8"
+    },
+    {
+      "title": "I study World Cup penalty shoot-outs: they say a lot about the psychology of performance under pressure",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02043-0"
+    },
+    {
+      "title": "Europe’s record heatwave: does the continent have a new climate?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02046-x"
+    },
+    {
       "title": "Publisher Correction: In situ nanocrystal confinement for efficient blue perovskite LEDs",
       "journal": "Nature",
       "date": "",
@@ -17,6 +59,12 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10792-1"
+    },
+    {
+      "title": "Daily briefing: Humans and great apes giggle in the same rhythms",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02060-z"
     },
     {
       "title": "Oo oo, ha ha: why humans and great apes giggle alike when tickled",
@@ -71,54 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10810-2"
-    },
-    {
-      "title": "Reply to: On the robustness of topological gap detection via transport",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10568-7"
-    },
-    {
-      "title": "Addendum: Transmission of MPXV from fire-footed rope squirrels to sooty mangabeys",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10767-2"
-    },
-    {
-      "title": "On the robustness of topological gap detection via transport",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10567-8"
-    },
-    {
-      "title": "Medical records could be revealed by AI training-data vulnerability",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02032-3"
-    },
-    {
-      "title": "AI tool spots antibiotics that fight drug-resistant gonorrhoea",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01987-7"
-    },
-    {
-      "title": "Volcanic magma sculpts eerie domes on the sea floor",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01986-8"
-    },
-    {
-      "title": "The mutational landscape of STING-induced immunity",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10685-3"
-    },
-    {
-      "title": "Genetic technologies to enhance crop nutritional value under climate change",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10593-6"
     },
     {
       "title": "Gregory J. Hannon (1964–2026)",
@@ -361,6 +361,18 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aej9373?af=R"
     },
     {
+      "title": "Author Correction: Spatial regulation of VEGF receptor endocytosis in angiogenesis",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02019-2"
+    },
+    {
+      "title": "Mitochondria–endoplasmic reticulum contact sites as hubs where mitochondria acquire iron",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02008-5"
+    },
+    {
       "title": "<i>Cis</i> and <i>trans</i> regulatory mechanisms of extrachromosomal DNA segregation",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -395,18 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01970-4"
-    },
-    {
-      "title": "Author Correction: Increasing the efficiency and targeting range of cytidine base editors through fusion of a single-stranded DNA-binding protein domain",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02001-y"
-    },
-    {
-      "title": "Author Correction: Long-term, in toto live imaging of cardiomyocyte behaviour during mouse ventricle chamber formation at single-cell resolution",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02011-w"
     },
     {
       "title": "A human model of progressive pancreatic neoplasia and cancer",
@@ -721,6 +721,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef3512?af=R"
     },
     {
+      "title": "Unraveling the origin of the vertebrate kidney: Emergence from a somitic compartment",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adr2618?af=R"
+    },
+    {
       "title": "Spatially distributed complex organic matter detected in an ancient river valley in Jezero crater, Mars",
       "journal": "Science Advances",
       "date": "",
@@ -733,10 +739,46 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adx5046?af=R"
     },
     {
+      "title": "Polycomb-mediated 3D-genome organization controls replication timing",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adx7445?af=R"
+    },
+    {
       "title": "Isoform-specific steric zippers drive aberrant assembly and mislocalization of shortened TDP-43",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady0256?af=R"
+    },
+    {
+      "title": "Age-related decline in niche self-renewal factors drives testis aging via Hairless, Imp, and Chinmo",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz0450?af=R"
+    },
+    {
+      "title": "METTL3 regulates exocytosis independently of m6A",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz2434?af=R"
+    },
+    {
+      "title": "Patient-derived organoids across cancers reveal conserved tumor heterogeneity and actionable therapeutic vulnerabilities",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz3351?af=R"
+    },
+    {
+      "title": "Electrostriction-driven phase instability enables giant pseudo-piezoelectricity in Hf0.5Zr0.5O2X",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea0750?af=R"
+    },
+    {
+      "title": "A subunit vaccine for multiple respiratory viruses",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea3227?af=R"
     },
     {
       "title": "Spatial transcriptomics uncovers the hybrid molecular identity, ciliated phenotype, and immune signature of adenomyosis lesions",
@@ -751,6 +793,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea8632?af=R"
     },
     {
+      "title": "Synergistic effects of warming and elevated CO2 intensify drought impacts on grassland carbon and water fluxes",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea8988?af=R"
+    },
+    {
       "title": "Distinct projections of PVN oxytocin neurons regulate the divergent defensive behaviors in response to social threat",
       "journal": "Science Advances",
       "date": "",
@@ -763,76 +811,28 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1299?af=R"
     },
     {
+      "title": "Temporal immunomodulation of CD4+ T cells by magnesium regulates osteoimmune responses in osteoporotic fracture healing",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2091?af=R"
+    },
+    {
+      "title": "Threat assessment shapes neutrophil cell fate upon inflammasome activation",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb4830?af=R"
+    },
+    {
+      "title": "Three-dimensional aperture-driven photoacoustic tomography (3D-ADPAT)",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb7362?af=R"
+    },
+    {
       "title": "Light-based footprinting of a eukaryotic genome",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0059?af=R"
-    },
-    {
-      "title": "What triggers seismicity thousands of kilometers away from a mainshock?",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec4754?af=R"
-    },
-    {
-      "title": "Common human ALDH1B1 and ALDH2 variants increase neuroinflammatory response to a single ethanol dose in mice",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec6309?af=R"
-    },
-    {
-      "title": "Harnessing skin-resident γδ T cells for immunotherapy in cutaneous squamous cell carcinoma",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec7215?af=R"
-    },
-    {
-      "title": "AI-driven tripartite classification for optimizing wearable bioelectronics in depression management",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec9837?af=R"
-    },
-    {
-      "title": "Dynamic neutrophil lipidome remodeling during induction of NETosis",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec9891?af=R"
-    },
-    {
-      "title": "Long-stranded XNA-cssDNA hybrids for robust data storage",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed2917?af=R"
-    },
-    {
-      "title": "Brassinosteroid signaling regulates shoot apical meristem homeostasis via orchestrating cytokinin and WUSCHEL activity",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed5120?af=R"
-    },
-    {
-      "title": "Multihydrogen-bond-bridged composite solid electrolytes enabling continuous Li+ pathways for stable solid-state lithium batteries",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed5972?af=R"
-    },
-    {
-      "title": "Pseudomonads associated to salt-stressed plants facilitate stress adaption of soybean through enhanced lignin biosynthesis",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed8447?af=R"
-    },
-    {
-      "title": "Realization of room-temperature magnetism and multistep magnetization switching in 2D metallic ferrimagnets",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee0391?af=R"
-    },
-    {
-      "title": "Image feature embedding with a deep learning framework improves genome-wide association studies on dog endophenotypes",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee1088?af=R"
     }
   ]
 }
