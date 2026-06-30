@@ -1,10 +1,52 @@
 {
   "items": [
     {
+      "title": "Child online safety needs more than social-media bans",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02068-5"
+    },
+    {
+      "title": "Ebola preparedness must start with ecosystems and before humans show symptoms",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02070-x"
+    },
+    {
+      "title": "AI tools can speed up thinking, but evidence still comes from the lab bench",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02069-4"
+    },
+    {
+      "title": "AI systems devise hypotheses and ways to test them",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01873-2"
+    },
+    {
+      "title": "Family of magnetic field-boosted superconductors in rhombohedral graphene",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10815-x"
+    },
+    {
+      "title": "Audio long read: Is the peptide craze backed by science? The promise behind the hype",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02063-w"
+    },
+    {
       "title": "Trump has big AI and quantum ambitions: this scientist’s job is to make them reality",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02023-4"
+    },
+    {
+      "title": "How one US scientist is adapting to life abroad after DOGE cuts",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01137-z"
     },
     {
       "title": "How AI can crack open the ‘hidden curriculum’ for neurodivergent students",
@@ -35,6 +77,12 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02055-w"
+    },
+    {
+      "title": "Daily briefing: Ovaries start a second job after menopause",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02065-8"
     },
     {
       "title": "The surprising career parallels between footballers and researchers",
@@ -71,54 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10829-5"
-    },
-    {
-      "title": "Ligand-enabled distal desaturative lactonization of aliphatic acids",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10826-8"
-    },
-    {
-      "title": "Base editing reveals an essential role for NANOG in human embryogenesis",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10792-1"
-    },
-    {
-      "title": "Daily briefing: Humans and great apes giggle in the same rhythms",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02060-z"
-    },
-    {
-      "title": "Oo oo, ha ha: why humans and great apes giggle alike when tickled",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01994-8"
-    },
-    {
-      "title": "US funding uncertainties threaten to sink key global oceanography projects",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02028-z"
-    },
-    {
-      "title": "China’s LineShine just topped the global supercomputer ranking: what you need to know",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02047-w"
-    },
-    {
-      "title": "Can you terraform Mars? Try <i>Nature</i>’s game",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01978-8"
-    },
-    {
-      "title": "How long-term dietary cholesterol can slow down its own clearance by liver cells",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01899-6"
     },
     {
       "title": "Gregory J. Hannon (1964–2026)",
@@ -359,6 +359,54 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aej9373?af=R"
+    },
+    {
+      "title": "Transcription factor condensates as storage",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01992-y"
+    },
+    {
+      "title": "Author Correction: Spatial regulation of VEGF receptor endocytosis in angiogenesis",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02019-2"
+    },
+    {
+      "title": "Mitochondria–endoplasmic reticulum contact sites as hubs where mitochondria acquire iron",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02008-5"
+    },
+    {
+      "title": "<i>Cis</i> and <i>trans</i> regulatory mechanisms of extrachromosomal DNA segregation",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01982-0"
+    },
+    {
+      "title": "Author Correction: DNA nanodevices detect an acidic nanolayer on the lysosomal surface",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02024-5"
+    },
+    {
+      "title": "Author Correction: Targeting a key disulfide linkage to regulate RIG-I condensation and cytosolic RNA-sensing",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02023-6"
+    },
+    {
+      "title": "Rewiring dormancy",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01977-x"
+    },
+    {
+      "title": "Mediator subunit MED4 enforces metastatic dormancy in breast cancer",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-01984-y"
     },
     {
       "title": "A human model of progressive pancreatic neoplasia and cancer",
