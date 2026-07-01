@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "Vaccination elicits HIV broadly neutralizing antibodies in primates",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10837-5"
+    },
+    {
+      "title": "Retraction Note: NSD2 targeting reverses plasticity and drug resistance in prostate cancer",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10816-w"
+    },
+    {
+      "title": "Enhanced B cell priming induces broadly neutralizing HIV-1 apex antibodies",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10838-4"
+    },
+    {
       "title": "Child online safety needs more than social-media bans",
       "journal": "Nature",
       "date": "",
@@ -13,16 +31,34 @@
       "url": "https://www.nature.com/articles/d41586-026-02070-x"
     },
     {
+      "title": "Early television set impresses Nature editors — but will it catch on?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01813-0"
+    },
+    {
       "title": "AI tools can speed up thinking, but evidence still comes from the lab bench",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02069-4"
     },
     {
+      "title": "Can Rwanda sustain its rise in science and technology? Here’s what can help",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01980-0"
+    },
+    {
       "title": "AI systems devise hypotheses and ways to test them",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01873-2"
+    },
+    {
+      "title": "Coffee is under threat: how scientists are fighting to save it from extinction",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01965-z"
     },
     {
       "title": "Family of magnetic field-boosted superconductors in rhombohedral graphene",
@@ -41,6 +77,12 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02023-4"
+    },
+    {
+      "title": "Daily briefing: Editing the epigenome with CRISPR to treat disease",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02075-6"
     },
     {
       "title": "How one US scientist is adapting to life abroad after DOGE cuts",
@@ -77,48 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02055-w"
-    },
-    {
-      "title": "Daily briefing: Ovaries start a second job after menopause",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02065-8"
-    },
-    {
-      "title": "The surprising career parallels between footballers and researchers",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01794-0"
-    },
-    {
-      "title": "CRISPR’s next act: the companies editing the epigenome to treat disease",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01976-w"
-    },
-    {
-      "title": "Inside the new political screening that’s stalling NIH grants",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01924-8"
-    },
-    {
-      "title": "I study World Cup penalty shoot-outs: they say a lot about the psychology of performance under pressure",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02043-0"
-    },
-    {
-      "title": "Europe’s record heatwave: does the continent have a new climate?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02046-x"
-    },
-    {
-      "title": "Publisher Correction: In situ nanocrystal confinement for efficient blue perovskite LEDs",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10829-5"
     },
     {
       "title": "Gregory J. Hannon (1964–2026)",
@@ -361,6 +361,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aej9373?af=R"
     },
     {
+      "title": "Why the temporal dimension matters in cellular signalling",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02006-7"
+    },
+    {
       "title": "Transcription factor condensates as storage",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -401,12 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01977-x"
-    },
-    {
-      "title": "Mediator subunit MED4 enforces metastatic dormancy in breast cancer",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01984-y"
     },
     {
       "title": "A human model of progressive pancreatic neoplasia and cancer",
