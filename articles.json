@@ -25,6 +25,12 @@
       "url": "https://www.nature.com/articles/d41586-026-02034-1"
     },
     {
+      "title": "Daily briefing: ‘Cyborg’ cockroaches breathe underwater with printed suit",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02108-0"
+    },
+    {
       "title": "Can you actually do a nine-to-five PhD? <i>Nature</i> readers weigh in",
       "journal": "Nature",
       "date": "",
@@ -113,12 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10719-w"
-    },
-    {
-      "title": "Steatosis shapes prognosis-defining liver metastasis heterogeneity in CRC",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10686-2"
     },
     {
       "title": "Gregory J. Hannon (1964–2026)",
@@ -361,6 +361,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aei6905?af=R"
     },
     {
+      "title": "Author Correction: Mitochondrial fission links ECM mechanotransduction to metabolic redox homeostasis and metastatic chemotherapy resistance",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02031-6"
+    },
+    {
       "title": "Mapping the human female reproductive tract",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -401,12 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01992-y"
-    },
-    {
-      "title": "Author Correction: Spatial regulation of VEGF receptor endocytosis in angiogenesis",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02019-2"
     },
     {
       "title": "A human model of progressive pancreatic neoplasia and cancer",
@@ -745,6 +745,48 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adv1982?af=R"
     },
     {
+      "title": "Substance P regulates Tacr1 neurons, which control nitric oxide–mediated neurovascular coupling in the mouse cortex",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adx5109?af=R"
+    },
+    {
+      "title": "Trans-basin linkages prolong Northwestern Pacific marine heatwaves through a circumglobal wave pattern",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz4647?af=R"
+    },
+    {
+      "title": "Self-vocalizations activate the developing auditory cortex via an intracortical pathway",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea2814?af=R"
+    },
+    {
+      "title": "Single-cell transcriptomic analysis reveals tumor-immune determinants of lymph node colonization and progression in thyroid cancer",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea4727?af=R"
+    },
+    {
+      "title": "Real-time imaging of transcriptional feedback in nonsense-mediated mRNA decay",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea5923?af=R"
+    },
+    {
+      "title": "Pancreatic α cells are required for nutrient homeostasis by regulating dynamic β cell networks in islets",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea9045?af=R"
+    },
+    {
+      "title": "Drosophila storage proteins promote both the rate and the duration of tumor growth",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2956?af=R"
+    },
+    {
       "title": "Annotating the pangenome reveals the diversity in the genetic basis for metabolic enzymes",
       "journal": "Science Advances",
       "date": "",
@@ -797,48 +839,6 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec4661?af=R"
-    },
-    {
-      "title": "Bio-integrated μBots with overtone ultrawideband magnetoelectric antennas for wireless telemetry",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec7011?af=R"
-    },
-    {
-      "title": "Spatiotemporal control of myoblast identity drives muscle diversity in the Drosophila leg",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed0910?af=R"
-    },
-    {
-      "title": "Antiferroelectric thin films embedded with ferroelectric switching loop for giant negative electrocaloric effect",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed5447?af=R"
-    },
-    {
-      "title": "A unified ligand-dimensional design to halt cation migration in perovskite photovoltaics",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed6327?af=R"
-    },
-    {
-      "title": "Stellar feedback drives the baryon deficiency in low-mass galaxies",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed7506?af=R"
-    },
-    {
-      "title": "Dimer asymmetry in signaling of blue light sensor histidine kinases",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed8943?af=R"
-    },
-    {
-      "title": "Large-area, photo-programmable 2D semiconductors with chromic molecular functionalization",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee1510?af=R"
     }
   ]
 }
