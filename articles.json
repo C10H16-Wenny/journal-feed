@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title": "Author Correction: Authigenic mineral phases as a driver of the upper-ocean iron cycle",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10853-5"
+    },
+    {
+      "title": "Alpine crossing took a heavy toll on Hannibal’s elephants and troops",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02113-3"
+    },
+    {
+      "title": "Briefing Chat: The 30 year-legacy of a science icon — Dolly the sheep",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02185-1"
+    },
+    {
+      "title": "Which ‘AI scientist’ suits your lab? A guide for the perplexed",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02091-6"
+    },
+    {
+      "title": "Think preprints are unreliable? Analysis of 70,000 studies might change your mind",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02167-3"
+    },
+    {
+      "title": "Lab-grown sperm: scientists inch closer to fertility breakthrough",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02172-6"
+    },
+    {
+      "title": "NSF plans cuts to core science programmes to fund White House initiative",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02135-x"
+    },
+    {
       "title": "Found: the toxic killer that caused an ocean catastrophe",
       "journal": "Nature",
       "date": "",
@@ -17,6 +59,12 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01242-z"
+    },
+    {
+      "title": "Daily briefing: Mutation lets octopuses make proteins with precision",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02177-1"
     },
     {
       "title": "Whoops! Most arXiv papers contain information never meant to be shared",
@@ -71,54 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10759-2"
-    },
-    {
-      "title": "Large language models can predict the results of social science experiments",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10742-x"
-    },
-    {
-      "title": "Ancient feeding-related neuropeptides regulate alloparenting in ants",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10747-6"
-    },
-    {
-      "title": "Anatomy of a seafloor spreading event captured by in situ seismogeodesy",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10785-0"
-    },
-    {
-      "title": "Computational approaches and the future of urban crime research",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10622-4"
-    },
-    {
-      "title": "Reconfigurable mmWave microchips co-integrating hBN switches on GaN",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10761-8"
-    },
-    {
-      "title": "Air-permeable hydrogels through viscoelastic phase separation of aerogels",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10712-3"
-    },
-    {
-      "title": "Verification of the Outer Space Treaty with cosmic protons",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10783-2"
-    },
-    {
-      "title": "Aneuploidy selects for the acquisition of driver genes in breast cancer",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10752-9"
     },
     {
       "title": "Photosynthetic medicine: Engineering a plant-derived nanofoundry to power mammalian cells",
@@ -751,10 +751,40 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adw9449?af=R"
     },
     {
+      "title": "Biogeography of community canopy leaf traits and their links to global forest photosynthesis",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adk2998?af=R"
+    },
+    {
+      "title": "Low-intensity stimulation drives macrophage efferocytosis via ACSL4 lipid remodeling and CCL9-CCR1 signaling for tendon-bone healing",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adw6666?af=R"
+    },
+    {
       "title": "Targeted marine cloud brightening weakens subsequent El Niño",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adx3012?af=R"
+    },
+    {
+      "title": "H2BE113K mutation promotes breast cancer metastasis through modulating chromatin dynamics",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adx4982?af=R"
+    },
+    {
+      "title": "A prolactin-receptive neural circuit drives maternal interactions with pups in mice",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady6498?af=R"
+    },
+    {
+      "title": "Modeling human embryo adhesion using a microfluidic platform",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz2249?af=R"
     },
     {
       "title": "Moonlighting role of meiotic SYCP1 in breast cancer: A chromatin-bound regulator of DNA repair, transcription, and drug resistance",
@@ -769,10 +799,22 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea3611?af=R"
     },
     {
+      "title": "Periodic shifts in viral load increase risk of Hendra virus spillover from Pteropus bats",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea6654?af=R"
+    },
+    {
       "title": "Mineralized carbonates contribute to the millennial durability of Roman concrete",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb0754?af=R"
+    },
+    {
+      "title": "The MEK inhibitor trametinib incurs mitochondrial injury and induces innate immune responses in the mouse heart",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2695?af=R"
     },
     {
       "title": "Reprogramming of valine metabolism mediated by abnormally low ALDH6A1 expression promotes invasive metastasis of gastric cancer",
@@ -787,82 +829,40 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb5193?af=R"
     },
     {
+      "title": "Unconventional vesicle transport driven by formin-actin-myosin working system during pollen germination",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb7188?af=R"
+    },
+    {
+      "title": "Progressive intestinal tumor cell plasticity, Myc activation, and loss of Lgr5+ tumor stem cell lineage commitment upon Wnt depletion",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8564?af=R"
+    },
+    {
+      "title": "Equal in death: Ancient genomic analysis of children’s early Christian burials",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8588?af=R"
+    },
+    {
+      "title": "Enhancing Sn-Pb perovskite homogeneity via thioether coordination for efficient and stable all-perovskite tandem solar cells",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8790?af=R"
+    },
+    {
+      "title": "Fatigue-resistant and tough double network granular elastomers",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3482?af=R"
+    },
+    {
       "title": "Nutritional adaptations to early maize cultivation: Earliest isotopic evidence of maize-based animal provisioning in the Neotropics",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3522?af=R"
-    },
-    {
-      "title": "Multiscale metabolic mapping of lung tissue via coregistered mass spectrometry and nonlinear optical imaging",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3544?af=R"
-    },
-    {
-      "title": "Improper geometric ferroelectricity at the monolayer limit",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec5221?af=R"
-    },
-    {
-      "title": "Trade-offs in mechanical performance influence the diversity of fangs, stingers, and spines",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec5395?af=R"
-    },
-    {
-      "title": "VCAM-1–targeting peptide assemblies protect vascular endothelium and prolong cardiac xenograft survival",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec5707?af=R"
-    },
-    {
-      "title": "CO2-assisted dehydrogenation-hydroformylation cascade enables syngas self-sufficiency and carbon-efficient propane upgrading",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec6721?af=R"
-    },
-    {
-      "title": "Parallel anterior cingulate cortex pathways underlie dissociable social and attentional outputs",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec8032?af=R"
-    },
-    {
-      "title": "Disordered vacancy-isolated Ce-Gd-O clusters achieve exceptional low-temperature oxygen-ion conductivity for fuel cells",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec8053?af=R"
-    },
-    {
-      "title": "Stiffness-tunable oral nanoparticles facilitate damaged islet β cell restoration for diabetes treatment",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed0407?af=R"
-    },
-    {
-      "title": "A caddisfly larva case–mimicked gel polymer electrolyte with high toughness and enhanced ion transport for safe lithium metal batteries",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed3988?af=R"
-    },
-    {
-      "title": "Deep magma underpressure and connectivity drive large dike intrusions",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed6073?af=R"
-    },
-    {
-      "title": "Optical photothermal infrared imaging of fatty acid esterification in the ER of living cells",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed6477?af=R"
-    },
-    {
-      "title": "High-Q microresonators unveil quantum rare events",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed7827?af=R"
     }
   ]
 }
