@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "title": "Perovskite–organic tandem solar cells with a photo-transformable stabilizer",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10869-x"
+    },
+    {
+      "title": "Author Correction: OR7A10 GPCR engineering boosts CAR-NK therapy against solid tumours",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10855-3"
+    },
+    {
+      "title": "Tall and small trees are equally vulnerable to drought",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02121-3"
+    },
+    {
+      "title": "Rights for rivers and ice cream for all: top reads for the summer holidays",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02152-w"
+    },
+    {
+      "title": "How voluntary work can boost your career in science",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01339-5"
+    },
+    {
+      "title": "The rise of evidence-based medicine and the ‘mavericks’ who championed it",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02153-9"
+    },
+    {
+      "title": "Epigenetic editing makes its mark",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02151-x"
+    },
+    {
+      "title": "This microbiologist endured a four-year court battle over COVID-19 tests",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01654-x"
+    },
+    {
+      "title": "First ‘true sugar’ molecule found in space — offering hints to life’s origins",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02173-5"
+    },
+    {
       "title": "Author Correction: Authigenic mineral phases as a driver of the upper-ocean iron cycle",
       "journal": "Nature",
       "date": "",
@@ -31,6 +85,12 @@
       "url": "https://www.nature.com/articles/d41586-026-02167-3"
     },
     {
+      "title": "Daily briefing: Preprints are chock-full of authors’ private info",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02198-w"
+    },
+    {
       "title": "Lab-grown sperm: scientists inch closer to fertility breakthrough",
       "journal": "Nature",
       "date": "",
@@ -49,7 +109,7 @@
       "url": "https://www.nature.com/articles/d41586-026-02112-4"
     },
     {
-      "title": "Pair of ‘super-puff’ planets are lighter than candy floss",
+      "title": "Pair of ‘super-puff’ planets are lighter than candyfloss",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02114-2"
@@ -59,66 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-01242-z"
-    },
-    {
-      "title": "Daily briefing: Mutation lets octopuses make proteins with precision",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02177-1"
-    },
-    {
-      "title": "Whoops! Most arXiv papers contain information never meant to be shared",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02057-8"
-    },
-    {
-      "title": "‘This time, it’s the other way around’: how Indonesia is reclaiming the science of human history",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01357-3"
-    },
-    {
-      "title": "Nukes in space? Orbital detector could sniff out warheads",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02141-z"
-    },
-    {
-      "title": "Observation of Floquet rotational super-radiance",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10725-y"
-    },
-    {
-      "title": "In vivo feasibility study of humanoid robots in surgery",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10796-x"
-    },
-    {
-      "title": "Single-phase gradient-solvation-electrolyte-stabilized Li metal batteries",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10732-z"
-    },
-    {
-      "title": "Non-genotoxic transplantation and in vivo selection through epitope editing",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10737-8"
-    },
-    {
-      "title": "Architecture of the 8 MDa Hdr–Vhu–Fwd super-assembly in class I methanogens",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10744-9"
-    },
-    {
-      "title": "Reinforcement learning control of quantum error correction",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10759-2"
     },
     {
       "title": "Photosynthetic medicine: Engineering a plant-derived nanofoundry to power mammalian cells",
@@ -301,12 +301,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aee9519?af=R"
     },
     {
-      "title": "Long-range extended chains arising from polymerization-driven spontaneous assembly",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aef1777?af=R"
-    },
-    {
       "title": "Degron-independent recruitment of KAT2A expands the target space of CRBN molecular glues",
       "journal": "Science",
       "date": "",
@@ -343,6 +337,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.adv1219?af=R"
     },
     {
+      "title": "Long-range extended chains arising from polymerization-driven spontaneous assembly",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef1777?af=R"
+    },
+    {
       "title": "Laser phase plate improves structure determination of small proteins by cryo-EM",
       "journal": "Science",
       "date": "",
@@ -359,6 +359,24 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aek3449?af=R"
+    },
+    {
+      "title": "Cargo capture during ER-phagy",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02026-3"
+    },
+    {
+      "title": "Relative tension shapes embryos",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02014-7"
+    },
+    {
+      "title": "Neuroproteasomes in tau pathology",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02015-6"
     },
     {
       "title": "Decoding stage-specific functions of PRC2 in early embryogenesis uncovers roles in preimplantation development and primordial germ cell fate",
@@ -389,24 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-01981-1"
-    },
-    {
-      "title": "Evolutionarily conserved short linear motifs drive actin filament binding",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01979-9"
-    },
-    {
-      "title": "Author Correction: Mitochondrial fission links ECM mechanotransduction to metabolic redox homeostasis and metastatic chemotherapy resistance",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02031-6"
-    },
-    {
-      "title": "Mapping the human female reproductive tract",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-01989-7"
     },
     {
       "title": "Celebrating 25 years of Developmental Cell",
