@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02211-2"
+    },
+    {
+      "title": "Smuggling charges against NIH virologists trigger political uproar",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01995-7"
+    },
+    {
+      "title": "The science of foresight: how to future-proof your research",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02231-y"
+    },
+    {
+      "title": "Huge study finds first genetic clues for borderline personality disorder",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02220-1"
+    },
+    {
+      "title": "My job interviews for industry positions are going nowhere. How do I make myself stand out?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02234-9"
+    },
+    {
       "title": "Briefing Chat: Sweet! Elusive sugar molecules found in space",
       "journal": "Nature",
       "date": "",
@@ -37,10 +67,22 @@
       "url": "https://www.nature.com/articles/d41586-026-02191-3"
     },
     {
+      "title": "Daily briefing: CRISPR gets an AI-designed upgrade",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02272-3"
+    },
+    {
       "title": "Why do astronauts’ bodies waste away? Space-station study points to mitochondria",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02089-0"
+    },
+    {
+      "title": "Daily briefing: Naked mole rat queens use a smell to stay on top",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02261-6"
     },
     {
       "title": "AI is set to completely transform cybersecurity — here’s how researchers must prepare",
@@ -77,48 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02225-w"
-    },
-    {
-      "title": "Selectivity Emerges from Indiscriminate Photoreduction",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10897-7"
-    },
-    {
-      "title": "An ATPγS recycling strategy for practical biocatalytic thiophosphorylation",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10895-9"
-    },
-    {
-      "title": "The simple chemical that lets queen naked mole-rats 'rule'",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02186-0"
-    },
-    {
-      "title": "‘Holy grail’ of naked mole-rat research reveals how queens rule",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02221-0"
-    },
-    {
-      "title": "Modular in vivo antibody–ADC click to reverse drug resistance in tumours",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10789-w"
-    },
-    {
-      "title": "A queen odour mediates reproductive suppression in a eusocial mammal",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10772-5"
-    },
-    {
-      "title": "Highly fragmented European wetlands with uneven restoration needs",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10760-9"
     },
     {
       "title": "Photosynthetic medicine: Engineering a plant-derived nanofoundry to power mammalian cells",
@@ -359,6 +359,54 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aej2688?af=R"
+    },
+    {
+      "title": "Borrowed scissors for lysosome fission",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02028-1"
+    },
+    {
+      "title": "Mitochondrial-derived vesicles drive budding-type fission of damaged lysosomes",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02010-x"
+    },
+    {
+      "title": "Lysosomes and lysosomal dysfunction in ageing biology",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02007-6"
+    },
+    {
+      "title": "Single-cell transcriptomics uncovers endothelial progenitor-like remodelling driving human coronary atherosclerosis progression",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02022-7"
+    },
+    {
+      "title": "Cargo capture during ER-phagy",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02026-3"
+    },
+    {
+      "title": "Relative tension shapes embryos",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02014-7"
+    },
+    {
+      "title": "Neuroproteasomes in tau pathology",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02015-6"
+    },
+    {
+      "title": "Decoding stage-specific functions of PRC2 in early embryogenesis uncovers roles in preimplantation development and primordial germ cell fate",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02002-x"
     },
     {
       "title": "Celebrating 25 years of Developmental Cell",
