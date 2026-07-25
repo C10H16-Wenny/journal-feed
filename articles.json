@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10911-y"
+    },
+    {
+      "title": "Personalized gene therapy relieves severe epilepsy in two boys",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02267-0"
+    },
+    {
+      "title": "Briefing Chat: Baby <i>T. rex</i> were killers from birth, suggest new fossils",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02338-2"
+    },
+    {
+      "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02268-z"
+    },
+    {
+      "title": "White House rolls out AI funding — and signals a new era for US science",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02332-8"
+    },
+    {
       "title": "What <i>The Odyssey</i> reveals about ancient science — from botany to psychiatry",
       "journal": "Nature",
       "date": "",
@@ -35,6 +65,12 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02279-w"
+    },
+    {
+      "title": "Daily briefing: Orcas smash sunfish to smithereens",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02307-9"
     },
     {
       "title": "This El Niño is set to be the largest on record by a ‘mind-blowing margin’",
@@ -83,42 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10833-9"
-    },
-    {
-      "title": "Non-epitaxial perovskite polariton laser diode operating under direct current",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10824-w"
-    },
-    {
-      "title": "Prior therapy defines mutation profiles in childhood cancer at relapse",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10803-1"
-    },
-    {
-      "title": "Structural basis of the RNA-editing cascade in trypanosome mitochondria",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10831-x"
-    },
-    {
-      "title": "Insulator-free topological photonic multi-lane highways",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10817-9"
-    },
-    {
-      "title": "Planetary-mass exosatellite detected around the substellar companion of a star",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10751-w"
-    },
-    {
-      "title": "Tertiary lymphoid structures harbour stem-like tumour-specific T cells",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10808-w"
     },
     {
       "title": "UTR-ly unexpected: RNA chaperones tame intrinsically disordered proteins",
@@ -709,10 +709,22 @@
       "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00378-3?rss=yes"
     },
     {
+      "title": "Photoinduced metastable cation disorder in metal halide double perovskites",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adt5183?af=R"
+    },
+    {
       "title": "HiC2Self: Self-supervised denoising for bulk and single-cell Hi-C contact maps",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adu8060?af=R"
+    },
+    {
+      "title": "Single-cell and high-resolution spatial profiling of podocytopathies reveals core mechanisms of podocyte injury",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adw9707?af=R"
     },
     {
       "title": "Wnt and Nodal asymmetries stratify mouse laterality phenotypes in the absence of node flow",
@@ -733,6 +745,24 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz1388?af=R"
     },
     {
+      "title": "Allele-specific methylation of MRP3 drives mating type determination in a marine diatom",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz2992?af=R"
+    },
+    {
+      "title": "BRCA1-RAD51 homologous DNA repair pathway promotes HIV-1 reverse transcription",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea2430?af=R"
+    },
+    {
+      "title": "Expanded GEP-NET organoid culture for personalized therapy evaluation",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea4296?af=R"
+    },
+    {
       "title": "S1P receptor 1 signaling reduces arterial thrombosis via up-regulation of endothelial thrombomodulin expression",
       "journal": "Science Advances",
       "date": "",
@@ -749,6 +779,18 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb3506?af=R"
+    },
+    {
+      "title": "Interpretable dynamic quantitative vascular morphometry features using SHAP for anti-angiogenic therapy response prediction",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb3543?af=R"
+    },
+    {
+      "title": "Ancient genomes from Ladakh reveal 2800-year-old admixture between Tibetans and South Asians",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb3636?af=R"
     },
     {
       "title": "Yersiniabactin-producing adherent-invasive Escherichia coli exploit host glycolysis to drive macrophage HIF-1α stabilization",
@@ -769,64 +811,22 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec2786?af=R"
     },
     {
-      "title": "Silkworm cultivation predating the Silk Road in southern Central Asia (2000 BCE)",
+      "title": "Quantum convolutional HLA immunogenic peptide prediction (Q-CHIPP): Next-generation neoantigen prediction with quantum neural network",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec8738?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3824?af=R"
     },
     {
-      "title": "KRASG12D inhibition reprograms the tumor-induced immunosuppressive environment and enhances NK cell–mediated antitumor immunity",
+      "title": "ELF3 links kidney function GWAS loci to maladaptive epithelial inflammation",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec9236?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec6741?af=R"
     },
     {
-      "title": "Neuromorphic tissues: Soft biomolecular networks for brain-inspired temporal computing",
+      "title": "The melanocytic transcriptomic state is independently associated with poor overall survival in patients with metastatic melanoma",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed0971?af=R"
-    },
-    {
-      "title": "Westerly induced precipitation increase drives near-surface ground ice gain on the Tibetan Plateau despite warming",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed1105?af=R"
-    },
-    {
-      "title": "LPA/LPAR signaling drives temporomandibular disorders–like pain through regulating the expression and sensitization of PIEZO2",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed1854?af=R"
-    },
-    {
-      "title": "Strain-specific epistasis shapes fitness landscapes of APOBEC3G antagonism by HIV-1 Vif proteins",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed4872?af=R"
-    },
-    {
-      "title": "Back reaction of the untwisting solar corona scars sunspots",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed5294?af=R"
-    },
-    {
-      "title": "Dopamine D2 receptors bypass canonical signaling to directly tune NMDA receptor function and aversive learning",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee6579?af=R"
-    },
-    {
-      "title": "Curiosity-driven development of action and language in robots through self-exploration",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee7533?af=R"
-    },
-    {
-      "title": "Scalable nanofocusing heterojunctions for raptor-inspired on-chip vision perception",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee7840?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec7394?af=R"
     }
   ]
 }
