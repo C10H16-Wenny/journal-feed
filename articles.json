@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "The existential choice facing UK physics facilities: commercialize or close",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02171-7"
+    },
+    {
+      "title": "When should you treat a fever? Evolution holds the answer",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02313-x"
+    },
+    {
       "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
       "journal": "Nature",
       "date": "",
@@ -107,18 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02219-8"
-    },
-    {
-      "title": "Structures and inhibition of the Crimean–Congo haemorrhagic fever virus polymerase",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10701-6"
-    },
-    {
-      "title": "CRISPR–Cas regulates expression of embedded anti-phage defence systems",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10833-9"
     },
     {
       "title": "Dispatches from the front lines of science",
@@ -241,6 +241,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aek7592?af=R"
     },
     {
+      "title": "Cancer stem cells are hyper-responsive sensors of the tumour microenvironment and regulate metastasis dynamics through YAP/TAZ",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02013-8"
+    },
+    {
       "title": "Every scientist has a role in advocacy",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -281,12 +287,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02026-3"
-    },
-    {
-      "title": "Relative tension shapes embryos",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02014-7"
     },
     {
       "title": "In This Issue",
