@@ -1,16 +1,52 @@
 {
   "items": [
     {
+      "title": "Pyridoxal photoenzymes for asymmetric radical–radical cross-couplings",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10930-9"
+    },
+    {
+      "title": "Phase-homogeneous mixed halide perovskites for stable tandem photovoltaics",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10929-2"
+    },
+    {
       "title": "The existential choice facing UK physics facilities: commercialize or close",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02171-7"
     },
     {
+      "title": "‘Timer’ in the brain tracks sleep — and predicts awakening",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02294-x"
+    },
+    {
       "title": "When should you treat a fever? Evolution holds the answer",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02313-x"
+    },
+    {
+      "title": "How to prevent AI from harming mathematics",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02309-7"
+    },
+    {
+      "title": "Researchers are building computers that run on brain organoids — but have neglected a major ethical issue",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02316-8"
+    },
+    {
+      "title": "A fever dream of jellies and slugs",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02314-w"
     },
     {
       "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
@@ -83,42 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02307-9"
-    },
-    {
-      "title": "This El Niño is set to be the largest on record by a ‘mind-blowing margin’",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02293-y"
-    },
-    {
-      "title": "Rising stars of mathematics awarded prestigious 2026 Fields Medal",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02169-1"
-    },
-    {
-      "title": "Electronic-resonance enhanced molecule for perovskite solar cells",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10919-4"
-    },
-    {
-      "title": "RNA synthesis and substrate analog inhibition in the CCHFV polymerase",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10913-w"
-    },
-    {
-      "title": "What counts as a moon? Huge ‘exosatellite’ sparks debate",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02299-6"
-    },
-    {
-      "title": "How do quantum computers work?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02219-8"
     },
     {
       "title": "Dispatches from the front lines of science",
@@ -199,12 +199,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aec7913?af=R"
     },
     {
-      "title": "Invasive species’ environmental impacts are more severe in the Global South",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed0603?af=R"
-    },
-    {
       "title": "Crush-resistant air sacs allow insect larvae to exploit aquatic habitats at extreme depth",
       "journal": "Science",
       "date": "",
@@ -221,6 +215,12 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aed9202?af=R"
+    },
+    {
+      "title": "Invasive species’ environmental impacts are more severe in the Global South",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aed0603?af=R"
     },
     {
       "title": "Genome in motion: Mapping the nucleus in health",
