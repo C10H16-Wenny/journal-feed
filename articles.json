@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02366-y"
+    },
+    {
+      "title": "Somatic mutations reveal the ontogeny of microglia in human aging",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10939-0"
+    },
+    {
+      "title": "Author Correction: Sleep chart of biological ageing clocks in middle and late life",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10920-x"
+    },
+    {
+      "title": "Job insecurity is chipping away at me and my cohort. Is it us, or the state of the economy?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01843-8"
+    },
+    {
+      "title": "Demand for lithium is surging: here’s how to make mining more sustainable",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02195-z"
+    },
+    {
+      "title": "Fires in Europe are breaking records: here’s what the future holds",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02361-3"
+    },
+    {
+      "title": "How I use statistics and my law degree to fight human-rights abuses",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02079-2"
+    },
+    {
       "title": "Author Correction: A ductile solid electrolyte interphase for solid-state batteries",
       "journal": "Nature",
       "date": "",
@@ -79,166 +121,130 @@
       "url": "https://www.nature.com/articles/s41586-026-10850-8"
     },
     {
-      "title": "Weight-four parity checks in a spin-shuttling architecture",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10766-3"
-    },
-    {
-      "title": "Enzymatic glycosylation and amidation reshapes polyene bioactivity",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10834-8"
-    },
-    {
-      "title": "A digitally controlled silicon quantum processing unit",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10754-7"
-    },
-    {
-      "title": "A global view of human centromere variation and evolution",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10841-9"
-    },
-    {
-      "title": "Rational design of disordered proteins for sequence–function investigation",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10849-1"
-    },
-    {
-      "title": "In situ structure of the poxvirus portal complex",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10856-2"
-    },
-    {
-      "title": "Plasmonic metamaterial time crystal",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10825-9"
-    },
-    {
-      "title": "Dispatches from the front lines of science",
+      "title": "Crick: A Mind in Motion",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aei1520?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aek0526?af=R"
     },
     {
-      "title": "The tangled world of snake taxonomy",
+      "title": "The optimism of doubt",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aei8559?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aei1519?af=R"
     },
     {
-      "title": "Epigenetic and 3D genome reprogramming during the aging of the human hippocampus",
+      "title": "Toward an exact quantum many-body treatment of Kondo correlation in magnetic impurities",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adt8307?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adq7402?af=R"
     },
     {
-      "title": "Dynamic asymmetric strain imprinted into substrates by an oxide thin film",
+      "title": "An adaptor for feedback regulation of heme biosynthesis by a mitochondrial protease",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adt9347?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ads5397?af=R"
     },
     {
-      "title": "Constraining an exoplanet’s magnetic field using star-planet interactions",
+      "title": "Atlas of lysosomal aging reveals a metabolite signature shared with lysosomal storage disorders",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adv3075?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ady0832?af=R"
     },
     {
-      "title": "Dose-dependent sensitivity of human three-dimensional chromatin to a heart disease–linked transcription factor",
+      "title": "X-chromosome inactivation draws L1 mutagenesis to the human X chromosome",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adv5434?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adz8081?af=R"
     },
     {
-      "title": "A 3D genome atlas of human tonsil and the role of loop extrusion in B cell somatic hypermutation",
+      "title": "n-Type polymer layers enable efficient, scalable, and thermally stable perovskite solar modules",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adw4243?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aed8175?af=R"
     },
     {
-      "title": "Human body single-cell atlas of three-dimensional genome organization and DNA methylation",
+      "title": "Calcium isotopes link ocean acidification to Aptian–Albian foraminiferal extinctions",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adx0673?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aed9359?af=R"
     },
     {
-      "title": "The rise and fall of language diversity through the Holocene",
+      "title": "A 10-million-year biogeographic holding pen primed the Great American Biotic Interchange",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adx4343?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef2893?af=R"
     },
     {
-      "title": "Late-stage functionalization with strain-release warheads enables tunable covalent inhibition",
+      "title": "Enabling sustainable supply of the essential cancer medicines etoposide and teniposide in yeast",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adx7219?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef5438?af=R"
     },
     {
-      "title": "Single-cell multiomics and chromatin structure reveal gene-regulatory dynamics in heart failure",
+      "title": "Plasma surface engineering for efficient and stable perovskite solar cells and modules",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ady6893?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeg1730?af=R"
     },
     {
-      "title": "Single-cell multiomics connects 3D genome and transcriptome alterations in Alzheimer’s disease",
+      "title": "Spatiotemporal multiomics uncover tumor ecosystem dynamics during metastatic colonization",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adz1652?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adz7928?af=R"
     },
     {
-      "title": "Spatially resolving the cone of reaction for a single molecule",
+      "title": "DNA polymerization activates RNA cleavage of a reverse transcriptase–like antiviral enzyme",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aec7913?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef3178?af=R"
     },
     {
-      "title": "Crush-resistant air sacs allow insect larvae to exploit aquatic habitats at extreme depth",
+      "title": "Catalytic Appel fluorination of alcohols with potassium fluoride",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed0667?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec6298?af=R"
     },
     {
-      "title": "The global biogeography of passerine songs",
+      "title": "The molecular architecture of mammalian vitreous body collagen fibrils",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aee6239?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec2906?af=R"
     },
     {
-      "title": "Step geometry–guided growth of rhombohedral graphene",
+      "title": "Supergene control of chiral development in mirror-image flowers",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed9202?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeb1157?af=R"
     },
     {
-      "title": "Invasive species’ environmental impacts are more severe in the Global South",
+      "title": "The genomic identity of early smallpox in South America",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed0603?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aee6957?af=R"
     },
     {
-      "title": "Genome in motion: Mapping the nucleus in health",
+      "title": "Beyond the scales: Marine archaeogenomics for the conservation and restoration of fisheries",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aek3868?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeg0333?af=R"
     },
     {
       "title": "In Other Journals",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aek7591?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aek9789?af=R"
     },
     {
-      "title": "A geologist learns AI",
+      "title": "The perils of fluency",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aek7592?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aek9790?af=R"
+    },
+    {
+      "title": "Running towards induced pluripotent stem cells",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02029-0"
     },
     {
       "title": "The glycolytic enzyme PGAM1 functions as a metabolic–autophagy checkpoint to coordinate growth and stress tolerance",
@@ -281,12 +287,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02010-x"
-    },
-    {
-      "title": "Lysosomes and lysosomal dysfunction in ageing biology",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02007-6"
     },
     {
       "title": "In This Issue",
