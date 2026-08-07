@@ -1,10 +1,46 @@
 {
   "items": [
     {
+      "title": "Operational Tropical Cyclone Forecasting with AI",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10953-2"
+    },
+    {
       "title": "Pumas are drivers’ guardian angels",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02429-0"
+    },
+    {
+      "title": "How a steady drip-drip can erode the hardest stone",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02360-4"
+    },
+    {
+      "title": "Levitating sensor for magnetic fields could detect ultrafaint brain activity",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02458-9"
+    },
+    {
+      "title": "Heat waves have killed millions. Here’s how scientists tally lives lost",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02430-7"
+    },
+    {
+      "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02235-8"
+    },
+    {
+      "title": "Scientists up in arms about cuts to UK physics and astronomy",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02460-1"
     },
     {
       "title": "Thermally evaporated perovskite/silicon tandems via formamidinium eutectic",
@@ -85,160 +121,142 @@
       "url": "https://www.nature.com/articles/s41586-026-10865-1"
     },
     {
-      "title": "Stimulation modulates gene-linked cell assemblies in the human brain",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10879-9"
-    },
-    {
-      "title": "A compendium of next-generation patient-derived models for diverse cancers",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10806-y"
-    },
-    {
-      "title": "Antigen presentation by CD40<sup>+</sup>MHC-II<sup>+</sup> astrocytes promotes CNS autoimmunity",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10860-6"
-    },
-    {
-      "title": "The Virtual Tissues foundation model resolves spatial proteomics across scales",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10884-y"
-    },
-    {
-      "title": "Virus reactivation in acute and long COVID-19",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10740-z"
-    },
-    {
-      "title": "Uncovering the mechanism of female restitution in sugarcane hybrids",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10863-3"
-    },
-    {
-      "title": "Crick: A Mind in Motion",
+      "title": "A harrowing tour of Earth’s sacrificial lands",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aek0526?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aei8513?af=R"
     },
     {
-      "title": "The optimism of doubt",
+      "title": "Change comes for science publishing paradigms",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aei1519?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aej0108?af=R"
     },
     {
-      "title": "Toward an exact quantum many-body treatment of Kondo correlation in magnetic impurities",
+      "title": "The fungal pathogen Candida auris exposes chitin to trigger IFNγ and persist in hair follicles",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adq7402?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adu6688?af=R"
     },
     {
-      "title": "An adaptor for feedback regulation of heme biosynthesis by a mitochondrial protease",
+      "title": "The climate benefits of retiring a fully operational internal combustion engine vehicle",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ads5397?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adv5441?af=R"
     },
     {
-      "title": "Atlas of lysosomal aging reveals a metabolite signature shared with lysosomal storage disorders",
+      "title": "Chemically induced skin tumors arise from long-lived stem cells of the upper hair follicle",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ady0832?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adv8291?af=R"
     },
     {
-      "title": "X-chromosome inactivation draws L1 mutagenesis to the human X chromosome",
+      "title": "Levitated sensor for magnetometry in ambient environment",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adz8081?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adx1707?af=R"
     },
     {
-      "title": "n-Type polymer layers enable efficient, scalable, and thermally stable perovskite solar modules",
+      "title": "Calcium tunes snail mucus–based materials to multiple functions",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed8175?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adx7367?af=R"
     },
     {
-      "title": "Calcium isotopes link ocean acidification to Aptian–Albian foraminiferal extinctions",
+      "title": "Decadal doubling of Siberian methane emissions due to warming-induced fires and methanogenesis",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed9359?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aea5828?af=R"
     },
     {
-      "title": "A 10-million-year biogeographic holding pen primed the Great American Biotic Interchange",
+      "title": "Generative design of bacteriophages with genome language models",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aef2893?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec2657?af=R"
     },
     {
-      "title": "Enabling sustainable supply of the essential cancer medicines etoposide and teniposide in yeast",
+      "title": "Fossil evidence favors a role for vision in the modular evolution of the primate neocortex",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aef5438?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aee3541?af=R"
     },
     {
-      "title": "Spatiotemporal multiomics uncover tumor ecosystem dynamics during metastatic colonization",
+      "title": "Paleogenomic insight into the collapse, recovery, and management of American bison",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adz7928?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aee4205?af=R"
     },
     {
-      "title": "DNA polymerization activates RNA cleavage of a reverse transcriptase–like antiviral enzyme",
+      "title": "Vicinal disubstitution of alkyl C–X synthons via alkene radical cation generation",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aef3178?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef0766?af=R"
     },
     {
-      "title": "Catalytic Appel fluorination of alcohols with potassium fluoride",
+      "title": "Adaptive modulation of theta sweeps in the brain’s navigation circuit",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aec6298?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef4184?af=R"
     },
     {
-      "title": "The molecular architecture of mammalian vitreous body collagen fibrils",
+      "title": "Heavily doped, highly compensated epitaxial ScN thin films exceed Boltzmann thermopower limits",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aec2906?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef9458?af=R"
     },
     {
-      "title": "Supergene control of chiral development in mirror-image flowers",
+      "title": "A molecular switch for coordinating kinesin and dynein transport of mitochondrial cargo",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeb1157?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh1475?af=R"
     },
     {
-      "title": "The genomic identity of early smallpox in South America",
+      "title": "Turbulent seismoacoustic imprints during a hurricane landfall",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aee6957?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adt7323?af=R"
     },
     {
-      "title": "Plasma surface engineering for efficient and stable perovskite solar cells and modules",
+      "title": "A central role for dietary sugars in human evolution",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeg1730?af=R"
-    },
-    {
-      "title": "Beyond the scales: Marine archaeogenomics for the conservation and restoration of fisheries",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeg0333?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aed8437?af=R"
     },
     {
       "title": "In Other Journals",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aek9789?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael1781?af=R"
     },
     {
-      "title": "The perils of fluency",
+      "title": "The price of my future",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aek9790?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael1782?af=R"
+    },
+    {
+      "title": "A fungus makes itself at home on skin",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aek0194?af=R"
+    },
+    {
+      "title": "Pre-cancerous blood cells prematurely age the bone marrow to fuel cancer risk",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02032-5"
+    },
+    {
+      "title": "CLOCK/BMAL1 interactome uncovers homeodomain factors as tissue regulators",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02041-4"
+    },
+    {
+      "title": "Stromal cell senescence augments haematopoietic cell fitness in clonal haematopoiesis",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02025-4"
     },
     {
       "title": "Author Correction: Targeting liquid–liquid phase separation of SARS-CoV-2 nucleocapsid protein promotes innate antiviral immunity by elevating MAVS activity",
@@ -269,24 +287,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02029-0"
-    },
-    {
-      "title": "The glycolytic enzyme PGAM1 functions as a metabolic–autophagy checkpoint to coordinate growth and stress tolerance",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02034-3"
-    },
-    {
-      "title": "Nuclear class 3 PI3K co-activates fasting-specific chromatin remodelling",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02030-7"
-    },
-    {
-      "title": "Cancer stem cells are hyper-responsive sensors of the tumour microenvironment and regulate metastasis dynamics through YAP/TAZ",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02013-8"
     },
     {
       "title": "In This Issue",
