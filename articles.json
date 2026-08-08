@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02488-3"
+    },
+    {
+      "title": "Universal vaccine for pneumococcal disease moves closer to reality",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02462-z"
+    },
+    {
       "title": "Operational Tropical Cyclone Forecasting with AI",
       "journal": "Nature",
       "date": "",
@@ -19,13 +31,7 @@
       "url": "https://www.nature.com/articles/d41586-026-02360-4"
     },
     {
-      "title": "Levitating sensor for magnetic fields could detect ultrafaint brain activity",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02458-9"
-    },
-    {
-      "title": "Heat waves have killed millions. Here’s how scientists tally lives lost",
+      "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02430-7"
@@ -41,6 +47,12 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02460-1"
+    },
+    {
+      "title": "Levitating sensor for magnetic fields could detect ultrafaint brain activity",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02458-9"
     },
     {
       "title": "Thermally evaporated perovskite/silicon tandems via formamidinium eutectic",
@@ -107,18 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10867-z"
-    },
-    {
-      "title": "An entangling gate for dual-rail erasure qubits",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10822-y"
-    },
-    {
-      "title": "Encapsulation epitaxy of air-stable 2D superconductors for quantum circuits",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10865-1"
     },
     {
       "title": "A harrowing tour of Earth’s sacrificial lands",
@@ -241,6 +241,30 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aek0194?af=R"
     },
     {
+      "title": "PGAM1 rheostat in glycolysis and autophagy",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02033-4"
+    },
+    {
+      "title": "Targeting oncogenic FLT3 uncovers a ferroptosis vulnerability through selenocysteine recoding in acute myeloid leukaemia",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02016-5"
+    },
+    {
+      "title": "The mitochondria enzyme OGDH defends against disulfidptosis by licensing METTL3-regulated NRF2 translation",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02042-3"
+    },
+    {
+      "title": "Advanced imaging of membrane contact sites",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02003-w"
+    },
+    {
       "title": "Pre-cancerous blood cells prematurely age the bone marrow to fuel cancer risk",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -263,30 +287,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02056-x"
-    },
-    {
-      "title": "BRD4 recruitment into HP1 condensates desilences transcription without erasure of repressive chromatin",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02044-1"
-    },
-    {
-      "title": "Author Correction: Cancer-associated fibroblast-derived acetate promotes pancreatic cancer development by altering polyamine metabolism via the ACSS2–SP1–SAT1 axis",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02055-y"
-    },
-    {
-      "title": "Author Correction: Quantifying single-cell ERK dynamics in colorectal cancer organoids reveals EGFR as an amplifier of oncogenic MAPK pathway signalling",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02050-3"
-    },
-    {
-      "title": "Running towards induced pluripotent stem cells",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02029-0"
     },
     {
       "title": "In This Issue",
@@ -409,10 +409,46 @@
       "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2604429123?af=R"
     },
     {
+      "title": "Experimental violation of a Bell-like causal inequality in a photonic quantum switch",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee9271?af=R"
+    },
+    {
+      "title": "T cell–nanodrug conjugates synchronize vascular normalization and immune activation for solid tumor therapy",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adp2955?af=R"
+    },
+    {
+      "title": "Continuous contributions of the dorsolateral striatum to movement initiation and execution",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adt2097?af=R"
+    },
+    {
       "title": "Early fate diversification of radial glial progenitors during corticogenesis",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adw5487?af=R"
+    },
+    {
+      "title": "Emergent metabolic parasitism driven by organelle sequestration",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adx9022?af=R"
+    },
+    {
+      "title": "Gaseous liquid nitrogen–assisted cryo-printing strategies for challenging volumetric anisotropic tissues fabrication",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz1325?af=R"
+    },
+    {
+      "title": "Submillennial timescales of eruptible rhyolite magma: Converging evidence from Aira Caldera, Japan",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea2075?af=R"
     },
     {
       "title": "SARS-CoV-2 nucleocapsid induces hyperinflammation and vascular leakage through the Toll-like receptor signaling axis in macrophages",
@@ -421,16 +457,34 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea2780?af=R"
     },
     {
+      "title": "Language-like statistical structure arises in learned signaling: evidence from birdsong",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea3015?af=R"
+    },
+    {
       "title": "Leveraging IGF signaling to improve the spatial organization and regenerative potential of iPSC-derived vascularized liver organoids",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea3814?af=R"
     },
     {
+      "title": "3D genome organization in tissue regeneration involves long-range chromatin loops",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea8281?af=R"
+    },
+    {
       "title": "Dual-parameter chiral detection at the single-particle level enabled by surface cosine waves",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb0500?af=R"
+    },
+    {
+      "title": "The microenvironment dictates glyco-immune surveillance via HSF1-mediated metabolism",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1136?af=R"
     },
     {
       "title": "Escalation dynamics and the severity of wars",
@@ -457,76 +511,22 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb6882?af=R"
     },
     {
+      "title": "TRIM29-dependent AKR1B10 degradation ameliorates MASH",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb9309?af=R"
+    },
+    {
       "title": "Hybrid spatial organization and evidence for magnitude-independent neural coding of linguistic information during sentence production",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0518?af=R"
     },
     {
-      "title": "RTF2 and CLASPIN localize CHK1 to the replication fork to control S-phase progression",
+      "title": "Ly6d expression delineates two putative postnatal thymus epithelial progenitor cells that are differentially affected by aging",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3174?af=R"
-    },
-    {
-      "title": "Dasatinib reversibly disrupts T cell motility and activation in lymph nodes",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec5951?af=R"
-    },
-    {
-      "title": "Localized immunomodulation with cytokine-producing cells to mitigate foreign body responses in rodents and a nonhuman primate",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec7053?af=R"
-    },
-    {
-      "title": "Mid-infrared long-range surface polaritons in two-dimensional van der Waals materials",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed2198?af=R"
-    },
-    {
-      "title": "Skeletal muscle H3K18 lactylation inhibits hepatic gluconeogenesis through IL-6 mediated interorgan communication",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed5600?af=R"
-    },
-    {
-      "title": "SCHEPHERD: A modular, programmable, direct current platform to control cell behavior",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed5802?af=R"
-    },
-    {
-      "title": "Vimentin remodeling in response to oxidants and electrophiles is modulated by pH",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed9655?af=R"
-    },
-    {
-      "title": "Failed metabolic adaptation to stress contributes to epidermal cell adhesion defects in Darier disease",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee1599?af=R"
-    },
-    {
-      "title": "Biophysical reprogramming of immunosuppressive neutrophils by cold atmospheric plasma reinvigorates antitumor immunity",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee2483?af=R"
-    },
-    {
-      "title": "Steppe productivity decline contributed to smallpox outbreak and the collapse of the last nomadic empire in the 1750s",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee4285?af=R"
-    },
-    {
-      "title": "Unlock lasing in two-dimensional metal halide perovskites by tuning ns2 lone pairs",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee5631?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec2253?af=R"
     }
   ]
 }
