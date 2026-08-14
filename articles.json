@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10959-w"
+    },
+    {
+      "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10960-3"
+    },
+    {
+      "title": "How to make your science business succeed when you’re a female founder",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01904-y"
+    },
+    {
+      "title": "Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02503-7"
+    },
+    {
+      "title": "AI isn’t ready to research itself",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02494-5"
+    },
+    {
+      "title": "Why China should reassess how it rewards young scientists",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02525-1"
+    },
+    {
+      "title": "Ancient rise in CO<sub>2</sub> was catastrophic for forests: what that means for today’s plants",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02544-y"
+    },
+    {
+      "title": "Will the mRNA flu shot work better than a regular seasonal one? What the science says",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02502-8"
+    },
+    {
       "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
       "journal": "Nature",
       "date": "",
@@ -25,7 +73,7 @@
       "url": "https://www.nature.com/articles/d41586-026-02463-y"
     },
     {
-      "title": "Rattlesnakes’ own anti-venom could protect humans too",
+      "title": "Rattlesnakes’ own antivenom could protect humans too",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02461-0"
@@ -71,54 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10756-5"
-    },
-    {
-      "title": "Cascading continental-scale floods across Europe in 1342–1343",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10888-8"
-    },
-    {
-      "title": "Rb-driven transcription limits its tumour-suppressive effects in breast cancer",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10886-w"
-    },
-    {
-      "title": "Procognitive restoration of PV neuron plasticity in neurodevelopmental disorders",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10907-8"
-    },
-    {
-      "title": "A gas-enshrouded and gas-reddened black hole at cosmic dawn",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10846-4"
-    },
-    {
-      "title": "Towards an equitable future of global photovoltaic waste recycling",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10905-w"
-    },
-    {
-      "title": "Luminescent-reaction-enabled super-resolution imaging",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10889-7"
-    },
-    {
-      "title": "Degree-of-polarization modulation for high-dimensional optical computing",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10891-z"
-    },
-    {
-      "title": "Neural basis of compositional control",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10896-8"
     },
     {
       "title": "Filling the holes in whole genomes: A vision for personalized genomics from telomere to telomere",
@@ -241,124 +241,124 @@
       "url": "https://www.cell.com/cell/fulltext/S0092-8674(26)00586-6?rss=yes"
     },
     {
-      "title": "A harrowing tour of Earth’s sacrificial lands",
+      "title": "Should humanoid robots in every household really be a top priority?",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aei8513?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aek2193?af=R"
     },
     {
-      "title": "Change comes for science publishing paradigms",
+      "title": "Inside the world of aspiring octopus farmers",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aej0108?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aei0132?af=R"
     },
     {
-      "title": "The fungal pathogen Candida auris exposes chitin to trigger IFNγ and persist in hair follicles",
+      "title": "Room-temperature multiferroicity in all–van der Waals heterostructures",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adu6688?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adq0420?af=R"
     },
     {
-      "title": "The climate benefits of retiring a fully operational internal combustion engine vehicle",
+      "title": "Tracking the baryon number with nuclear collisions",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adv5441?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ads5962?af=R"
     },
     {
-      "title": "Chemically induced skin tumors arise from long-lived stem cells of the upper hair follicle",
+      "title": "Promoter-driven recrystallization affording highly textured ruthenium",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adv8291?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ady9591?af=R"
     },
     {
-      "title": "Levitated sensor for magnetometry in ambient environment",
+      "title": "Xylose phosphatase activity of dystroglycan self-regulates its receptor function",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adx1707?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adz7427?af=R"
     },
     {
-      "title": "Calcium tunes snail mucus–based materials to multiple functions",
+      "title": "A cross-organ single-cell analysis of hypertension",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adx7367?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aea6187?af=R"
     },
     {
-      "title": "Decadal doubling of Siberian methane emissions due to warming-induced fires and methanogenesis",
+      "title": "Chemovaccination with a late-liver-stage antimalarial induces durable immunity against malaria",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aea5828?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aea7605?af=R"
     },
     {
-      "title": "Generative design of bacteriophages with genome language models",
+      "title": "Fossil denticles reveal how ocean productivity shapes shark baselines and recovery potential",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aec2657?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec2144?af=R"
     },
     {
-      "title": "Fossil evidence favors a role for vision in the modular evolution of the primate neocortex",
+      "title": "Artificial hibernation reveals synaptic engram architecture associated with memory retention",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aee3541?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aee7004?af=R"
     },
     {
-      "title": "Vicinal disubstitution of alkyl C–X synthons via alkene radical cation generation",
+      "title": "Eco-evolutionary feedback reshapes competitive dynamics in an orchard fly system",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aef0766?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aee8723?af=R"
     },
     {
-      "title": "Adaptive modulation of theta sweeps in the brain’s navigation circuit",
+      "title": "A thalamocortical circuit encoding deviations from sensory history",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aef4184?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeg4720?af=R"
     },
     {
-      "title": "Heavily doped, highly compensated epitaxial ScN thin films exceed Boltzmann thermopower limits",
+      "title": "A CDK1 phospho-switch reprograms TRAIP to unload replisomes in mitosis",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aef9458?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh1834?af=R"
     },
     {
-      "title": "A molecular switch for coordinating kinesin and dynein transport of mitochondrial cargo",
+      "title": "Overcoming the performance ceiling of textured piezoelectric ceramics",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeh1475?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aei0475?af=R"
     },
     {
-      "title": "Turbulent seismoacoustic imprints during a hurricane landfall",
+      "title": "The eukaryote chromosome, a two-state system with interconversion by a volume phase transition",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adt7323?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adz1083?af=R"
     },
     {
-      "title": "Paleogenomic insight into the collapse, recovery, and management of American bison",
+      "title": "A joint geophysical-geochemical deep-mantle zoning map beneath East Africa and the Indian Ocean",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aee4205?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aea5466?af=R"
     },
     {
-      "title": "A central role for dietary sugars in human evolution",
+      "title": "Forest canopy decline under elevated CO2 during the Paleocene-Eocene Thermal Maximum",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed8437?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec4776?af=R"
+    },
+    {
+      "title": "TTF2 processes sites of incomplete DNA replication during mitosis via sister-chromatid exchanges",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh2300?af=R"
     },
     {
       "title": "In Other Journals",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ael1781?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael3843?af=R"
     },
     {
-      "title": "The price of my future",
+      "title": "Writing the hard way",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ael1782?af=R"
-    },
-    {
-      "title": "A fungus makes itself at home on skin",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aek0194?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael3844?af=R"
     },
     {
       "title": "Author Correction: HERD-1 mediates multiphase condensate immiscibility to regulate small RNA-driven transgenerational epigenetic inheritance",
@@ -751,12 +751,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea7469?af=R"
     },
     {
-      "title": "RNA terminal uridylyl transferases are druggable vulnerabilities in AML but are dispensable for normal hematopoiesis",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3399?af=R"
-    },
-    {
       "title": "Single-exposure holographic 3D printing via inverse-designed phase masks",
       "journal": "Science Advances",
       "date": "",
@@ -845,6 +839,12 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee9000?af=R"
+    },
+    {
+      "title": "Synaptic zinc plasticity shapes adaptive and maladaptive cortical plasticity following cochlear injury",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee9298?af=R"
     }
   ]
 }
