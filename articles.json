@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11023-3"
+    },
+    {
+      "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11022-4"
+    },
+    {
+      "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02562-w"
+    },
+    {
+      "title": "Einstein the musician, AI prophets and more: Books in brief",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02504-6"
+    },
+    {
+      "title": "Undocumented migration does not raise crime rates, huge study finds",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02542-0"
+    },
+    {
       "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
       "journal": "Nature",
       "date": "",
@@ -35,6 +65,12 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02525-1"
+    },
+    {
+      "title": "Daily briefing: New evidence of the mysterious ‘glueballs’",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02558-6"
     },
     {
       "title": "Ancient rise in CO<sub>2</sub> was catastrophic for forests: what that means for today’s plants",
@@ -83,42 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02521-5"
-    },
-    {
-      "title": "Dataset artefacts can partially drive the measured decline in disruption",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10787-y"
-    },
-    {
-      "title": "Reply to: Dataset artefacts can partially drive the measured decline in disruption",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10788-x"
-    },
-    {
-      "title": "Agentic profiles for effective AI governance",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10805-z"
-    },
-    {
-      "title": "Glucose-responsive probiotics for glycaemic modulation in mice and monkeys",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10909-6"
-    },
-    {
-      "title": "Temporal uncoupling of radial glia lineage progression in cortical organoids",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10916-7"
-    },
-    {
-      "title": "Shared principles of human and bacterial antiviral immunity",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10756-5"
     },
     {
       "title": "Filling the holes in whole genomes: A vision for personalized genomics from telomere to telomere",
@@ -331,16 +331,16 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.adz1083?af=R"
     },
     {
-      "title": "A joint geophysical-geochemical deep-mantle zoning map beneath East Africa and the Indian Ocean",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aea5466?af=R"
-    },
-    {
       "title": "Forest canopy decline under elevated CO2 during the Paleocene-Eocene Thermal Maximum",
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aec4776?af=R"
+    },
+    {
+      "title": "A joint geophysical-geochemical deep-mantle zoning map beneath East Africa and the Indian Ocean",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aea5466?af=R"
     },
     {
       "title": "TTF2 processes sites of incomplete DNA replication during mitosis via sister-chromatid exchanges",
@@ -349,16 +349,28 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aeh2300?af=R"
     },
     {
+      "title": "Writing the hard way",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael3844?af=R"
+    },
+    {
       "title": "In Other Journals",
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.ael3843?af=R"
     },
     {
-      "title": "Writing the hard way",
-      "journal": "Science",
+      "title": "Evading disulfidptosis via NRF2 translation",
+      "journal": "Nature Cell Biology",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ael3844?af=R"
+      "url": "https://www.nature.com/articles/s41556-026-02036-1"
+    },
+    {
+      "title": "An EZH2–SREBP2 axis promotes cholesterol biosynthesis and represents a noncanonical vulnerability in tumorigenesis",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02048-x"
     },
     {
       "title": "Author Correction: HERD-1 mediates multiphase condensate immiscibility to regulate small RNA-driven transgenerational epigenetic inheritance",
@@ -395,18 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02016-5"
-    },
-    {
-      "title": "The mitochondria enzyme OGDH defends against disulfidptosis by licensing METTL3-regulated NRF2 translation",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02042-3"
-    },
-    {
-      "title": "Advanced imaging of membrane contact sites",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02003-w"
     },
     {
       "title": "Uncovering mammalian fertilization dynamics",
@@ -727,6 +727,12 @@
       "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00467-3?rss=yes"
     },
     {
+      "title": "Nuclear RSK1 mediates interferon-γ–induced proinflammatory activation in human primary macrophages and humanized mice",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady4193?af=R"
+    },
+    {
       "title": "Proteogenomic characterization of pulmonary large-cell neuroendocrine carcinoma identifies molecular features and therapeutic strategy",
       "journal": "Science Advances",
       "date": "",
@@ -739,16 +745,82 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz1892?af=R"
     },
     {
+      "title": "Highly attenuated dendritic propagation of isolated synaptic potentials in vivo",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz4123?af=R"
+    },
+    {
+      "title": "Multimodal profiling of pro-inflammatory protease activity identifies caspase-1 as a target for lung cancer interception",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz4263?af=R"
+    },
+    {
+      "title": "Drought dynamics explain once in a century yellow fever virus outbreak in Brazil with implications for climate change",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz6832?af=R"
+    },
+    {
       "title": "Reassessing the role of progesterone receptor isoforms PGR-A and PGR-B in female fertility",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz7757?af=R"
     },
     {
+      "title": "Distinct cortical spatial representations learned along disparate visual pathways",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea1037?af=R"
+    },
+    {
+      "title": "AI agents can coordinate via majority-following beyond human scale",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea6091?af=R"
+    },
+    {
       "title": "Jomon genomics reveal cold adaptation in Upper Paleolithic hunter-gatherers of eastern Eurasia",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea7469?af=R"
+    },
+    {
+      "title": "Ligand-tuned extracellular domain dynamics are correlated with signaling states in an adhesion GPCR",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea8715?af=R"
+    },
+    {
+      "title": "Strong connections of locally clustered neurons in the upper-layer cortex underlie schizophrenia-related auditory deviance detection",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb4666?af=R"
+    },
+    {
+      "title": "Acoustic virtual walls enable open, scalable, and programmable microfluidics",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0104?af=R"
+    },
+    {
+      "title": "Cooperative and collective quantum light emission from perovskite superball superstructures",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0398?af=R"
+    },
+    {
+      "title": "HSP27 regulates force-coordinated DDR1 condensate disassembly and liquid-to-gel phase transition",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec2282?af=R"
+    },
+    {
+      "title": "Self-assembled monolayers with cross-linkable header on the linker for durable perovskite photovoltaics",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3096?af=R"
     },
     {
       "title": "Single-exposure holographic 3D printing via inverse-designed phase masks",
@@ -763,88 +835,16 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3842?af=R"
     },
     {
+      "title": "An octopamine-glutamate cotransmitting neuron gates aggressive escalation through layered inhibition in Drosophila",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec4153?af=R"
+    },
+    {
       "title": "Label-free biochemical imaging and time point analysis of neural organoids via deep learning–enhanced Raman microspectroscopy",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec5080?af=R"
-    },
-    {
-      "title": "Photonic time crystals assisted by quasi-bound states in the continuum",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed4055?af=R"
-    },
-    {
-      "title": "GNPs-pIL-4 reprograms macrophage polarization and activates the OSM/GSNOR/ENG axis to improve angiogenesis in ischemic limbs",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed5692?af=R"
-    },
-    {
-      "title": "A prefrontal peptidergic circuit for psychogenic itch",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed8901?af=R"
-    },
-    {
-      "title": "Internal electric fields enhance reductive reactivity at MoS2 boundaries revealed by ultrafast near-field nanospectroscopy",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee0180?af=R"
-    },
-    {
-      "title": "Mito-TEMPO improves survival rates in npc1-knockout zebrafish by reducing oxidative stress and enhancing mitophagy via Sod2",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee0509?af=R"
-    },
-    {
-      "title": "Prediction of mild cognitive impairment progression using time-sensitive multimodal biomarkers",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee2305?af=R"
-    },
-    {
-      "title": "Retention of noble gases in the deep Earth: Kinetic trapping or stable bonding?",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee3254?af=R"
-    },
-    {
-      "title": "Breaking solubility of metal-organic cages via polymer carrier for concentrated type II porous liquid to extract n-alkanes",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee3993?af=R"
-    },
-    {
-      "title": "CD5+ dendritic cell robots mediated in situ immunocyte activation",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee5305?af=R"
-    },
-    {
-      "title": "Fibroblasts resist Staphylococcus aureus on the skin surface by responding to interleukin-1 and recruiting neutrophils",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee5871?af=R"
-    },
-    {
-      "title": "CDT1 acts with the replisome to remodel replication forks",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee6914?af=R"
-    },
-    {
-      "title": "Phage-encoded NARP3 system rebuilds NAD+ to subvert bacterial immunity",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee9000?af=R"
-    },
-    {
-      "title": "Synaptic zinc plasticity shapes adaptive and maladaptive cortical plasticity following cochlear injury",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee9298?af=R"
     }
   ]
 }
