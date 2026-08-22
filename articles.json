@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02626-x"
+    },
+    {
+      "title": "Earth-shaking thunder probes underground geology",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02596-0"
+    },
+    {
+      "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02566-6"
+    },
+    {
+      "title": "Sleuth identifies dozens of studies that used the wrong antibody",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02352-4"
+    },
+    {
       "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
       "journal": "Nature",
       "date": "",
@@ -41,6 +65,12 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02612-3"
+    },
+    {
+      "title": "Daily briefing: People older than 100 have more cancer-killing cells",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02617-y"
     },
     {
       "title": "Investors’ sneak peak: can this AI tool spot the science that will lead to patents?",
@@ -89,36 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10777-0"
-    },
-    {
-      "title": "Functional role of skull lymphoid structures in CNS immunosurveillance",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10951-4"
-    },
-    {
-      "title": "Observation of conformal field theory spectra in a quantum simulator",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10904-x"
-    },
-    {
-      "title": "Wake-activated neuronal populations that regulate sleep drive",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10928-3"
-    },
-    {
-      "title": "Increasing CO<sub>2</sub> levels fertilize C<sub>4</sub> grass production",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10935-4"
-    },
-    {
-      "title": "A global atmospheric methane record from a tropical ice core",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10938-1"
     },
     {
       "title": "Protein condensate as a plant sunscreen",
@@ -325,12 +325,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aee0747?af=R"
     },
     {
-      "title": "Autonomous biomedical research with an artificial intelligence agent",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adz4351?af=R"
-    },
-    {
       "title": "A cinnamyl alcohol dehydrogenase–like scaffold organizes monoterpenoid indole alkaloid biosynthesis",
       "journal": "Science",
       "date": "",
@@ -349,6 +343,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.adu5501?af=R"
     },
     {
+      "title": "Autonomous biomedical research with an artificial intelligence agent",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.adz4351?af=R"
+    },
+    {
       "title": "In Other Journals",
       "journal": "Science",
       "date": "",
@@ -359,6 +359,24 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.ael5806?af=R"
+    },
+    {
+      "title": "Biosensor reveals unexpected variability in the cGAS response to DNA damage",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02039-y"
+    },
+    {
+      "title": "A versatile cGAMP reporter reveals principles of cGAS activation by DNA damage and chromosome instability",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02037-0"
+    },
+    {
+      "title": "Mechanisms underlying propagation of ferroptotic cell death",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02053-0"
     },
     {
       "title": "A lipid kinase joins the transcriptional machinery",
@@ -389,24 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02049-w"
-    },
-    {
-      "title": "A chromatin remodeller silences SINE retrotransposons",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02051-2"
-    },
-    {
-      "title": "Mega-enhancers compartmentalize transcriptionally active long genes in the brain",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02043-2"
-    },
-    {
-      "title": "PGAM1 rheostat in glycolysis and autophagy",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02033-4"
     },
     {
       "title": "Uncovering mammalian fertilization dynamics",
@@ -727,10 +727,46 @@
       "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00505-8?rss=yes"
     },
     {
+      "title": "RNA delivery to the corneal endothelium using charge-altering releasable transporters",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady8161?af=R"
+    },
+    {
+      "title": "3D-Printed biodegradable and multifunctional cranial device for bone repair and healing assessment",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz2632?af=R"
+    },
+    {
+      "title": "Spiderweb-inspired electronically conductive hygroscopic adhesive for chronic bioelectronic interface",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea3748?af=R"
+    },
+    {
+      "title": "Geneformer-guided multiomics integration identifies Pbx1 as a network hub of hematopoietic stem cell aging",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1346?af=R"
+    },
+    {
       "title": "SKI is critical to counter TGF-β signaling to promote T cell function and autoimmunity",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb7051?af=R"
+    },
+    {
+      "title": "Constitutively active glucagon receptor (GCGR) physiologically regulates body temperature in lizards",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8744?af=R"
+    },
+    {
+      "title": "Impacts of land use and fallowing on coccidioidomycosis incidence in California: A population-based longitudinal study",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0156?af=R"
     },
     {
       "title": "Ptpn2 limits plasma cell fate and antiviral immunity by integrating B cell receptor and IFN-γ signals in B cells",
@@ -739,10 +775,22 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0162?af=R"
     },
     {
+      "title": "Enriched experience increases reciprocal synaptic connectivity and coding sparsity in higher-order cortex",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3893?af=R"
+    },
+    {
       "title": "Structural basis for target discrimination and activation by Cas13d",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec4221?af=R"
+    },
+    {
+      "title": "Large-scale proteomics to identify novel biomarkers linking social determinants of health to heart failure risk",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec5063?af=R"
     },
     {
       "title": "Reconstructing pathogen-specific antibody binding epitopes and age-dependent immune signatures from proteomic-scale peptide libraries",
@@ -751,16 +799,40 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec5478?af=R"
     },
     {
+      "title": "Sphingosine kinase 2 regulates adipocyte browning and whole-body metabolism",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec7066?af=R"
+    },
+    {
       "title": "Targeting PKGIα Cys42 attenuates cardiac dysfunction in heart failure with preserved ejection fraction",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec8088?af=R"
     },
     {
+      "title": "Fate of heat approaching the Filchner-Ronne Ice Shelf mediated by continental shelf eddies",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec8232?af=R"
+    },
+    {
+      "title": "δ2-Protocadherins organize parallel indirect basal ganglia circuits",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec8746?af=R"
+    },
+    {
       "title": "Reconstruction and attribution of Late-Pleistocene changes in the Earth’s energy imbalance",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec9034?af=R"
+    },
+    {
+      "title": "Abscisic acid–regulated stability of CmABF1 and CmBRM modulates salt tolerance in chrysanthemum via epigenetic regulation of CmHSFA4",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed2521?af=R"
     },
     {
       "title": "The structure of a complex, asymmetric coronal mass ejection revealed by 17 spacecraft across the inner heliosphere",
@@ -773,78 +845,6 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee1381?af=R"
-    },
-    {
-      "title": "Ultrafast energy transfer across Pd/MXene interface via hot phonon-electron interactions",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee2017?af=R"
-    },
-    {
-      "title": "Unconventional role of hydroxymethylglutaryl-CoA synthase 1 in driving pathogenic TH17 cell immunity and autoimmune diseases",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee4337?af=R"
-    },
-    {
-      "title": "Large language models enhance annotation of enzymes in metagenomes",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee4389?af=R"
-    },
-    {
-      "title": "Perspiration vapor lightens near-skin air, but hinders human evaporative cooling in arid heat",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee4703?af=R"
-    },
-    {
-      "title": "Tree selection in urban greening shapes air quality for global cities",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee5583?af=R"
-    },
-    {
-      "title": "A pressure-tolerant, miniature ocean-sensing tag with acoustic telemetry for real-time CTD monitoring",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee9809?af=R"
-    },
-    {
-      "title": "Unlocking dormant Li+ pathways drives fast ion transport in Li4Ti5O12 oxide spinels",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef5575?af=R"
-    },
-    {
-      "title": "Isocaloric switch from low-fat to Western high-fat diet triggers transcriptomic reprogramming and ectopic olfactory receptor responses",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef5698?af=R"
-    },
-    {
-      "title": "Self-sustaining leadless intracardiac pacemaker powered by triboelectric nanogenerator",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef8903?af=R"
-    },
-    {
-      "title": "Ultrathin CoO nanosheets enable direct CO2 hydrogenation to acetic acid",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg1076?af=R"
-    },
-    {
-      "title": "Endometriosis-derived iPSCs reveal conserved stromal maturation and endocrine responsiveness",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg2362?af=R"
-    },
-    {
-      "title": "H3.3 chaperone Hira primes the effector program and function of regulatory T cells",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg2679?af=R"
     }
   ]
 }
