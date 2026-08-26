@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "title": "The exoskeletons are coming (to a store near you)",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02641-y"
-    },
-    {
-      "title": "Frontier-technology markets are too narrow — here’s how to widen them",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02572-8"
-    },
-    {
-      "title": "Billion-dollar machine aims to set a fusion-energy record — and study nuclear weapons",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02620-3"
-    },
-    {
-      "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02616-z"
-    },
-    {
-      "title": "Can AI ever be conscious? The question stems from a misconception",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02571-9"
-    },
-    {
-      "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02626-x"
-    },
-    {
-      "title": "Earth-shaking thunder probes underground geology",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02596-0"
-    },
-    {
-      "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02566-6"
-    },
-    {
-      "title": "Sleuth identifies dozens of studies that used the wrong antibody",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02352-4"
-    },
-    {
-      "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11043-z"
-    },
-    {
-      "title": "Hidden volcanoes hint at Moon’s turbulent past",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02555-9"
-    },
-    {
-      "title": "To shield the fetus, link a protein to these drugs",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02553-x"
-    },
-    {
-      "title": "Astronaut vest cuts radiation exposure in half",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02556-8"
-    },
-    {
-      "title": "These trees are making air quality in cities worse",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02586-2"
-    },
-    {
-      "title": "Exclusive: NSF set to issue lowest number of new grants in four decades",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02574-6"
-    },
-    {
-      "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02612-3"
-    },
-    {
-      "title": "Daily briefing: People older than 100 have more cancer-killing cells",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02617-y"
-    },
-    {
-      "title": "Investors’ sneak peak: can this AI tool spot the science that will lead to patents?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02549-7"
-    },
-    {
-      "title": "Staggering 90% of biomedical papers now show signs of AI help",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02551-z"
-    },
-    {
-      "title": "Researcher, heal thyself: meet the scientists studying their own diseases",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02455-y"
-    },
-    {
       "title": "Protein condensate as a plant sunscreen",
       "journal": "Cell",
       "date": "",
@@ -289,12 +169,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aec6299?af=R"
     },
     {
-      "title": "RAD51 stabilizes neutrophil extracellular traps to compartmentalize inflammation",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed9286?af=R"
-    },
-    {
       "title": "Ultralong sheathed single-metal-atom chains synthesized under high pressure",
       "journal": "Science",
       "date": "",
@@ -323,6 +197,12 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aee0747?af=R"
+    },
+    {
+      "title": "RAD51 stabilizes neutrophil extracellular traps to compartmentalize inflammation",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aed9286?af=R"
     },
     {
       "title": "A cinnamyl alcohol dehydrogenase–like scaffold organizes monoterpenoid indole alkaloid biosynthesis",
@@ -361,6 +241,18 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.ael5806?af=R"
     },
     {
+      "title": "The proportional scaling of mRNA and ribosome concentrations controls eukaryotic cell growth",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02045-0"
+    },
+    {
+      "title": "Elevated contractility drives implantation failure in mouse embryos from aged females",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02052-1"
+    },
+    {
       "title": "Circadian control of circulating tumour-derived extracellular vesicle secretion affects targeted therapy efficacy",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -395,18 +287,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02046-z"
-    },
-    {
-      "title": "Evading disulfidptosis via NRF2 translation",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02036-1"
-    },
-    {
-      "title": "An EZH2–SREBP2 axis promotes cholesterol biosynthesis and represents a noncanonical vulnerability in tumorigenesis",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02048-x"
     },
     {
       "title": "Uncovering mammalian fertilization dynamics",
@@ -496,121 +376,121 @@
       "title": "In This Issue",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/iti3326123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/iti3426123?af=R"
     },
     {
-      "title": "UV photodamage pathways and the evolutionary selection of thymine over uracil in early genetic systems",
+      "title": "Autoantibodies neutralizing type I interferons underlie a third of cases of Chikungunya virus encephalitis or myelitis",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2615278123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2616897123?af=R"
     },
     {
-      "title": "The market for human smuggling: Structure, mechanisms, and paradoxes",
+      "title": "Peter H. Raven: Botanist, evolutionary biologist, and biodiversity champion",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2511019122?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2624553123?af=R"
     },
     {
-      "title": "Illegal markets for cigarettes and e-cigarettes",
+      "title": "Hydrogen-ready infrastructure risks new carbon lock-in",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2512084122?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2601685123?af=R"
     },
     {
-      "title": "The policy construction of illegal markets: Exploring variation, success, failure, and unintended consequences",
+      "title": "White-matter functional connectivity uniquely predicts brain age, cognition, and psychopathology beyond gray-matter connectivity",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2515300123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2604191123?af=R"
     },
     {
-      "title": "The illegal market for sex in the United States: Insights from economic research",
+      "title": "Genomic signatures of dairy adaptation in Saccharomyces cerevisiae from traditional Yaghnob goat-cheese fermentation",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2512375122?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2537942123?af=R"
     },
     {
-      "title": "How illegal wildlife trade adheres to and defies conventional market behavior",
+      "title": "Structural rearrangements of PDGFRβ in the membrane upon activation by the viral oncoprotein E5",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2525056123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2603552123?af=R"
     },
     {
-      "title": "The money laundering market: An economic analysis",
+      "title": "Brassinosteroid-regulated transcription factors confer epigenetic changes that repress plant immunity",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2512080123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2532739123?af=R"
     },
     {
-      "title": "A descriptive analysis for the markets for counterfeit products",
+      "title": "Exploiting the CXCR3/CXCL10 axis overrides tumor immune suppression by enhancing immune trafficking and effector cell priming in HNSCC",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2522322123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2522360123?af=R"
     },
     {
-      "title": "A budding science of illegal markets",
+      "title": "Neonatal diethylstilbestrol exposure disrupts uterine epithelial apical–basal polarity and partial EMT state",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2511780123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2603458123?af=R"
     },
     {
-      "title": "Isobaric counterdiffusion of carbon tetrafluoride breathing gas to prevent severe decompression sickness",
+      "title": "The 1820 Mallorca plague was not a classic bubonic outbreak",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2600125123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2536892123?af=R"
     },
     {
-      "title": "Tariff policy and why economics needs intergroup psychology",
+      "title": "VIA1 is a conserved regulator of thylakoid membrane integrity that acts through VIPP1",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2514670123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2605816123?af=R"
     },
     {
-      "title": "Burton H. Singer (1938–2026): A legacy across disciplines",
+      "title": "4000-year-old painted plaque from Southeast Indonesia reveals Austronesian Painting Tradition preceded Neolithic pottery",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2620887123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2611580123?af=R"
     },
     {
-      "title": "Odor tracking in flying Drosophila requires visual reafference and compass neurons",
+      "title": "A peripheral carboxysome component regulates cyanobacterial glycogen deposition",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2609141123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2607702123?af=R"
     },
     {
-      "title": "Emergence of biosignatures on Earth and implications for life detection",
+      "title": "The role of small Heat Shock Proteins in Trypanosoma cruzi infection and intestinal homeostasis in a Chagas disease vector",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2520594123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2600647123?af=R"
     },
     {
-      "title": "Beyond “non-significant” results: Why and how to test for practical equivalence",
+      "title": "Manipulation of localized excitons in CrPS4 by temperature and magnetic field",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2611548123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2616584123?af=R"
     },
     {
-      "title": "Unitary representations and von Neumann’s continuous geometries",
+      "title": "Unitary currents through K+ selective channelrhodopsins reveal multiple conductance states within an activated state complex",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2615658123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2604725123?af=R"
     },
     {
-      "title": "Engineering and land use intensified climate-driven Yangtze River flood hazards since the Little Ice Age",
+      "title": "Architecture and mechanism of the human p24 cargo receptor",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2529389123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2610235123?af=R"
     },
     {
-      "title": "Circumventing thermodynamic limitations in converting carbon dioxide into carbon nanotubes via tandem catalysis",
+      "title": "CXCR4-targeted dual softener for inducing senescence therapy in hepatic fibrosis",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2610399123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2600215123?af=R"
     },
     {
-      "title": "Illegal firearms markets: Transaction patterns, evolving sources, and importance in criminal misuse",
+      "title": "Direct dating of 3.5 Ga biogenic carbon in a microbial mat remnant, Singhbhum Craton, India",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2509754122?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2617912123?af=R"
     },
     {
       "title": "HIF-1α sets the activation tempo of inflammatory macrophages",
