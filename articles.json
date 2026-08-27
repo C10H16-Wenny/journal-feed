@@ -1,6 +1,126 @@
 {
   "items": [
     {
+      "title": "A solution to the mystery of the missing neutrinos",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02628-9"
+    },
+    {
+      "title": "Animal-microbe partnerships date back to the dawn of complex life",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02629-8"
+    },
+    {
+      "title": "‘Robot Olympics’ reveal humanoids' rapid progress — but hurdles remain",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02713-z"
+    },
+    {
+      "title": "Glacier collapse caused Nepal’s deadly flash flood — a sign of things to come?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02716-w"
+    },
+    {
+      "title": "Women face bans on research underground — here’s how to modernize the system",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02679-y"
+    },
+    {
+      "title": "Highest-ever ocean temperatures recorded as El Niño intensifies",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02681-4"
+    },
+    {
+      "title": "Using nuclear waste to power space missions",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02514-4"
+    },
+    {
+      "title": "Automated prototyping of genetic codes",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10949-y"
+    },
+    {
+      "title": "Insights into longevity and virus-driven adaptation from <i>Myotis</i> bat genomes",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10932-7"
+    },
+    {
+      "title": "Systems vaccinology and the architecture of human immunity",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10753-8"
+    },
+    {
+      "title": "Ultrafast and reference-free sequence discovery in single-cell data",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10975-w"
+    },
+    {
+      "title": "Cell-type-specific eQTLs underlie the genetic architecture of complex traits",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10577-6"
+    },
+    {
+      "title": "Amphibious stem-insect sheds light on colonization of land",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10961-2"
+    },
+    {
+      "title": "3D bulk-resolved <i>g</i>-wave altermagnetic order parameter in CrSb",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10902-z"
+    },
+    {
+      "title": "Tidal tomography reveals a thermal anomaly beneath Mars’s crustal dichotomy",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10893-x"
+    },
+    {
+      "title": "Synergistic degradation of fucoidans in the ocean",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10980-z"
+    },
+    {
+      "title": "A binding-to-release strategy for targeted anticancer drug delivery",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10971-0"
+    },
+    {
+      "title": "Critical zone processes limit alkalinity export from natural basaltic systems",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10936-3"
+    },
+    {
+      "title": "Aberrant excitatory neuronal ERBB4 promotes Alzheimer’s disease pathology",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10964-z"
+    },
+    {
+      "title": "Video reconstruction of variable VLBI observations with neural fields",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10988-5"
+    },
+    {
       "title": "Protein condensate as a plant sunscreen",
       "journal": "Cell",
       "date": "",
@@ -241,6 +361,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.ael5806?af=R"
     },
     {
+      "title": "A mechanical origin for pregnancy loss related to maternal age",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02054-z"
+    },
+    {
       "title": "The proportional scaling of mRNA and ribosome concentrations controls eukaryotic cell growth",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -281,12 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02053-0"
-    },
-    {
-      "title": "A lipid kinase joins the transcriptional machinery",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02046-z"
     },
     {
       "title": "Uncovering mammalian fertilization dynamics",
@@ -607,124 +727,124 @@
       "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00505-8?rss=yes"
     },
     {
-      "title": "RNA delivery to the corneal endothelium using charge-altering releasable transporters",
+      "title": "Observation of critical scaling in the Bose gas universality class",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady8161?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee2942?af=R"
     },
     {
-      "title": "3D-Printed biodegradable and multifunctional cranial device for bone repair and healing assessment",
+      "title": "A quadratic-scaling algorithm with guaranteed convergence for quantum coupled-channel calculations",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz2632?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef1257?af=R"
     },
     {
-      "title": "Spiderweb-inspired electronically conductive hygroscopic adhesive for chronic bioelectronic interface",
+      "title": "Narwhals document atlantification of East Greenland",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea3748?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adr1424?af=R"
     },
     {
-      "title": "Geneformer-guided multiomics integration identifies Pbx1 as a network hub of hematopoietic stem cell aging",
+      "title": "Development of mitochondrial mutator pigs exhibiting increased mitochondrial DNA mutations and premature aging via prime editing",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1346?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adu0632?af=R"
     },
     {
-      "title": "SKI is critical to counter TGF-β signaling to promote T cell function and autoimmunity",
+      "title": "Algae-specific immune modulation influences responses to heat and pathogen challenge in a symbiotic coral",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb7051?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady0833?af=R"
     },
     {
-      "title": "Constitutively active glucagon receptor (GCGR) physiologically regulates body temperature in lizards",
+      "title": "Age-specific exposure to human-induced increases in humid heat",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8744?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb3232?af=R"
     },
     {
-      "title": "Impacts of land use and fallowing on coccidioidomycosis incidence in California: A population-based longitudinal study",
+      "title": "Carbon ion irradiation at a clinically used dose rewires super-enhancers to drive necroptosis and systemic immunity",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0156?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec7590?af=R"
     },
     {
-      "title": "Ptpn2 limits plasma cell fate and antiviral immunity by integrating B cell receptor and IFN-γ signals in B cells",
+      "title": "An axon-intrinsic loop restricts nerve regeneration through axonal protein synthesis",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0162?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed0049?af=R"
     },
     {
-      "title": "Enriched experience increases reciprocal synaptic connectivity and coding sparsity in higher-order cortex",
+      "title": "Truthful visualizations for mass spectrometry imaging enable high-spatial-resolution interactive m/z mapping and exploration",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3893?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed3650?af=R"
     },
     {
-      "title": "Structural basis for target discrimination and activation by Cas13d",
+      "title": "Metal-free redox active covalent organic frameworks for electrocatalytic oxygen reduction reaction",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec4221?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee3092?af=R"
     },
     {
-      "title": "Large-scale proteomics to identify novel biomarkers linking social determinants of health to heart failure risk",
+      "title": "Hydrogen bond reorganization activates water radical chemistry for CO2-to-methane conversion under geologically relevant pressures",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec5063?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee6105?af=R"
     },
     {
-      "title": "Reconstructing pathogen-specific antibody binding epitopes and age-dependent immune signatures from proteomic-scale peptide libraries",
+      "title": "Near-term, geospatial opportunity for biomass carbon storage to address the wildfire and climate crises",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec5478?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee6185?af=R"
     },
     {
-      "title": "Sphingosine kinase 2 regulates adipocyte browning and whole-body metabolism",
+      "title": "Plasma engineered carbon molecular sieve membranes for precise and stable hydrogen permeation",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec7066?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee7783?af=R"
     },
     {
-      "title": "Targeting PKGIα Cys42 attenuates cardiac dysfunction in heart failure with preserved ejection fraction",
+      "title": "The molecular basis of mitochondrial crista formation by the MIC10 complex",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec8088?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee8657?af=R"
     },
     {
-      "title": "Fate of heat approaching the Filchner-Ronne Ice Shelf mediated by continental shelf eddies",
+      "title": "Bacteriophage PAK_P3 genome structuration and dynamics during infection of Pseudomonas aeruginosa reveal specific interaction patterns",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec8232?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef2512?af=R"
     },
     {
-      "title": "δ2-Protocadherins organize parallel indirect basal ganglia circuits",
+      "title": "Realizing long-cycling silicon-based all-solid-state batteries with near-zero-stress variation",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec8746?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef3043?af=R"
     },
     {
-      "title": "Reconstruction and attribution of Late-Pleistocene changes in the Earth’s energy imbalance",
+      "title": "Dose-ranging pharmacokinetics, safety, and efficacy of a 90-day intravaginal ring delivering islatravir in pigtail macaques",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec9034?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef3514?af=R"
     },
     {
-      "title": "Abscisic acid–regulated stability of CmABF1 and CmBRM modulates salt tolerance in chrysanthemum via epigenetic regulation of CmHSFA4",
+      "title": "Prefoldin function links meiotic chromosome segregation with cellular remodeling and reveals tubulin sensitivity of the meiotic spindle",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed2521?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef5385?af=R"
     },
     {
-      "title": "The structure of a complex, asymmetric coronal mass ejection revealed by 17 spacecraft across the inner heliosphere",
+      "title": "Metabolic control of smooth muscle cell phenotype switching in atherosclerosis",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed9960?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef6065?af=R"
     },
     {
-      "title": "AI-driven robotics for optics",
+      "title": "A vitamin B3–driven root bacterial metabolite primes systemic immunity in Arabidopsis",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee1381?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef8959?af=R"
     }
   ]
 }
