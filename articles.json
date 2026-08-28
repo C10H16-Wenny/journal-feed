@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "Briefing Chat: How Dolly Parton left her mark on science",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02732-w"
+    },
+    {
+      "title": "Mysteries of the deep and AI friendship: Books in brief",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02725-9"
+    },
+    {
+      "title": "The Moderna cancer vaccine offers hope — now we must speed up personalized therapies",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02680-5"
+    },
+    {
+      "title": "Heisuke Hironaka obituary: mathematician who smoothed out geometry’s complexities",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02688-x"
+    },
+    {
+      "title": "Will Meta’s deal make social media safe for kids? Researchers are dubious",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02733-9"
+    },
+    {
+      "title": "What employers are looking for in the age of AI — and four ways to provide it",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01913-x"
+    },
+    {
       "title": "A solution to the mystery of the missing neutrinos",
       "journal": "Nature",
       "date": "",
@@ -13,7 +49,7 @@
       "url": "https://www.nature.com/articles/d41586-026-02629-8"
     },
     {
-      "title": "‘Robot Olympics’ reveal humanoids' rapid progress — but hurdles remain",
+      "title": "‘Robot Olympics’ reveal humanoids’ rapid progress — and flaws",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02713-z"
@@ -29,6 +65,18 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02679-y"
+    },
+    {
+      "title": "The Roman telescope is about to take planet-hunting to the next level",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02662-7"
+    },
+    {
+      "title": "Why are El Niños getting stronger? 1,000-year-coral record points to climate change",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02717-9"
     },
     {
       "title": "Highest-ever ocean temperatures recorded as El Niño intensifies",
@@ -71,54 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10577-6"
-    },
-    {
-      "title": "Amphibious stem-insect sheds light on colonization of land",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10961-2"
-    },
-    {
-      "title": "3D bulk-resolved <i>g</i>-wave altermagnetic order parameter in CrSb",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10902-z"
-    },
-    {
-      "title": "Tidal tomography reveals a thermal anomaly beneath Mars’s crustal dichotomy",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10893-x"
-    },
-    {
-      "title": "Synergistic degradation of fucoidans in the ocean",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10980-z"
-    },
-    {
-      "title": "A binding-to-release strategy for targeted anticancer drug delivery",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10971-0"
-    },
-    {
-      "title": "Critical zone processes limit alkalinity export from natural basaltic systems",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10936-3"
-    },
-    {
-      "title": "Aberrant excitatory neuronal ERBB4 promotes Alzheimer’s disease pathology",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10964-z"
-    },
-    {
-      "title": "Video reconstruction of variable VLBI observations with neural fields",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10988-5"
     },
     {
       "title": "Protein condensate as a plant sunscreen",
@@ -241,124 +241,124 @@
       "url": "https://www.cell.com/cell/fulltext/S0092-8674(26)00639-2?rss=yes"
     },
     {
-      "title": "Technology is not a replacement for democracy",
+      "title": "The history and future of sickle cell disease",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aej1046?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aej0154?af=R"
     },
     {
-      "title": "Learning to love the machine",
+      "title": "M.S. Swaminathan: The Man Who Fed India",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aek5943?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael0871?af=R"
     },
     {
-      "title": "Genomes of Poaceae relatives reveal key metabolic innovations preceding the evolution of grasses",
+      "title": "Tunnel field-effect transistors exhibiting performance beyond the Boltzmann thermionic limit",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adv0443?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adx6059?af=R"
     },
     {
-      "title": "TGW1a locus simultaneously shortens growth duration and boosts grain yield in rice",
+      "title": "Autism mutations rewire protein interaction networks to drive neurodevelopmental pathology",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ady1619?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ady4523?af=R"
     },
     {
-      "title": "Tracing the origins of de novo coronary collateral formation in cardiac repair",
+      "title": "Nonviral delivery of chemically modified tRNA rescues nonsense mutations in cystic fibrosis",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ady3027?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeb0054?af=R"
     },
     {
-      "title": "Laser Mössbauer spectroscopy of 229Th in CaF2",
+      "title": "Thermal cycling–induced nitriding increases energy-storage density in titanate ferroelectric films",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aea7978?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeb5274?af=R"
     },
     {
-      "title": "Modality-specific neurovascular coupling via layer-segregated arteriole networks",
+      "title": "Genomic predisposition is associated with the direction of sex chromosome evolution",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeb5077?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec3449?af=R"
     },
     {
-      "title": "Virome-wide ubiquitin ligase discovery reveals diverse mechanisms of immune evasion",
+      "title": "A tripartite genetic conflict system controls hybrid sterility in rice",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aec6299?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec5252?af=R"
     },
     {
-      "title": "Ultralong sheathed single-metal-atom chains synthesized under high pressure",
+      "title": "Direct evaporation of single-crystal metal contacts for 2D semiconductors",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeg0028?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aee3132?af=R"
     },
     {
-      "title": "Redirecting wet–interfacial redox pathways for efficient inverted perovskite solar cells",
+      "title": "Hypervision: An on-chip hyperspectral microsystem for online video-rate computational imaging",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeg8415?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef8268?af=R"
     },
     {
-      "title": "Preferred synthesis of armchair transition metal dichalcogenide nanotubes",
+      "title": "High-efficiency, long-lived lead-free perovskite light-emitting diodes",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeh1429?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeg8955?af=R"
     },
     {
-      "title": "De novo design of orthogonal far-red, orange, and green fluorophore-binding proteins for multiplexed imaging",
+      "title": "SGLT2 inhibitors activate pantothenate kinase in the human heart",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeb0822?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh4856?af=R"
     },
     {
-      "title": "China’s solar expansion policy reduces bird diversity",
+      "title": "A necroptotic-to-apoptotic signaling axis underlies inflammatory bowel disease",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aee0747?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh7112?af=R"
     },
     {
-      "title": "RAD51 stabilizes neutrophil extracellular traps to compartmentalize inflammation",
+      "title": "Iron-catalyzed [1+1+1] cyclopropanation by sequential coupling of an ester to two carbenes",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed9286?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aej0194?af=R"
     },
     {
-      "title": "A cinnamyl alcohol dehydrogenase–like scaffold organizes monoterpenoid indole alkaloid biosynthesis",
+      "title": "De novo design of RNA pseudoknots with deep learning",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeb0357?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeg6829?af=R"
     },
     {
-      "title": "Bacteria sense virus-induced genome degradation via methylated mononucleotides",
+      "title": "Foreshock productivity and rupture nucleation in injection-induced earthquakes in western Canada",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed6782?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aed9893?af=R"
     },
     {
-      "title": "A native sulfur deposit in Gale crater, Mars",
+      "title": "Hierarchical sensory processing in zebrafish thalamocortical-like circuits",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adu5501?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec2171?af=R"
     },
     {
-      "title": "Autonomous biomedical research with an artificial intelligence agent",
+      "title": "Recovering signatures of archaic hominin introgression using ancestral recombination graphs",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adz4351?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef8874?af=R"
     },
     {
       "title": "In Other Journals",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ael5805?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael7895?af=R"
     },
     {
-      "title": "Just say yes!",
+      "title": "Caring for myself while caring for others",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ael5806?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael7896?af=R"
     },
     {
       "title": "A mechanical origin for pregnancy loss related to maternal age",
