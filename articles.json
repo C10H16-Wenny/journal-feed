@@ -1,6 +1,126 @@
 {
   "items": [
     {
+      "title": "Scale of snakebites estimated globally",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02642-x"
+    },
+    {
+      "title": "What’s your lab’s archetype? The answer could inform how you use AI",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02543-z"
+    },
+    {
+      "title": "Order from disorder: do we need a new law of physics?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02685-0"
+    },
+    {
+      "title": "The leap second is dead. Long live the leap hour?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02669-0"
+    },
+    {
+      "title": "Why are rich people so pessimistic? What the numbers say",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02687-y"
+    },
+    {
+      "title": "AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02684-1"
+    },
+    {
+      "title": "Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02727-7"
+    },
+    {
+      "title": "Briefing Chat: How Dolly Parton left her mark on science",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02732-w"
+    },
+    {
+      "title": "Mysteries of the deep and AI friendship: Books in brief",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02725-9"
+    },
+    {
+      "title": "The Moderna cancer vaccine offers hope — now we must speed up personalized therapies",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02680-5"
+    },
+    {
+      "title": "Heisuke Hironaka obituary: mathematician who smoothed out geometry’s complexities",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02688-x"
+    },
+    {
+      "title": "Will Meta’s deal make social media safe for kids? Researchers are dubious",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02733-9"
+    },
+    {
+      "title": "What employers are looking for in the age of AI — and four ways to provide it",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01913-x"
+    },
+    {
+      "title": "A solution to the mystery of the missing neutrinos",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02628-9"
+    },
+    {
+      "title": "Animal-microbe partnerships date back to the dawn of complex life",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02629-8"
+    },
+    {
+      "title": "‘Robot Olympics’ reveal humanoids’ rapid progress — and flaws",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02713-z"
+    },
+    {
+      "title": "Glacier collapse caused Nepal’s deadly flash flood — a sign of things to come?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02716-w"
+    },
+    {
+      "title": "Women face bans on research underground — here’s how to modernize the system",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02679-y"
+    },
+    {
+      "title": "The Roman telescope is about to take planet-hunting to the next level",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02662-7"
+    },
+    {
+      "title": "Why are El Niños getting stronger? 1,000-year-coral record points to climate change",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02717-9"
+    },
+    {
       "title": "Protein condensate as a plant sunscreen",
       "journal": "Cell",
       "date": "",
@@ -239,54 +359,6 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.ael7896?af=R"
-    },
-    {
-      "title": "A mechanical origin for pregnancy loss related to maternal age",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02054-z"
-    },
-    {
-      "title": "The proportional scaling of mRNA and ribosome concentrations controls eukaryotic cell growth",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02045-0"
-    },
-    {
-      "title": "Elevated contractility drives implantation failure in mouse embryos from aged females",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02052-1"
-    },
-    {
-      "title": "Circadian control of circulating tumour-derived extracellular vesicle secretion affects targeted therapy efficacy",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02047-y"
-    },
-    {
-      "title": "DREAMS illuminates spatial DNA and RNA modification landscapes",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02038-z"
-    },
-    {
-      "title": "Biosensor reveals unexpected variability in the cGAS response to DNA damage",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02039-y"
-    },
-    {
-      "title": "A versatile cGAMP reporter reveals principles of cGAS activation by DNA damage and chromosome instability",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02037-0"
-    },
-    {
-      "title": "Mechanisms underlying propagation of ferroptotic cell death",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02053-0"
     },
     {
       "title": "Uncovering mammalian fertilization dynamics",
