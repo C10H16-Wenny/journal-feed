@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "China’s regulatory innovation for new biomedical technologies",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02737-5"
+    },
+    {
+      "title": "When AI does science, who is accountable for mistakes?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02735-7"
+    },
+    {
+      "title": "The global plastics treaty must account for conflict-driven energy insecurity",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02738-4"
+    },
+    {
+      "title": "Europe should adapt, not copy, China’s practical PhD",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02736-6"
+    },
+    {
+      "title": "Who is responsible when AI helps to write science?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02686-z"
+    },
+    {
+      "title": "Bland new world: is AI making us all think the same?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02682-3"
+    },
+    {
       "title": "Scale of snakebites estimated globally",
       "journal": "Nature",
       "date": "",
@@ -83,42 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02628-9"
-    },
-    {
-      "title": "Animal-microbe partnerships date back to the dawn of complex life",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02629-8"
-    },
-    {
-      "title": "‘Robot Olympics’ reveal humanoids’ rapid progress — and flaws",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02713-z"
-    },
-    {
-      "title": "Glacier collapse caused Nepal’s deadly flash flood — a sign of things to come?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02716-w"
-    },
-    {
-      "title": "Women face bans on research underground — here’s how to modernize the system",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02679-y"
-    },
-    {
-      "title": "The Roman telescope is about to take planet-hunting to the next level",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02662-7"
-    },
-    {
-      "title": "Why are El Niños getting stronger? 1,000-year-coral record points to climate change",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02717-9"
     },
     {
       "title": "Protein condensate as a plant sunscreen",
@@ -313,12 +313,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aeh7112?af=R"
     },
     {
-      "title": "Iron-catalyzed [1+1+1] cyclopropanation by sequential coupling of an ester to two carbenes",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aej0194?af=R"
-    },
-    {
       "title": "Foreshock productivity and rupture nucleation in injection-induced earthquakes in western Canada",
       "journal": "Science",
       "date": "",
@@ -329,6 +323,12 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aeb5274?af=R"
+    },
+    {
+      "title": "Iron-catalyzed [1+1+1] cyclopropanation by sequential coupling of an ester to two carbenes",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aej0194?af=R"
     },
     {
       "title": "Hierarchical sensory processing in zebrafish thalamocortical-like circuits",
@@ -359,6 +359,54 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.ael7896?af=R"
+    },
+    {
+      "title": "A mechanical origin for pregnancy loss related to maternal age",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02054-z"
+    },
+    {
+      "title": "The proportional scaling of mRNA and ribosome concentrations controls eukaryotic cell growth",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02045-0"
+    },
+    {
+      "title": "Elevated contractility drives implantation failure in mouse embryos from aged females",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02052-1"
+    },
+    {
+      "title": "Circadian control of circulating tumour-derived extracellular vesicle secretion affects targeted therapy efficacy",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02047-y"
+    },
+    {
+      "title": "DREAMS illuminates spatial DNA and RNA modification landscapes",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02038-z"
+    },
+    {
+      "title": "Biosensor reveals unexpected variability in the cGAS response to DNA damage",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02039-y"
+    },
+    {
+      "title": "A versatile cGAMP reporter reveals principles of cGAS activation by DNA damage and chromosome instability",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02037-0"
+    },
+    {
+      "title": "Mechanisms underlying propagation of ferroptotic cell death",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02053-0"
     },
     {
       "title": "Uncovering mammalian fertilization dynamics",
