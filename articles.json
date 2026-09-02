@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title": "Satellite images before Nepal disaster showed warning signs",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02746-4"
+    },
+    {
+      "title": "UN finally admits global warming will shoot past 1.5 ºC climate limit",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02753-5"
+    },
+    {
+      "title": "When do infections lead to long COVID? Scientists close in on triggers and treatments for post-viral syndromes",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02683-2"
+    },
+    {
+      "title": "Say hello to the next generation of lobsters — August’s best science images",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02597-z"
+    },
+    {
+      "title": "Author Correction: Plasticity and language in the anaesthetized human hippocampus",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11071-9"
+    },
+    {
+      "title": "Charmed by comets",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02383-x"
+    },
+    {
+      "title": "These greenhouse-gas sources have trotters and snouts",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02734-8"
+    },
+    {
       "title": "China’s regulatory innovation for new biomedical technologies",
       "journal": "Nature",
       "date": "",
@@ -25,100 +67,58 @@
       "url": "https://www.nature.com/articles/d41586-026-02736-6"
     },
     {
+      "title": "Is this the first glimpse of dark matter? Data point excites physicists",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-01985-9"
+    },
+    {
+      "title": "India has an ambitious plan to lure scientists back — will it work?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02636-9"
+    },
+    {
+      "title": "From Trojan horses to AI-proof exams: how professors are tackling students’ AI use",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02370-2"
+    },
+    {
       "title": "Who is responsible when AI helps to write science?",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02686-z"
     },
     {
+      "title": "A guide to emotional intelligence in the lab",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02342-6"
+    },
+    {
+      "title": "Mutating every DNA letter of a genome shows surprising effects — and the limits of AI",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02609-y"
+    },
+    {
+      "title": "My four-step workflow for reading scientific papers (without trying to read them all)",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02119-x"
+    },
+    {
+      "title": "Canada recruits dozens of US scholars — including several science stars",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02743-7"
+    },
+    {
       "title": "Bland new world: is AI making us all think the same?",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02682-3"
-    },
-    {
-      "title": "Scale of snakebites estimated globally",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02642-x"
-    },
-    {
-      "title": "What’s your lab’s archetype? The answer could inform how you use AI",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02543-z"
-    },
-    {
-      "title": "Order from disorder: do we need a new law of physics?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02685-0"
-    },
-    {
-      "title": "The leap second is dead. Long live the leap hour?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02669-0"
-    },
-    {
-      "title": "Why are rich people so pessimistic? What the numbers say",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02687-y"
-    },
-    {
-      "title": "AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02684-1"
-    },
-    {
-      "title": "Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02727-7"
-    },
-    {
-      "title": "Briefing Chat: How Dolly Parton left her mark on science",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02732-w"
-    },
-    {
-      "title": "Mysteries of the deep and AI friendship: Books in brief",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02725-9"
-    },
-    {
-      "title": "The Moderna cancer vaccine offers hope — now we must speed up personalized therapies",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02680-5"
-    },
-    {
-      "title": "Heisuke Hironaka obituary: mathematician who smoothed out geometry’s complexities",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02688-x"
-    },
-    {
-      "title": "Will Meta’s deal make social media safe for kids? Researchers are dubious",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02733-9"
-    },
-    {
-      "title": "What employers are looking for in the age of AI — and four ways to provide it",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-01913-x"
-    },
-    {
-      "title": "A solution to the mystery of the missing neutrinos",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02628-9"
     },
     {
       "title": "Protein condensate as a plant sunscreen",
@@ -361,6 +361,18 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.ael7896?af=R"
     },
     {
+      "title": "Multi-stromal organoid co-culture modelling reveals epithelial–fibroblast heterogeneity in pancreatic cancer and pancreatitis",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02057-w"
+    },
+    {
+      "title": "Author Correction: Characterizing the metabolomes of microglia, astrocytes and neurons in ageing and Alzheimer’s brains",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02078-5"
+    },
+    {
       "title": "A mechanical origin for pregnancy loss related to maternal age",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -395,18 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02039-y"
-    },
-    {
-      "title": "A versatile cGAMP reporter reveals principles of cGAS activation by DNA damage and chromosome instability",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02037-0"
-    },
-    {
-      "title": "Mechanisms underlying propagation of ferroptotic cell death",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02053-0"
     },
     {
       "title": "Uncovering mammalian fertilization dynamics",
@@ -496,121 +496,121 @@
       "title": "In This Issue",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/iti3426123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/iti3526123?af=R"
     },
     {
-      "title": "Autoantibodies neutralizing type I interferons underlie a third of cases of Chikungunya virus encephalitis or myelitis",
+      "title": "David Botstein: A pioneering geneticist and educator 1942–2026",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2616897123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2625941123?af=R"
     },
     {
-      "title": "Peter H. Raven: Botanist, evolutionary biologist, and biodiversity champion",
+      "title": "Advances in small area population estimation in the absence of national census data",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2624553123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2413993123?af=R"
     },
     {
-      "title": "Hydrogen-ready infrastructure risks new carbon lock-in",
+      "title": "Profile of C. Robin Buell",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2601685123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2625944123?af=R"
     },
     {
-      "title": "White-matter functional connectivity uniquely predicts brain age, cognition, and psychopathology beyond gray-matter connectivity",
+      "title": "Learning to outgrow the competition: Reaction–diffusion systems that adapt to time-dependent environments",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2604191123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2605428123?af=R"
     },
     {
-      "title": "Genomic signatures of dairy adaptation in Saccharomyces cerevisiae from traditional Yaghnob goat-cheese fermentation",
+      "title": "Can seaweed mitigate methane from cows on a global scale?",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2537942123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2626533123?af=R"
     },
     {
-      "title": "Structural rearrangements of PDGFRβ in the membrane upon activation by the viral oncoprotein E5",
+      "title": "The distribution and origin of Mercury’s crustal magnetization",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2603552123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2535723123?af=R"
     },
     {
-      "title": "Brassinosteroid-regulated transcription factors confer epigenetic changes that repress plant immunity",
+      "title": "Selective saccular plasticity under microgravity links peripheral transcriptomic remodeling to postflight vestibular dysfunction",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2532739123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2605593123?af=R"
     },
     {
-      "title": "Exploiting the CXCR3/CXCL10 axis overrides tumor immune suppression by enhancing immune trafficking and effector cell priming in HNSCC",
+      "title": "Insights into Neanderthal development, childbirth, and locomotion from the Palomas and Dederiyeh pelves",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2522360123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2535303123?af=R"
     },
     {
-      "title": "Neonatal diethylstilbestrol exposure disrupts uterine epithelial apical–basal polarity and partial EMT state",
+      "title": "Association between precentral gyrus morphology and modality-specific intentional communication in chimpanzees (Pan troglodytes)",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2603458123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2419514123?af=R"
     },
     {
-      "title": "The 1820 Mallorca plague was not a classic bubonic outbreak",
+      "title": "Three millennia of lizard and snake consumption by Natufian foragers",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2536892123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2609354123?af=R"
     },
     {
-      "title": "VIA1 is a conserved regulator of thylakoid membrane integrity that acts through VIPP1",
+      "title": "Postglacial ecosystem development of a hydrothermal landscape in Yellowstone National Park",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2605816123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2613422123?af=R"
     },
     {
-      "title": "4000-year-old painted plaque from Southeast Indonesia reveals Austronesian Painting Tradition preceded Neolithic pottery",
+      "title": "Co-option of ancestral stem regulators drove recurrent evolution of underground storage organs",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2611580123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2606323123?af=R"
     },
     {
-      "title": "A peripheral carboxysome component regulates cyanobacterial glycogen deposition",
+      "title": "YBX1 regulates RNA polymerase III transcripts to prevent inflammation",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2607702123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2605741123?af=R"
     },
     {
-      "title": "The role of small Heat Shock Proteins in Trypanosoma cruzi infection and intestinal homeostasis in a Chagas disease vector",
+      "title": "Structural basis of GSDME pore formation and its regulation by S-palmitoylation",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2600647123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2614339123?af=R"
     },
     {
-      "title": "Manipulation of localized excitons in CrPS4 by temperature and magnetic field",
+      "title": "Loss of epitranscriptomic mitochondrial RNA surveillance drives epithelial type I interferon and inflammation in autoimmunity",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2616584123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2534325123?af=R"
     },
     {
-      "title": "Unitary currents through K+ selective channelrhodopsins reveal multiple conductance states within an activated state complex",
+      "title": "SIRT2 deacylase modulators control B cell metabolic reprogramming in EBV infection and mitogenic activation",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2604725123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2532225123?af=R"
     },
     {
-      "title": "Architecture and mechanism of the human p24 cargo receptor",
+      "title": "Pelagic food web realignment supports resilient larvae of Southern Bluefin Tuna in a warming ocean",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2610235123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2601583123?af=R"
     },
     {
-      "title": "CXCR4-targeted dual softener for inducing senescence therapy in hepatic fibrosis",
+      "title": "Chemosymbiotic trophic strategy in an Ediacaran tubular animal",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2600215123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2526201123?af=R"
     },
     {
-      "title": "Direct dating of 3.5 Ga biogenic carbon in a microbial mat remnant, Singhbhum Craton, India",
+      "title": "Soil management practices shape the abundance, diversity, and spread of antimicrobial resistance",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2617912123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2605731123?af=R"
     },
     {
       "title": "HIF-1α sets the activation tempo of inflammatory macrophages",
