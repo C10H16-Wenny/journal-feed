@@ -1,10 +1,52 @@
 {
   "items": [
     {
+      "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02800-1"
+    },
+    {
+      "title": "Super-precise optical clocks in four nations tick in harmony",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02741-9"
+    },
+    {
       "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02739-3"
+    },
+    {
+      "title": "Tropical cyclones could be predicted with an extra day’s warning, thanks to an AI model",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02643-w"
+    },
+    {
+      "title": "Ada Yonath obituary: Crystallographer who overcame ‘impossible’ challenge of mapping the ribosome",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02801-0"
+    },
+    {
+      "title": "Revealed: inside the US military's plan to tap huge sums from the NIH",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02799-5"
+    },
+    {
+      "title": "Buried underpants and a new definition of kissing win 2026 Ig Nobel prizes",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02650-x"
+    },
+    {
+      "title": "Bunsen burners’ reputation for sterilizing workplaces flames out",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02758-0"
     },
     {
       "title": "Ketone homologation via palladium-catalysed decarboxylative rearrangement",
@@ -19,22 +61,22 @@
       "url": "https://www.nature.com/articles/d41586-026-02765-1"
     },
     {
-      "title": "Magic-mushroom compound blocks a severe side effect of chemotherapy, in mice",
+      "title": "Magic-mushroom compound blocks a severe side effect of chemotherapy in mice",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02744-6"
-    },
-    {
-      "title": "Buried underpants and a new definition of kissing win 2026 Ig Nobel prizes",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02650-x"
     },
     {
       "title": "Nations expanding their research programmes impose sweeping penalties for malpractice",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02517-1"
+    },
+    {
+      "title": "Daily briefing: GLP-1 obesity drugs slow signs of ageing in mice",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02781-1"
     },
     {
       "title": "Author Correction: Endocannabinoids facilitate reward engagement through retrograde gain control",
@@ -77,48 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10690-6"
-    },
-    {
-      "title": "Designing physics experiments with artificial intelligence",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10898-6"
-    },
-    {
-      "title": "Creating bottom-up RNA transfer vehicles from synthetic protein assemblies",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10952-3"
-    },
-    {
-      "title": "Late-life semaglutide treatment slows ageing and extends lifespan in female mice",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10940-7"
-    },
-    {
-      "title": "Robust inference and correlates from genetic associations with personality",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10992-9"
-    },
-    {
-      "title": "Exploring baryon semileptonic decays through polarization and entanglement",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10818-8"
-    },
-    {
-      "title": "Atmospheric CH<sub>4</sub> plateau sustained by NO<sub><i>x</i></sub> emission rise and southward shift",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10983-w"
-    },
-    {
-      "title": "Pines grow faster and are more drought resilient in the Southern Hemisphere",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10969-8"
     },
     {
       "title": "J. Michael Bishop: A remembrance—Not a hagiography",
@@ -745,16 +745,46 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb0659?af=R"
     },
     {
+      "title": "Impaired liver-muscle lactate metabolism causes sarcopenia via lactic acidosis in skeletal muscle in mice",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb4011?af=R"
+    },
+    {
       "title": "A male-biased hypothalamic circuit modulates postmating sleep suppression in mice",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb6839?af=R"
     },
     {
+      "title": "Abalone genomics reveals an ancient asymmetry axis and the multifunctionality of the mantle",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8392?af=R"
+    },
+    {
+      "title": "Identifying the principal mechanism of star formation feedback",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0787?af=R"
+    },
+    {
       "title": "Estimating the carcinogenesis timelines in early-onset versus late-onset cancers and changes across birth cohorts",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec2357?af=R"
+    },
+    {
+      "title": "Glycemic and bodyweight effects of GIPR coding variation reflect differences in surface expression and intrinsic functional impairment",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3372?af=R"
+    },
+    {
+      "title": "Few-shot neuromorphic vision in a nonlinear photonic network laser",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec6546?af=R"
     },
     {
       "title": "Combinatorial action of regulatory systems generates colistin heteroresistance",
@@ -769,6 +799,18 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec7585?af=R"
     },
     {
+      "title": "Cardiomyocyte-intrinsic somatic mtDNA mutations induce an OXPHOS-dependent immune response and promote progressive heart failure",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec8606?af=R"
+    },
+    {
+      "title": "Variable redox states of sulfur in porphyry copper–fertile arc magmas",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed1386?af=R"
+    },
+    {
       "title": "A newly established reverse genetic system for a circular RNA virus reveals new requirements for infection and its biocontrol potential",
       "journal": "Science Advances",
       "date": "",
@@ -781,58 +823,16 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed2952?af=R"
     },
     {
+      "title": "Elastic quantum coupling between free electrons and photons",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed3278?af=R"
+    },
+    {
       "title": "Intra-cluster receptor density (IRD): A molecular switch for TNFR1 clusters’ signaling",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed3734?af=R"
-    },
-    {
-      "title": "Delayed submarine caldera subsidence creates extreme tsunami hazard",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed4934?af=R"
-    },
-    {
-      "title": "Lenacapavir allosterically remodels the HIV-1 capsid",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed8384?af=R"
-    },
-    {
-      "title": "Self-adaptive and configurable transfer printing of flexible electronics via rheology of liquid foam",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee2721?af=R"
-    },
-    {
-      "title": "Mechanical cues of an interpenetrating polysaccharide matrix regulate self-assembly of collagen fibers",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee3256?af=R"
-    },
-    {
-      "title": "Tetrabutoxy-substituted quintulene: A missing bowl-shaped cycloarene",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee3923?af=R"
-    },
-    {
-      "title": "A single-point mutation in TRPA1 drives heat resilience in oviparous embryos",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee3948?af=R"
-    },
-    {
-      "title": "A decagon wave around Saturn’s south pole",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee4251?af=R"
-    },
-    {
-      "title": "Enhanced carbon loss in the Southern Ocean under mitigation scenarios",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee9228?af=R"
     }
   ]
 }
