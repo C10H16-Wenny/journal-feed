@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02800-1"
-    },
-    {
-      "title": "Super-precise optical clocks in four nations tick in harmony",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02741-9"
-    },
-    {
-      "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02739-3"
-    },
-    {
-      "title": "Tropical cyclones could be predicted with an extra day’s warning, thanks to an AI model",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02643-w"
-    },
-    {
-      "title": "Ada Yonath obituary: Crystallographer who overcame ‘impossible’ challenge of mapping the ribosome",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02801-0"
-    },
-    {
-      "title": "Revealed: inside the US military's plan to tap huge sums from the NIH",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02799-5"
-    },
-    {
-      "title": "Buried underpants and a new definition of kissing win 2026 Ig Nobel prizes",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02650-x"
-    },
-    {
-      "title": "Bunsen burners’ reputation for sterilizing workplaces flames out",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02758-0"
-    },
-    {
-      "title": "Ketone homologation via palladium-catalysed decarboxylative rearrangement",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11091-5"
-    },
-    {
-      "title": "Immune therapy engineered inside the body eases multiple sclerosis",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02765-1"
-    },
-    {
-      "title": "Magic-mushroom compound blocks a severe side effect of chemotherapy in mice",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02744-6"
-    },
-    {
-      "title": "Nations expanding their research programmes impose sweeping penalties for malpractice",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02517-1"
-    },
-    {
-      "title": "Daily briefing: GLP-1 obesity drugs slow signs of ageing in mice",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02781-1"
-    },
-    {
-      "title": "Author Correction: Endocannabinoids facilitate reward engagement through retrograde gain control",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11104-3"
-    },
-    {
-      "title": "Author Correction: Signalling thresholds and negative B-cell selection in acute lymphoblastic leukaemia",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11080-8"
-    },
-    {
-      "title": "Retraction Note: Warming accelerates global drought severity",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11027-z"
-    },
-    {
-      "title": "Audio long read: Could mending damaged DNA prolong life?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02762-4"
-    },
-    {
-      "title": "Functional chimeric mRNAs encode proteins in mammalian immunity",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10982-x"
-    },
-    {
-      "title": "3D epigenome of glial cell types in developing human cortex",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10987-6"
-    },
-    {
-      "title": "Connectome analysis of a cerebellum-like circuit for sensory prediction",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10690-6"
-    },
-    {
       "title": "J. Michael Bishop: A remembrance—Not a hagiography",
       "journal": "Cell",
       "date": "",
@@ -277,12 +157,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aec6116?af=R"
     },
     {
-      "title": "Rising plant extinction rates on European mountain summits",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed2974?af=R"
-    },
-    {
       "title": "Autothermal methane pyrolysis: Scalable heat integration for hydrogen and graphite production",
       "journal": "Science",
       "date": "",
@@ -329,6 +203,12 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aea4611?af=R"
+    },
+    {
+      "title": "Rising plant extinction rates on European mountain summits",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aed2974?af=R"
     },
     {
       "title": "Programmable design of synthetic plant immune receptors for pathogen protein recognition",
