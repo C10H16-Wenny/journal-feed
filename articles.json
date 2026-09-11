@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11079-1"
+    },
+    {
+      "title": "The neurons that can put a brake on a nervous-system cancer",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02834-5"
+    },
+    {
       "title": "Distant sensors announced a fearsome tsunami’s birth",
       "journal": "Nature",
       "date": "",
@@ -107,18 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10976-9"
-    },
-    {
-      "title": "Predicting genome-wide functional constraints with GPN-Star",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11005-5"
-    },
-    {
-      "title": "Imaging cellular activity across all organs reveals body-wide circuits",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10979-6"
     },
     {
       "title": "J. Michael Bishop: A remembrance—Not a hagiography",
@@ -241,124 +241,136 @@
       "url": "https://www.cell.com/cell/fulltext/S0092-8674(26)00645-8?rss=yes"
     },
     {
-      "title": "Fall Books 2026",
+      "title": "Save the bogs, for peat’s sake",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ael0869?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aei4007?af=R"
     },
     {
-      "title": "Spatially resolved single-cell atlas reveals the macroevolutionary trajectory of animal hearts",
+      "title": "Open framework–based Brønsted acid–Lewis base interfaces boost proton transfer in the fuel cells",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adw0855?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adp3564?af=R"
     },
     {
-      "title": "Uneven TCR chain pairing constraints govern epitope recognition",
+      "title": "Unphosphorylated tyrosines mediate PD-1 inhibition of T cell signaling condensate formation",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adx3863?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adt9365?af=R"
     },
     {
-      "title": "Early-life colonization with Clostridioides difficile remodels the developing gut",
+      "title": "The parent bodies of Ryugu and Ivuna formed before those of other carbonaceous chondrites",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ady2886?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adw4498?af=R"
     },
     {
-      "title": "Thalamic NRXN1-mediated input to human cortical progenitors drives excitatory neurogenesis",
+      "title": "Extensive and differential platinum chemotherapy mutagenesis in livers of children",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ady5180?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ady0339?af=R"
     },
     {
-      "title": "Psilocybin prevents chemotherapy-induced peripheral neuropathy through mitochondrial trafficking preservation",
+      "title": "Discovery of an intrinsic non-Hermitian phase transition in a bulk condensed-matter system",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aec6116?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ady4670?af=R"
     },
     {
-      "title": "Autothermal methane pyrolysis: Scalable heat integration for hydrogen and graphite production",
+      "title": "The complete telomere-to-telomere sequence of a mouse Y chromosome",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed4911?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aea2249?af=R"
     },
     {
-      "title": "An embryo-derived peptide signal directs endosperm polarity in Arabidopsis",
+      "title": "Lean adipocyte oxylipin signaling restrains breast cancer through ferroptosis",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed6035?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aea4287?af=R"
     },
     {
-      "title": "Longitudinal dynamics of gene expression and metabolomics in an aging population cohort",
+      "title": "Hydroclimatic-driven pulse enrichment amplifies riverine microplastic export in developing countries",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed6452?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeb4487?af=R"
     },
     {
-      "title": "Monomer-biased manufacture of industrial-scale colloidal photonic films",
+      "title": "Chronic type II interferon promotes tumor growth through mitochondrial RNA–induced type I interferon and prostaglandin synthesis",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed8723?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec0002?af=R"
     },
     {
-      "title": "Spontaneous polarization in chemical vapor–deposited polymer films creates large electric fields",
+      "title": "Endurance beyond 10 billion cycles in wurtzite ferroelectrics by confining nitrogen vacancies",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeg9547?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec7337?af=R"
     },
     {
-      "title": "Measurement of the Λ electric dipole moment with an entangled baryon-antibaryon system",
+      "title": "Growth rate overrides the benefit of extended growing season from boreal to semiarid conifers",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adx7334?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec8866?af=R"
     },
     {
-      "title": "Tumor-derived antioxidants suppress immunity by depriving T cells of reactive oxygen species",
+      "title": "Mechanism of membrane perforation in rotavirus cell entry",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adz8203?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeg4851?af=R"
     },
     {
-      "title": "Conformational asymmetry of replicated human chromosomes",
+      "title": "Manipulation of protein translation and stem cell self-renewal by CRISPR activation of rRNA transcription",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aea4611?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh1348?af=R"
     },
     {
-      "title": "Rising plant extinction rates on European mountain summits",
+      "title": "Giant tunneling electroresistance in sliding ferroelectrics",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed2974?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh3697?af=R"
     },
     {
-      "title": "Programmable design of synthetic plant immune receptors for pathogen protein recognition",
+      "title": "Paleogenomics and habitat modeling reveal temperate Eurasian origins of woolly rhinoceroses",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aee1792?af=R"
-    },
-    {
-      "title": "Helium escaping from the atmosphere of a nearby rocky exoplanet orbiting in a habitable zone",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aea9708?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aed0430?af=R"
     },
     {
       "title": "In Other Journals",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aem0117?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aem1230?af=R"
     },
     {
-      "title": "Teaching while learning",
+      "title": "Letting go of certainty",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aem0118?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aem1231?af=R"
     },
     {
-      "title": "Tumors steal a signal from T cells",
+      "title": "Catching a glimpse of complex relaxation",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aek5854?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aek6943?af=R"
+    },
+    {
+      "title": "Decondensing cancer immunotherapy",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael3828?af=R"
+    },
+    {
+      "title": "4D nucleome landscape reveals dissolution of bipartite active X chromosome in liver cancer development",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02063-y"
+    },
+    {
+      "title": "Gain-of-function suppressors restore microtubule dynamics and rescue dominant-negative tubulinopathies",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02066-9"
     },
     {
       "title": "Reining in immune responses with MDM2",
@@ -395,18 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02057-w"
-    },
-    {
-      "title": "Author Correction: Characterizing the metabolomes of microglia, astrocytes and neurons in ageing and Alzheimer’s brains",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02078-5"
-    },
-    {
-      "title": "A mechanical origin for pregnancy loss related to maternal age",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02054-z"
     },
     {
       "title": "Senescent cells: Leaving cellular waste behind",
