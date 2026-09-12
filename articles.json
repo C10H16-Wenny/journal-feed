@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02893-8"
+    },
+    {
+      "title": "NSF moves to overhaul funding approach in line with White House priorities",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02892-9"
+    },
+    {
+      "title": "People trust scientists seen to be 'on their side', UK study find",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02883-w"
+    },
+    {
+      "title": "El Niño goes viral — and scientists learn what makes people care about the climate",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02763-3"
+    },
+    {
+      "title": "Successful early-career scientists rely on network of mentors",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02827-4"
+    },
+    {
+      "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02828-3"
+    },
+    {
       "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
       "journal": "Nature",
       "date": "",
@@ -17,6 +53,18 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02809-6"
+    },
+    {
+      "title": "Rivers deliver unexpectedly high loads of microplastics to the sea",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02866-x"
+    },
+    {
+      "title": "Daily briefing: Text-message tutoring keeps kids learning when schools close",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02888-5"
     },
     {
       "title": "AI researchers reckon with the $1.5 million ‘academia tax’",
@@ -71,54 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-10876-y"
-    },
-    {
-      "title": "An operational perturbation proteomics-based virtual cell model",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11001-9"
-    },
-    {
-      "title": "PLA2G2D in tumour-draining lymph nodes regulates anti-tumour immunity",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10954-1"
-    },
-    {
-      "title": "Foaming photopolymers as a high-resolution biomimetic printing platform",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10968-9"
-    },
-    {
-      "title": "Advancing conflict research and response through satellite-derived data",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11004-6"
-    },
-    {
-      "title": "Denisovans from southwestern China and their subsistence strategies",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10997-4"
-    },
-    {
-      "title": "A serpin–myeloid axis in pancreatic cancer heterogeneity and immune evasion",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11002-8"
-    },
-    {
-      "title": "Mobile education builds resilience during shocks in five countries",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10990-x"
-    },
-    {
-      "title": "Ancient proteins identify various Denisovan remains from Southwest China",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10976-9"
     },
     {
       "title": "J. Michael Bishop: A remembrance—Not a hagiography",
@@ -355,58 +355,10 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aek6943?af=R"
     },
     {
-      "title": "Decondensing cancer immunotherapy",
+      "title": "Platinum chemotherapy ages the liver",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ael3828?af=R"
-    },
-    {
-      "title": "4D nucleome landscape reveals dissolution of bipartite active X chromosome in liver cancer development",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02063-y"
-    },
-    {
-      "title": "Gain-of-function suppressors restore microtubule dynamics and rescue dominant-negative tubulinopathies",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02066-9"
-    },
-    {
-      "title": "Reining in immune responses with MDM2",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02072-x"
-    },
-    {
-      "title": "DYRK1B at processing bodies",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02073-w"
-    },
-    {
-      "title": "Keeping time with protein turnover",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02071-y"
-    },
-    {
-      "title": "The periphery of nuclear speckles defines a spatially and temporally regulated compartment of long-lived intron-retained RNAs that resolves during mitosis",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02040-5"
-    },
-    {
-      "title": "Tissue flow acts as a guidance cue for immune cell polarization and directional migration",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02058-9"
-    },
-    {
-      "title": "Multi-stromal organoid co-culture modelling reveals epithelial–fibroblast heterogeneity in pancreatic cancer and pancreatitis",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02057-w"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aek8249?af=R"
     },
     {
       "title": "Senescent cells: Leaving cellular waste behind",
@@ -751,6 +703,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg3577?af=R"
     },
     {
+      "title": "Kappa opioids suppress histaminergic itch by inhibiting mediodorsal thalamus-projecting claustrum glutamatergic neurons",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady4282?af=R"
+    },
+    {
       "title": "Early detection of invasive lung cancer and multiorgan metastasis by a collagen-targeted protein MRI contrast agent",
       "journal": "Science Advances",
       "date": "",
@@ -787,6 +745,18 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec5436?af=R"
     },
     {
+      "title": "A unifying principle of chromatic coding across biological and artificial systems",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec6658?af=R"
+    },
+    {
+      "title": "Radical enantioconvergent meta-C─H alkylation of pyridines",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec7499?af=R"
+    },
+    {
       "title": "Substrate heterogeneity promotes cancer cell dissemination through interface roughening",
       "journal": "Science Advances",
       "date": "",
@@ -817,52 +787,34 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed4161?af=R"
     },
     {
+      "title": "Liquid metal-based spatial-variant stretchable electronics via single-step programmable transfer printing",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed4474?af=R"
+    },
+    {
       "title": "Chirality-induced magnetoresistance in hybrid organic-inorganic perovskite semiconductors",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed7176?af=R"
     },
     {
+      "title": "Imaging topological polar structures in marginally twisted 2D semiconductors",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed8555?af=R"
+    },
+    {
+      "title": "Targeting tumor-associated macrophages using mRNA lipid nanoparticles for cytotoxic T lymphocyte–mediated cancer immunotherapy",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed9568?af=R"
+    },
+    {
       "title": "TCR-JANUS engager proteins enable bispecific targeting to overcome tumor heterogeneity in TCR-T cell therapy",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed9825?af=R"
-    },
-    {
-      "title": "The CENP-A chaperone complex spatially organizes centromeres",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef1579?af=R"
-    },
-    {
-      "title": "Gap-closing experimental estimation of quantum Fisher information",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef4342?af=R"
-    },
-    {
-      "title": "Mechanistic trade-offs between local and long-range signaling activity in natural and synthetic morphogens",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef4578?af=R"
-    },
-    {
-      "title": "A highly sensitive and drift-free iontronic sensor enabled by a polarity-balanced polyelectrolyte for surgical force sensing",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef6473?af=R"
-    },
-    {
-      "title": "A bimetallic CuBi catalyst for enhanced electrochemical CO reduction to acetate",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef9216?af=R"
-    },
-    {
-      "title": "GSK3β and Plk1 sequentially phosphorylate ATP–citrate lyase to promote homologous recombination",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg1097?af=R"
     }
   ]
 }
