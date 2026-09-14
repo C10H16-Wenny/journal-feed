@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "The pet trade puts reptiles and amphibians at risk: close legal gaps now",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02852-3"
+    },
+    {
+      "title": "UK universities are on the brink — what is their greatest source of stress?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02608-z"
+    },
+    {
+      "title": "Fraud sealed the fate of controversial zoologist Paul Kammerer — 100 years on, his ideas deserve revisiting",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02851-4"
+    },
+    {
+      "title": "The super El Niño is already wreaking havoc: here’s what’s in store",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02826-5"
+    },
+    {
       "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
       "journal": "Nature",
       "date": "",
@@ -95,30 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02823-8"
-    },
-    {
-      "title": "Ruins of ancient Asian city show engineering prowess and organization",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02821-w"
-    },
-    {
-      "title": "Breaking timescales with generative sampling of conformational transitions",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11025-1"
-    },
-    {
-      "title": "Within-family effect of ancestry on complex traits in a Mexican population",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11039-9"
-    },
-    {
-      "title": "Neocortical long-range inhibition promotes cortical synchrony and sleep",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10876-y"
     },
     {
       "title": "J. Michael Bishop: A remembrance—Not a hagiography",
@@ -359,6 +359,54 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aek8249?af=R"
+    },
+    {
+      "title": "4D nucleome landscape reveals dissolution of bipartite active X chromosome in liver cancer development",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02063-y"
+    },
+    {
+      "title": "Gain-of-function suppressors restore microtubule dynamics and rescue dominant-negative tubulinopathies",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02066-9"
+    },
+    {
+      "title": "Reining in immune responses with MDM2",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02072-x"
+    },
+    {
+      "title": "DYRK1B at processing bodies",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02073-w"
+    },
+    {
+      "title": "Keeping time with protein turnover",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02071-y"
+    },
+    {
+      "title": "The periphery of nuclear speckles defines a spatially and temporally regulated compartment of long-lived intron-retained RNAs that resolves during mitosis",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02040-5"
+    },
+    {
+      "title": "Tissue flow acts as a guidance cue for immune cell polarization and directional migration",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02058-9"
+    },
+    {
+      "title": "Multi-stromal organoid co-culture modelling reveals epithelial–fibroblast heterogeneity in pancreatic cancer and pancreatitis",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02057-w"
     },
     {
       "title": "Senescent cells: Leaving cellular waste behind",
