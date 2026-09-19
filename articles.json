@@ -7,6 +7,42 @@
       "url": "https://www.nature.com/articles/d41586-026-02897-4"
     },
     {
+      "title": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02984-6"
+    },
+    {
+      "title": "Europe pushes for space independence amid geopolitical rifts",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02919-1"
+    },
+    {
+      "title": "How research funding took me out of the lab and into leadership",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02184-2"
+    },
+    {
+      "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02945-z"
+    },
+    {
+      "title": "How to make a brain: new experiments challenge existing picture",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02943-1"
+    },
+    {
+      "title": "AI cracked the Navier–Stokes challenge. What does that mean for physics?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02922-6"
+    },
+    {
       "title": "Chinese companies doubled down on science after US tech restrictions",
       "journal": "Nature",
       "date": "",
@@ -73,7 +109,7 @@
       "url": "https://www.nature.com/articles/s41586-026-11123-0"
     },
     {
-      "title": "Why most  stars don’t have outbursts like our Sun’s",
+      "title": "Why most stars don’t have outbursts like the Sun’s",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02833-6"
@@ -83,42 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02927-1"
-    },
-    {
-      "title": "Development of a random background to understand ligand optimization",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11013-5"
-    },
-    {
-      "title": "Developmental xenocortication using human-derived organoids in mice",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11032-2"
-    },
-    {
-      "title": "Mitochondrial fission factor senses and governs ferroptosis",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11020-6"
-    },
-    {
-      "title": "Reimagining research papers as interactive and reliable AI agents",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11044-y"
-    },
-    {
-      "title": "Electroluminescent photoresists extending lithographic scaling to OLEDs",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11042-0"
-    },
-    {
-      "title": "Continuous-wave laser absorption spectroscopy of the thorium-229 nucleus",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11011-7"
     },
     {
       "title": "Evolving Cell with evolving science",
@@ -739,10 +739,106 @@
       "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00557-5?rss=yes"
     },
     {
+      "title": "Direct spectroscopic observation of matter falling onto a compact stellar object",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef6686?af=R"
+    },
+    {
+      "title": "Star formation powers optical line emission from the CGM",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3939?af=R"
+    },
+    {
+      "title": "Visualizing the barely detectable: Particle characteristics of the elusive aquatic gel phase in the northeastern subtropical Atlantic",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee9026?af=R"
+    },
+    {
+      "title": "Targeting glial PD-1/PD-L1 restores microglial homeostasis and reduces neuronal hyperactivity in an Alzheimer’s disease model",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adx0731?af=R"
+    },
+    {
+      "title": "High-speed reservoir computing using photonic integrated circuit optical parametric oscillators",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb3077?af=R"
+    },
+    {
+      "title": "Omnidirectional bending sensor with three-fold structural symmetry enables decoupling of bending angle and direction",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8359?af=R"
+    },
+    {
+      "title": "A high-density CRISPR activation platform for mapping cancer dependencies and resistance pathways ex vivo and in vivo",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0722?af=R"
+    },
+    {
+      "title": "α-Parvin regulation of cell rearrangement is critical for ureteric bud branching morphogenesis",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec9007?af=R"
+    },
+    {
       "title": "Diversity of electron-bifurcating CO2-fixing supercomplexes in methanogens",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed3711?af=R"
+    },
+    {
+      "title": "Dietary records in cosmopolitan copepod Calanus spp. revealed large contribution of dinoflagellates in subarctic Pacific",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed3966?af=R"
+    },
+    {
+      "title": "Ultrahigh flow strength in shocked nanopolycrystalline diamond",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed5546?af=R"
+    },
+    {
+      "title": "A plagioclase-rich protocrust on Mars formed by magma ocean crystallization",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed5787?af=R"
+    },
+    {
+      "title": "Stratospheric wave predictability enhances surface forecasts over North America",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee4171?af=R"
+    },
+    {
+      "title": "Extremely low thermal conductivity in rigid layered hybrid perovskites",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee5269?af=R"
+    },
+    {
+      "title": "Bidirectional optoelectronic switching in protein by photoinduced phase transition",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee6038?af=R"
+    },
+    {
+      "title": "Epigenetic training licenses naïve CD8+ T cell metabolic fitness and function",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee8251?af=R"
+    },
+    {
+      "title": "Ultrafast laser-driven topological phase patterning",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee8907?af=R"
     },
     {
       "title": "Quantum coherent dynamics in allophycocyanin trimer complex",
@@ -761,102 +857,6 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef3538?af=R"
-    },
-    {
-      "title": "Symmetry-based pulsed DNP and EPR sequences",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef4949?af=R"
-    },
-    {
-      "title": "Maternal-fetal immune conflict contributes to male-specific impairments in a mouse model of neurodevelopmental disorders",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg0779?af=R"
-    },
-    {
-      "title": "One-third of global lake nitrous oxide emissions are concentrated in the northern temperate zone (40°N–50°N)",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg1490?af=R"
-    },
-    {
-      "title": "Human cardiac measurements with diamond magnetometers",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg5281?af=R"
-    },
-    {
-      "title": "Serpin-driven green camouflage and NIR fluorescence in frogs",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg5510?af=R"
-    },
-    {
-      "title": "Concurrent excitation and detection in magnetic resonance using voltage-controlled oscillators",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg6581?af=R"
-    },
-    {
-      "title": "Microwave diffractive neural network chips for sensing and computing",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg8394?af=R"
-    },
-    {
-      "title": "Viscoelastic nanomechanical devices for neuromorphic information processing",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg9893?af=R"
-    },
-    {
-      "title": "Proportional limb strengths signal an adaptive shift in arboreality in early human evolution",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh1752?af=R"
-    },
-    {
-      "title": "In situ learning-based spin engineering of pulsed dynamic nuclear polarization",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh4467?af=R"
-    },
-    {
-      "title": "Direct visualization of interfacial defect effects on polarization switching in BaTiO3 tunnel junctions",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh5401?af=R"
-    },
-    {
-      "title": "A built-in brake for plant immunity: Resistance (R) protein–mediated immunity is fine-tuned by R gene analogs",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh7029?af=R"
-    },
-    {
-      "title": "A new 222-m diameter lunar crater",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh7812?af=R"
-    },
-    {
-      "title": "New lunar crater reveals extensive distal regolith modification",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh9568?af=R"
-    },
-    {
-      "title": "Renal-clearable fluorescent probe for early detection of pancreatic cancer in living murine models",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aei0638?af=R"
-    },
-    {
-      "title": "Broadband backscattering confocal microscopy enables label-free 3D live cell nanoscale sensitive imaging",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aei8554?af=R"
     }
   ]
 }
