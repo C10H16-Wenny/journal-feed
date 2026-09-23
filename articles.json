@@ -1,6 +1,126 @@
 {
   "items": [
     {
+      "title": "Huge hoard of metal bars hints at vast Iron Age trade",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02986-4"
+    },
+    {
+      "title": "In praise of human teachers: universities must resist outsourcing everything to AI",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02949-9"
+    },
+    {
+      "title": "How to stay smart in the age of AI: the science of critical thinking",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02930-6"
+    },
+    {
+      "title": "Biosecurity must protect human functional capacity",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02996-2"
+    },
+    {
+      "title": "Why insects need their own protected areas",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02997-1"
+    },
+    {
+      "title": "A global safety net for climate-risk intelligence is urgently needed",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02995-3"
+    },
+    {
+      "title": "What happens in Vegas: one lecturer’s hunt for a projector",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02724-w"
+    },
+    {
+      "title": "Dust in the wind is on the decline",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02979-3"
+    },
+    {
+      "title": "About to give your first lecture? Read this first",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02369-9"
+    },
+    {
+      "title": "Watch scientists decipher burnt scrolls without unrolling them",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02920-8"
+    },
+    {
+      "title": "This super-cold microscope could spur a quantum revolution",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02942-2"
+    },
+    {
+      "title": "Why AI companies can’t be trusted to self-regulate",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03014-1"
+    },
+    {
+      "title": "Hundreds of ‘free’ academic journals have started charging fees",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02818-5"
+    },
+    {
+      "title": "All the ways a cell can die — and why the variety matters",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02929-z"
+    },
+    {
+      "title": "Nepal floods pose biggest test yet for UN climate loss and damage fund",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03000-7"
+    },
+    {
+      "title": "The worst El Niño in recorded history is brewing — here’s how governments must prepare",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02939-x"
+    },
+    {
+      "title": "Will AI really kill us all? The science behind the hype",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02941-3"
+    },
+    {
+      "title": "Chemist-aligned retrosynthesis by ensembling diverse inductive bias models",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11160-9"
+    },
+    {
+      "title": "Six principles for supporting academic freedom in universities",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02932-4"
+    },
+    {
+      "title": "Losing your way of life to climate change matters — and we need a way to measure it",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02928-0"
+    },
+    {
       "title": "Evolving Cell with evolving science",
       "journal": "Cell",
       "date": "",
@@ -239,6 +359,54 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aek3832?af=R"
+    },
+    {
+      "title": "Lysosomes enlist endoplasmic reticulum microdomains for repair",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02064-x"
+    },
+    {
+      "title": "Immune cells go with the tissue flow",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02077-6"
+    },
+    {
+      "title": "Author Correction: Inhibiting macrophage-derived lactate transport restores cGAS–STING signalling and enhances antitumour immunity in glioblastoma",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02083-8"
+    },
+    {
+      "title": "CLN8 recycles glycerol backbones for BMP",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02069-6"
+    },
+    {
+      "title": "The Batten disease protein CLN8 is a stereospecific acyltransferase in bis(monoacylglycero)phosphate biosynthesis",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02061-0"
+    },
+    {
+      "title": "Batten disease protein CLN8 enables a non-canonical phospholipid synthesis pathway",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02059-8"
+    },
+    {
+      "title": "DFCP1-containing ER microdomains mediate lysosomal membrane repair",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02062-z"
+    },
+    {
+      "title": "4D nucleome landscape reveals dissolution of bipartite active X chromosome in liver cancer development",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02063-y"
     },
     {
       "title": "Senescent cells: Leaving cellular waste behind",
