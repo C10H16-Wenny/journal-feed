@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "title": "AI bots are flooding researchers with requests for money and time",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03005-2"
+    },
+    {
+      "title": "Bumblebees don’t mind a little plastic in their honeypots",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02988-2"
+    },
+    {
+      "title": "Youthful fans of YouTube sports videos stick to the sofa",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02989-1"
+    },
+    {
+      "title": "GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03020-3"
+    },
+    {
+      "title": "AI system helps lab devices ‘talk’ with each other — streamlining research",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02990-8"
+    },
+    {
+      "title": "AI agent hacks government website for first time: why this breach matters",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03024-z"
+    },
+    {
+      "title": "Daily briefing: Will AI really be the death of us all?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03029-8"
+    },
+    {
+      "title": "AlphaFold 'goes viral': database adds protein complexes of common viruses",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03022-1"
+    },
+    {
       "title": "Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling",
       "journal": "Nature",
       "date": "",
@@ -71,54 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-11049-7"
-    },
-    {
-      "title": "Hepatocytes promote liver metastasis of pancreatic cancer by providing serine",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11051-z"
-    },
-    {
-      "title": "A design approach for bitopic kinase inhibitors",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11056-8"
-    },
-    {
-      "title": "A methanogen hydrolase reveals the structure of archaeal peptidoglycan",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11028-y"
-    },
-    {
-      "title": "Reference genomes and fossils revise bat family phylogeny and biogeography",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11007-3"
-    },
-    {
-      "title": "mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11054-w"
-    },
-    {
-      "title": "Targeting ZMYND8 unleashes IL-2 signalling to override T cell exhaustion",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11059-5"
-    },
-    {
-      "title": "Anomalous metal and superconducting phases in rhombohedral graphene",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11033-1"
-    },
-    {
-      "title": "Lifespan single-cell transcriptomic atlas of the human prefrontal cortex",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10271-7"
     },
     {
       "title": "Evolving Cell with evolving science",
@@ -241,124 +241,124 @@
       "url": "https://www.cell.com/cell/fulltext/S0092-8674(26)00759-2?rss=yes"
     },
     {
-      "title": "The indomitable Stephen Hawking",
+      "title": "The Smallest Lights in the Universe: A Memoir",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aej4194?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aem0084?af=R"
     },
     {
-      "title": "Climate unrest comes to a fictionalized France",
+      "title": "How not to lose the science race",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aek5942?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aek6295?af=R"
     },
     {
-      "title": "Ancient DNA unveils distinctive ancestries in the Bronze and Iron Ages of East Tianshan",
+      "title": "2D theoretically twistable material database",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adv1295?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adu1550?af=R"
     },
     {
-      "title": "Nuclear tests at Mt. Mantap have reactivated intraplate faults",
+      "title": "Two-dimensional topological quantum chemistry and catalog of topological materials",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adx5917?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adu2107?af=R"
     },
     {
-      "title": "Multi-organelle signatures map cell-state diversity and metabolic adaptation in tissues",
+      "title": "Neural evidence that dogs segment the speech they hear with a humanlike consonant bias",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ady6372?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adw7709?af=R"
     },
     {
-      "title": "Transcriptome-based classification in mice with ASD-risk mutations",
+      "title": "Ceramide synthesis mediates colorectal cancer metastasis through a YAP-driven regenerative program",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adz6688?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adw8520?af=R"
     },
     {
-      "title": "Fast, continuous, and coherent atom reloading in a neutral-atom qubit array",
+      "title": "Mammals produce cyclo-octasulfur to suppress lipid peroxidation and ferroptosis",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adz9952?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec5473?af=R"
     },
     {
-      "title": "Atmospheric methane lifetime during the Last Glacial Maximum was reduced owing to dust-mediated chlorine chemistry",
+      "title": "Unlocking cycle life of lithium metal batteries",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aec4071?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aee1630?af=R"
     },
     {
-      "title": "Splenic regulation of systemic platelet activation state",
+      "title": "Embracing triplet nitrenes for C-to-N replacement of complex bicyclic (hetero)aryl azides",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aec7230?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef3511?af=R"
     },
     {
-      "title": "A noncontiguous code for RNA-guided DNA recognition at the origin of CRISPR-Cas",
+      "title": "Prussian blue regulates ion dynamics in perovskite solar cells",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aei0498?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef5487?af=R"
     },
     {
-      "title": "VIPR RNA-guided DNA recognition by noncontiguous geometric triplex formation",
+      "title": "Senescence-directed nanotherapy ameliorates fibrosis and overcomes immune exclusion in cancer",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aei3472?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeg4791?af=R"
     },
     {
-      "title": "Extreme loss suppression in an ultracold molecular gas with widely tunable dipolar interactions",
+      "title": "Escape of the BC200 gene to a human poxvirus reveals its persistent transposition in primates",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adz0521?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh3441?af=R"
     },
     {
-      "title": "Quantum jumps of sound",
+      "title": "Conformal oxides decouple chemical stability and energetics at NiOx/perovskite interfaces",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeh7535?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aei2836?af=R"
     },
     {
-      "title": "An expert-level generalist AI for abdominal CT diagnosis",
+      "title": "Targeting an atypical G protein–coupled receptor signaling pathway for cardiac fibrosis therapy",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aec6129?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aej5896?af=R"
     },
     {
-      "title": "Disorder-promoted stability",
+      "title": "An in-body networking system for communication between wearable and implantable therapeutics",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeg3946?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adz5300?af=R"
     },
     {
-      "title": "Germline EGFR T790M mutation and lung cancer risk",
+      "title": "Ancient introgression drives wild boar expansion and phenotypic diversification of domestic pigs",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aec0473?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adq7553?af=R"
     },
     {
-      "title": "Protecting tropical forests is more cost-effective for biodiversity and climate than restoration",
+      "title": "Fibroblasts restrain gut inflammation by IGF1-dependent regulation of innate lymphocytes",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adx9928?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aei0062?af=R"
+    },
+    {
+      "title": "How 8 years of social and individual learning interact to shape ecological competence in orangutans",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.adz6415?af=R"
+    },
+    {
+      "title": "No need to pretend",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aem6083?af=R"
     },
     {
       "title": "In Other Journals",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aem4011?af=R"
-    },
-    {
-      "title": "A seismic shift",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aem4012?af=R"
-    },
-    {
-      "title": "In search of past genetics",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aek3832?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aem6086?af=R"
     },
     {
       "title": "Scientific culture in the age of AI",
