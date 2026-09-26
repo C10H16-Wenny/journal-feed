@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03041-y"
+    },
+    {
+      "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03032-z"
+    },
+    {
+      "title": "Anthropic’s AI biolab finds ‘CRISPR-like’ DNA in viruses. What’s next?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03039-6"
+    },
+    {
+      "title": "Chemists struggle to ditch hazardous solvents — even after decades of ‘green’ efforts",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03023-0"
+    },
+    {
+      "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03016-z"
+    },
+    {
+      "title": "Exclusive: Sham scientific societies are misleading star researchers",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02980-w"
+    },
+    {
+      "title": "OpenAI's research chief talks of ‘cultural reset’ after wild few weeks",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03028-9"
+    },
+    {
       "title": "AI bots are flooding researchers with requests for money and time",
       "journal": "Nature",
       "date": "",
@@ -43,7 +85,7 @@
       "url": "https://www.nature.com/articles/d41586-026-03029-8"
     },
     {
-      "title": "AlphaFold 'goes viral': database adds protein complexes of common viruses",
+      "title": "AlphaFold ‘goes viral’: database adds protein complexes of common viruses",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03022-1"
@@ -77,48 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02986-4"
-    },
-    {
-      "title": "The gene-regulatory evolution of the human skeleton",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11053-x"
-    },
-    {
-      "title": "The anthropogenic fingerprint on emerging infectious diseases",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11058-6"
-    },
-    {
-      "title": "Gravitational torque drives multidecadal variations in length of day",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10999-2"
-    },
-    {
-      "title": "Single-nucleus transcriptome-wide association study of human brain disorders",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-10836-6"
-    },
-    {
-      "title": "Lu<sup>+</sup> optical frequency references with accuracy verified at the 19th digit",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11072-8"
-    },
-    {
-      "title": "Sequence-encoded hexagonal lattices in multichannel peptide nanofibrils",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11016-2"
-    },
-    {
-      "title": "Banking records reveal characteristics of financial abuse",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11049-7"
     },
     {
       "title": "Evolving Cell with evolving science",
@@ -277,12 +277,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.adw8520?af=R"
     },
     {
-      "title": "Mammals produce cyclo-octasulfur to suppress lipid peroxidation and ferroptosis",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aec5473?af=R"
-    },
-    {
       "title": "Unlocking cycle life of lithium metal batteries",
       "journal": "Science",
       "date": "",
@@ -347,6 +341,12 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.adz6415?af=R"
+    },
+    {
+      "title": "Mammals produce cyclo-octasulfur to suppress lipid peroxidation and ferroptosis",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec5473?af=R"
     },
     {
       "title": "No need to pretend",
@@ -619,6 +619,18 @@
       "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00557-5?rss=yes"
     },
     {
+      "title": "Dynamic flexible optical sensing based on liquid integrated circuits",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adv8384?af=R"
+    },
+    {
+      "title": "TRAF7 mutations stabilize K/NRAS and hyperactivate MAPK signaling to cause CAFDADD neurodevelopmental defects",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adw8672?af=R"
+    },
+    {
       "title": "RNF43 p.G659fs leads to natural killer cell dysfunction in MSI-high colorectal cancer through PI3K/AKT/mTOR signaling and HLA-E up-regulation",
       "journal": "Science Advances",
       "date": "",
@@ -637,10 +649,22 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0341?af=R"
     },
     {
+      "title": "A designed ubiquitin-binding protein selectively enriches and visualizes unanchored ubiquitin",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0818?af=R"
+    },
+    {
       "title": "Cascading magmatic unrest and aseismic faulting in the Aegean Sea enabled by elastic stress relay",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3198?af=R"
+    },
+    {
+      "title": "Distinct Arp2/3 isocomplexes drive axonal actin ring assembly and integrity",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec9522?af=R"
     },
     {
       "title": "Ultrasensitive chiral detection by nonlinear chiroptics in spiral plasmonic metastructures surpasses linear limits",
@@ -667,10 +691,22 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee1476?af=R"
     },
     {
+      "title": "mTORC1-TFEB/TFE3 signaling is associated with bile acid diversification during hepatic metabolic adaptation",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee1905?af=R"
+    },
+    {
       "title": "Thalamofrontal synaptic weakening underlies short-term memory deficits from adolescent NMDAR hypofunction",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee2152?af=R"
+    },
+    {
+      "title": "Multimodal profiling of atherosclerosis: Protocol and pilot data for the AtherOMICS biobank",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee2639?af=R"
     },
     {
       "title": "Medial temporal default mode network selectively encodes autobiographical visual imagery",
@@ -685,58 +721,22 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee6272?af=R"
     },
     {
+      "title": "Active textiles move in confined areas",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee7156?af=R"
+    },
+    {
+      "title": "Direct cellular contact by Porphyromonas gingivalis suppresses nociceptor excitability and induces analgesia during inflammation",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee8088?af=R"
+    },
+    {
       "title": "A strong Pacific Walker Circulation during the Little Ice Age",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee8322?af=R"
-    },
-    {
-      "title": "Transmembrane delivery of antimicrobial peptides by engineered eCIS into macrophages for intracellular mycobacteria elimination",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee8463?af=R"
-    },
-    {
-      "title": "Engineering plant tandem kinase immune receptors expands effector recognition profiles",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef2426?af=R"
-    },
-    {
-      "title": "Beyond statistical thresholds: Mapping sequential ATN cascade transitions via brain structural topography in Alzheimer’s disease",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef3787?af=R"
-    },
-    {
-      "title": "A bacterial-killing type IV secretion system as a hidden antifungal device",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg3743?af=R"
-    },
-    {
-      "title": "Global dispersal of macroalgae-derived recalcitrant DOC may substantially contribute to deep-ocean carbon storage",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg3815?af=R"
-    },
-    {
-      "title": "Spatial organization of AQP4 water channel expression in the human brain",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg8117?af=R"
-    },
-    {
-      "title": "Staking out the frontiers: The limits of the metazoan shallow marine fossil record",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh3920?af=R"
-    },
-    {
-      "title": "Mechanism of GPR84 allosteric modulation at a helix 8–proximate site",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh5849?af=R"
     }
   ]
 }
