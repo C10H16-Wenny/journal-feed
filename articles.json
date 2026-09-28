@@ -1,6 +1,126 @@
 {
   "items": [
     {
+      "title": "China now leads the world in trials for next-gen CAR-T therapies",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03004-3"
+    },
+    {
+      "title": "Stephen Hawking biography explores an ‘exceptionally clear, uncluttered mind’",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02959-7"
+    },
+    {
+      "title": "Bigger than CRISPR? A guide to the latest genome editors",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02964-w"
+    },
+    {
+      "title": "Vaping in childhood has bigger health risks than we’d thought",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02962-y"
+    },
+    {
+      "title": "Old hearts age backwards: transplanted organs adjust to host's biological age",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03043-w"
+    },
+    {
+      "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03041-y"
+    },
+    {
+      "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03032-z"
+    },
+    {
+      "title": "Anthropic’s AI biolab finds ‘CRISPR-like’ DNA in viruses. What’s next?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03039-6"
+    },
+    {
+      "title": "Chemists struggle to ditch hazardous solvents — even after decades of ‘green’ efforts",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03023-0"
+    },
+    {
+      "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03016-z"
+    },
+    {
+      "title": "Exclusive: Sham scientific societies are misleading star researchers",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02980-w"
+    },
+    {
+      "title": "OpenAI's research chief talks of ‘cultural reset’ after wild few weeks",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03028-9"
+    },
+    {
+      "title": "AI bots are flooding researchers with requests for money and time",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03005-2"
+    },
+    {
+      "title": "Bumblebees don’t mind a little plastic in their honeypots",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02988-2"
+    },
+    {
+      "title": "Youthful fans of YouTube sports videos stick to the sofa",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02989-1"
+    },
+    {
+      "title": "GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03020-3"
+    },
+    {
+      "title": "AI system helps lab devices ‘talk’ with each other — streamlining research",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02990-8"
+    },
+    {
+      "title": "AI agent hacks government website for first time: why this breach matters",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03024-z"
+    },
+    {
+      "title": "Daily briefing: Will AI really be the death of us all?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03029-8"
+    },
+    {
+      "title": "AlphaFold ‘goes viral’: database adds protein complexes of common viruses",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03022-1"
+    },
+    {
       "title": "Evolving Cell with evolving science",
       "journal": "Cell",
       "date": "",
@@ -239,6 +359,54 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aem6086?af=R"
+    },
+    {
+      "title": "Cell atlas of the developing human meninges reveals a dura-like nature of meningiomas",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02074-9"
+    },
+    {
+      "title": "Spatially resolved multiomics of human meningeal development reveal lineage and disease dynamics",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02075-8"
+    },
+    {
+      "title": "Scientific culture in the age of AI",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02070-z"
+    },
+    {
+      "title": "Taxane-induced conformational changes in the microtubule lattice activate GEF-H1-dependent RhoA signalling",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02079-4"
+    },
+    {
+      "title": "The dual-enhanced graph learning framework DePass allows paired data integration in single-cell and spatial multiomics",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02067-8"
+    },
+    {
+      "title": "Author Correction: The bridge-like lipid transport protein VPS13C/PARK23 mediates ER–lysosome contacts following lysosome damage",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02094-5"
+    },
+    {
+      "title": "Author Correction: CLOCK/BMAL1 interactome uncovers homeodomain factors as tissue regulators",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02092-7"
+    },
+    {
+      "title": "Lysosomes enlist endoplasmic reticulum microdomains for repair",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02064-x"
     },
     {
       "title": "Senescent cells: Leaving cellular waste behind",
