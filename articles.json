@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "title": "PhD training should encourage ethical dissent",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03053-8"
+    },
+    {
+      "title": "Biodiversity protection must include language preservation",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03056-5"
+    },
+    {
+      "title": "Patents alone won’t unlock critical-mineral supply chains",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03054-7"
+    },
+    {
+      "title": "The cost of lost labour on a warming planet",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02971-x"
+    },
+    {
+      "title": "Why AI-authorship debates miss a deeper shift in how scholarly knowledge is produced",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03055-6"
+    },
+    {
+      "title": "AI can widen science — but only if institutions stop rewarding the already measurable",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02961-z"
+    },
+    {
+      "title": "China wants to build world-leading science journals — can it be done?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02759-z"
+    },
+    {
+      "title": "A new chapter in targeting kinase enzymes in cancer",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02776-y"
+    },
+    {
+      "title": "How to put people first in cyberspace",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02960-0"
+    },
+    {
       "title": "China now leads the world in trials for next-gen CAR-T therapies",
       "journal": "Nature",
       "date": "",
@@ -25,10 +79,16 @@
       "url": "https://www.nature.com/articles/d41586-026-02962-y"
     },
     {
-      "title": "Old hearts age backwards: transplanted organs adjust to host's biological age",
+      "title": "Old hearts age backwards: transplanted organs adjust to host’s biological age",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03043-w"
+    },
+    {
+      "title": "Paid to peer review: firms are paying researchers to assess manuscripts for journals",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02277-y"
     },
     {
       "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
@@ -59,66 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03016-z"
-    },
-    {
-      "title": "Exclusive: Sham scientific societies are misleading star researchers",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02980-w"
-    },
-    {
-      "title": "OpenAI's research chief talks of ‘cultural reset’ after wild few weeks",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03028-9"
-    },
-    {
-      "title": "AI bots are flooding researchers with requests for money and time",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03005-2"
-    },
-    {
-      "title": "Bumblebees don’t mind a little plastic in their honeypots",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02988-2"
-    },
-    {
-      "title": "Youthful fans of YouTube sports videos stick to the sofa",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02989-1"
-    },
-    {
-      "title": "GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03020-3"
-    },
-    {
-      "title": "AI system helps lab devices ‘talk’ with each other — streamlining research",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02990-8"
-    },
-    {
-      "title": "AI agent hacks government website for first time: why this breach matters",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03024-z"
-    },
-    {
-      "title": "Daily briefing: Will AI really be the death of us all?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03029-8"
-    },
-    {
-      "title": "AlphaFold ‘goes viral’: database adds protein complexes of common viruses",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03022-1"
     },
     {
       "title": "Evolving Cell with evolving science",
