@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "The super El Niño is cooking coral reefs — can lullabies and probiotics save them?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02965-9"
+    },
+    {
+      "title": "Beware sham scientific societies: the research community must be more vigilant",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03047-6"
+    },
+    {
+      "title": "I turn up late to meetings to dodge small talk. Am I wrong?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02201-4"
+    },
+    {
+      "title": "Strange and beautiful creatures spotted on the <i>Challenger</i> expedition",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02972-w"
+    },
+    {
       "title": "PhD training should encourage ethical dissent",
       "journal": "Nature",
       "date": "",
@@ -11,6 +35,12 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03056-5"
+    },
+    {
+      "title": "Emissions after the Paris accord made Europe’s heatwaves more severe",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03035-w"
     },
     {
       "title": "Patents alone won’t unlock critical-mineral supply chains",
@@ -31,16 +61,28 @@
       "url": "https://www.nature.com/articles/d41586-026-03055-6"
     },
     {
+      "title": "AI-powered medical devices must be tested in real-world settings",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03046-7"
+    },
+    {
       "title": "AI can widen science — but only if institutions stop rewarding the already measurable",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02961-z"
     },
     {
-      "title": "China wants to build world-leading science journals — can it be done?",
+      "title": "Chinese-owned science journal created to rival the best",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02759-z"
+    },
+    {
+      "title": "Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11083-5"
     },
     {
       "title": "A new chapter in targeting kinase enzymes in cancer",
@@ -49,10 +91,22 @@
       "url": "https://www.nature.com/articles/d41586-026-02776-y"
     },
     {
+      "title": "Lab-grown brain organoids: time for international oversight",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03048-5"
+    },
+    {
       "title": "How to put people first in cyberspace",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02960-0"
+    },
+    {
+      "title": "Daily briefing: Old hearts ‘de-age’ in younger people",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03089-w"
     },
     {
       "title": "China now leads the world in trials for next-gen CAR-T therapies",
@@ -65,60 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02959-7"
-    },
-    {
-      "title": "Bigger than CRISPR? A guide to the latest genome editors",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02964-w"
-    },
-    {
-      "title": "Vaping in childhood has bigger health risks than we’d thought",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02962-y"
-    },
-    {
-      "title": "Old hearts age backwards: transplanted organs adjust to host’s biological age",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03043-w"
-    },
-    {
-      "title": "Paid to peer review: firms are paying researchers to assess manuscripts for journals",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02277-y"
-    },
-    {
-      "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03041-y"
-    },
-    {
-      "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03032-z"
-    },
-    {
-      "title": "Anthropic’s AI biolab finds ‘CRISPR-like’ DNA in viruses. What’s next?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03039-6"
-    },
-    {
-      "title": "Chemists struggle to ditch hazardous solvents — even after decades of ‘green’ efforts",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03023-0"
-    },
-    {
-      "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03016-z"
     },
     {
       "title": "Evolving Cell with evolving science",
@@ -361,6 +361,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aem6086?af=R"
     },
     {
+      "title": "Quantification of lipid sorting during clathrin-mediated endocytosis",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02068-7"
+    },
+    {
       "title": "Cell atlas of the developing human meninges reveals a dura-like nature of meningiomas",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -401,12 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02092-7"
-    },
-    {
-      "title": "Lysosomes enlist endoplasmic reticulum microdomains for repair",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02064-x"
     },
     {
       "title": "Senescent cells: Leaving cellular waste behind",
@@ -691,12 +691,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee1476?af=R"
     },
     {
-      "title": "mTORC1-TFEB/TFE3 signaling is associated with bile acid diversification during hepatic metabolic adaptation",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee1905?af=R"
-    },
-    {
       "title": "Thalamofrontal synaptic weakening underlies short-term memory deficits from adolescent NMDAR hypofunction",
       "journal": "Science Advances",
       "date": "",
@@ -737,6 +731,12 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee8322?af=R"
+    },
+    {
+      "title": "Transmembrane delivery of antimicrobial peptides by engineered eCIS into macrophages for intracellular mycobacteria elimination",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee8463?af=R"
     }
   ]
 }
