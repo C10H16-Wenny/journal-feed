@@ -1,22 +1,52 @@
 {
   "items": [
     {
+      "title": "Location, location, location: how to edit genes only in the cells you want",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03037-8"
+    },
+    {
+      "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel <i>Ply</i>",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03057-4"
+    },
+    {
       "title": "How to respond to hate speech without fuelling it further",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03058-3"
     },
     {
-      "title": "Stunning fossil shows dinosaurs' distinctive path to flight",
+      "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03126-8"
+    },
+    {
+      "title": "Nature has rights — it is time the world recognized them",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03145-5"
+    },
+    {
+      "title": "Can you name the women who have won a science Nobel prize?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03133-9"
     },
     {
       "title": "Von Neumann’s party",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02976-6"
+    },
+    {
+      "title": "Prozac use for childhood depression skewed by single flawed medical trial",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02769-x"
     },
     {
       "title": "Can we have class outside? Seven tips to breeze through outdoor lectures",
@@ -89,36 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03138-4"
-    },
-    {
-      "title": "The super El Niño is cooking coral reefs — can lullabies and probiotics save them?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02965-9"
-    },
-    {
-      "title": "This award-winning microscopy image used AI — igniting controversy in a prestigious competition",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03086-z"
-    },
-    {
-      "title": "2D semiconductor aims to turbocharge development of high-performance electronics",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02777-x"
-    },
-    {
-      "title": "Elena, Aris, Marcus: AI-generated ‘ghosts’ are polluting the scientific literature",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02991-7"
-    },
-    {
-      "title": "Tuberculosis treatment has advanced — now we need to stop drug resistance dragging us backwards",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02963-x"
     },
     {
       "title": "Glioma margins gain a third dimension before surgery ends",
@@ -523,6 +523,126 @@
       "url": "https://www.cell.com/developmental-cell/fulltext/S1534-5807(26)00287-X?rss=yes"
     },
     {
+      "title": "In This Issue",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/iti3926123?af=R"
+    },
+    {
+      "title": "Anthony James Leggett: Explorer of quantum mechanics, from fluids and solids to the macroscopic world",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2630503123?af=R"
+    },
+    {
+      "title": "AI cannot replace human participants in behavioral research",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2611363123?af=R"
+    },
+    {
+      "title": "Air pollution after the shutdown of US embassy monitoring",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2605467123?af=R"
+    },
+    {
+      "title": "Global greenhouse gas cobenefits of US irrigated agriculture",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2528170123?af=R"
+    },
+    {
+      "title": "Plant fiber exploitation contributed to the emergence of ground-edged cutting tools in North China",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2608882123?af=R"
+    },
+    {
+      "title": "Promotion of long-term health in early life",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2601943123?af=R"
+    },
+    {
+      "title": "Thymic age and peripheral residence time determine antitumor competence of CD8+ T cells",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2612774123?af=R"
+    },
+    {
+      "title": "The genomic origins of cyanobacterial morphological diversity",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2608186123?af=R"
+    },
+    {
+      "title": "Phenotypic divergence is driven by mobile genetic elements in a heritable insect symbiont",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2607226123?af=R"
+    },
+    {
+      "title": "Perfluorooctane sulfonate directly interacts with IRF3 to attenuate antiviral innate immunity",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2536274123?af=R"
+    },
+    {
+      "title": "Candida in the lower respiratory tract induces barrier disruption in mice and predicts poor outcomes in mechanically ventilated humans",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2608378123?af=R"
+    },
+    {
+      "title": "Experience-driven plasticity in the secondary somatosensory cortex in people born without hands",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2602353123?af=R"
+    },
+    {
+      "title": "Selective ablation of dsDNA-specific plasma cells improves lupus nephritis in NZB/W mice",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2526826123?af=R"
+    },
+    {
+      "title": "Observation-related activity in the human motor cortex increases with effector anthropomorphicity",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2537457123?af=R"
+    },
+    {
+      "title": "Midbody formation triggers asymmetric fate specification in neural stem cells",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2611945123?af=R"
+    },
+    {
+      "title": "Pregnancy damps thermoregulatory rhythms across timescales through neural estrogen signaling in mice",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2611415123?af=R"
+    },
+    {
+      "title": "Bistability of compartmentalized autocatalytic systems at the dawn of hereditary variation",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2621400123?af=R"
+    },
+    {
+      "title": "Valuing five centuries of unpaid breastfeeding in England",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2600844123?af=R"
+    },
+    {
+      "title": "Climate mitigation contributes more to population persistence than evolutionary adaptation in a long-lived seabird",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2620362123?af=R"
+    },
+    {
       "title": "DDIAS shields vulnerable single-stranded DNA to direct neurogenesis and protect cancer cells",
       "journal": "Molecular Cell",
       "date": "",
@@ -625,6 +745,12 @@
       "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00616-7?rss=yes"
     },
     {
+      "title": "Suspended particles for omnidirectional template sacrifice for rapid vascular patterning within engineered tissues",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady4531?af=R"
+    },
+    {
       "title": "Tumor gasdermin E acts as a rheostat to limit apoptotic cell survival and mutagenesis in anticancer immune environments",
       "journal": "Science Advances",
       "date": "",
@@ -643,6 +769,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0903?af=R"
     },
     {
+      "title": "Topology-enforced synthesis of atomically precise silver nanoclusters in 3D DNA lattices",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec2365?af=R"
+    },
+    {
       "title": "Deciphering pervasive domestication and active “dark matter” of proviruses in prokaryotes via precision border mapping",
       "journal": "Science Advances",
       "date": "",
@@ -659,6 +791,24 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed1476?af=R"
+    },
+    {
+      "title": "A TERRA-NONO axis drives fibroblast reprogramming in cancer",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed3358?af=R"
+    },
+    {
+      "title": "A folate receptor–targeted NIR-II probe improves intraoperative imaging and surgery of metastatic ovarian cancer",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed7722?af=R"
+    },
+    {
+      "title": "In situ evidence of tiered adaptations buffering a chemosynthetic clam holobiont against environmental sulfide fluctuations",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed8728?af=R"
     },
     {
       "title": "Predicting and finding geroprotective compounds through modulating conserved longevity–associated aging modules",
@@ -685,64 +835,34 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee9300?af=R"
     },
     {
+      "title": "DeCoRE: A computational method to resolve RNA structural heterogeneity from RNA structure probing data by direct RNA sequencing",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef0670?af=R"
+    },
+    {
+      "title": "Room-temperature spin control in WS2 enabled by chiral seeded lead-free chiral perovskites",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef0681?af=R"
+    },
+    {
       "title": "A noncanonical function of the tyrosine degradation enzyme FAH drives CDK4/6 inhibitor resistance in breast cancer",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef1145?af=R"
     },
     {
+      "title": "An anoxygenic photosynthesis-inspired dual biohybrid for light-enhanced chemical production",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef4504?af=R"
+    },
+    {
       "title": "Multiport quantum interferometry with universal nonunitary transformations",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef4828?af=R"
-    },
-    {
-      "title": "Multiobjective VHH discovery through integrated high-throughput screening and AlphaFold3-guided structural prioritization",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef5325?af=R"
-    },
-    {
-      "title": "Instantaneous heating rate forcing differentiates tropical high-cloud adjustments across greenhouse gases",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef7462?af=R"
-    },
-    {
-      "title": "Speech clocks decode dementia phenotypes, social exposome, and biological aging",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef9864?af=R"
-    },
-    {
-      "title": "In situ azetidine polymerization elevates the performance of commercial polymer resin sorbents in carbon dioxide capture",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg5572?af=R"
-    },
-    {
-      "title": "Systematic identification of p11 as a signaling modulator across the GPCRome",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg6567?af=R"
-    },
-    {
-      "title": "Toward transgenic multicellular parasites: CRISPR-Cas12a germline editing of Schistosoma mansoni eggs as key to success",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh0455?af=R"
-    },
-    {
-      "title": "Deep learning–enhanced single-shot triorganelle STED-FLIM imaging of lipid dynamics in living cells",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh3416?af=R"
-    },
-    {
-      "title": "Intratumoral therapeutic dust for chemo-photodynamic combination treatment",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh5237?af=R"
     }
   ]
 }
