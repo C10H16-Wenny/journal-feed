@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light: live updates",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03091-2"
+    },
+    {
+      "title": "How big tech is building a military–industrial complex in the age of AI",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03134-8"
+    },
+    {
+      "title": "AI biohazard hype must not divert attention from the real risks we face now",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03135-7"
+    },
+    {
       "title": "Location, location, location: how to edit genes only in the cells you want",
       "journal": "Nature",
       "date": "",
@@ -29,6 +47,12 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03145-5"
+    },
+    {
+      "title": "Daily briefing: Can you name every female Nobel laureate?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03164-2"
     },
     {
       "title": "Can you name the women who have won a science Nobel prize?",
@@ -91,34 +115,10 @@
       "url": "https://www.nature.com/articles/d41586-026-03101-3"
     },
     {
-      "title": "Battle of the Anthropocene: allegations re-ignite row over proposed geological epoch",
+      "title": "Daily briefing: The sky as you’ve never seen it — the month’s best science images",
       "journal": "Nature",
       "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03118-8"
-    },
-    {
-      "title": "These optical illusions are why butterflies are so hard to catch",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03124-w"
-    },
-    {
-      "title": "Who’s the loudest of them all? The bare-throated bellbird vies for the prize",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03038-7"
-    },
-    {
-      "title": "Is exposomics the key to making personalized medicine a reality?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02958-8"
-    },
-    {
-      "title": "Daily briefing: How to save corals from the El Niño",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03138-4"
+      "url": "https://www.nature.com/articles/d41586-026-03141-9"
     },
     {
       "title": "Glioma margins gain a third dimension before surgery ends",
@@ -361,6 +361,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aem8011?af=R"
     },
     {
+      "title": "Global and specific mechanisms stimulate mistranslation in cancer",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02088-3"
+    },
+    {
       "title": "Retraction Note: Chromosomal translocation-derived aberrant Rab22a drives metastasis of osteosarcoma",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -401,12 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02067-8"
-    },
-    {
-      "title": "Author Correction: The bridge-like lipid transport protein VPS13C/PARK23 mediates ER–lysosome contacts following lysosome damage",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02094-5"
     },
     {
       "title": "Senescent cells: Leaving cellular waste behind",
