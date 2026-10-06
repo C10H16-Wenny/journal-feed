@@ -1,7 +1,91 @@
 {
   "items": [
     {
-      "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light: live updates",
+      "title": "Maintaining global science collaboration during conflict requires fairer rules",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03176-y"
+    },
+    {
+      "title": "The Great Barrier Reef requires special attention in the developing super El Niño",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03174-0"
+    },
+    {
+      "title": "Preprints must not leak sensitive research information",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03177-x"
+    },
+    {
+      "title": "AI could undermine scientific independence in subtle ways",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03175-z"
+    },
+    {
+      "title": "Rising numbers of Asian and African PhD students choose to study in China",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02798-6"
+    },
+    {
+      "title": "How digital breakdowns affect supply chains — and endanger the global economy",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03105-z"
+    },
+    {
+      "title": "Why smart glasses are about to create a major privacy crisis",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03131-x"
+    },
+    {
+      "title": "Cells, who needs them? Biochemists turn to proteins in a tube",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03136-6"
+    },
+    {
+      "title": "Circular DNA exposes a weakness in cancer cells",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02966-8"
+    },
+    {
+      "title": "Nobel physics prize awarded for detection of cosmic neutrinos",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03092-1"
+    },
+    {
+      "title": "Brain organoids grafted into cortex-free mice will advance human brain research",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02967-7"
+    },
+    {
+      "title": "‘What took them so long?’ This year’s medicine Nobel winner is overdue",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03094-z"
+    },
+    {
+      "title": "The top cancer success stories of the past 50 years, by the numbers",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03157-1"
+    },
+    {
+      "title": "Daily briefing: Medicine Nobel prize goes to optogenetics",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03185-x"
+    },
+    {
+      "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03091-2"
@@ -35,90 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03058-3"
-    },
-    {
-      "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03126-8"
-    },
-    {
-      "title": "Nature has rights — it is time the world recognized them",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03145-5"
-    },
-    {
-      "title": "Daily briefing: Can you name every female Nobel laureate?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03164-2"
-    },
-    {
-      "title": "Can you name the women who have won a science Nobel prize?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03133-9"
-    },
-    {
-      "title": "Von Neumann’s party",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02976-6"
-    },
-    {
-      "title": "Prozac use for childhood depression skewed by single flawed medical trial",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02769-x"
-    },
-    {
-      "title": "Can we have class outside? Seven tips to breeze through outdoor lectures",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02564-8"
-    },
-    {
-      "title": "Retraction Note: Ribosomal frameshifting in the <i>CCR5</i> mRNA is regulated by miRNAs and the NMD pathway",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11149-4"
-    },
-    {
-      "title": "A black hole’s jets have a halo effect",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03036-9"
-    },
-    {
-      "title": "Can pancreatic cancer be stopped in its tracks? Radical tactic raises hopes",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03119-7"
-    },
-    {
-      "title": "‘Vibe coding’ makes the dictionary: AI terms recognized by Merriam-Webster",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03044-9"
-    },
-    {
-      "title": "The ‘missed disease’ that affects 190 million: endometriosis drug shows early promise",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03042-x"
-    },
-    {
-      "title": "Gaze into the cosmos and through the eyes of a bee — September’s best science images",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03101-3"
-    },
-    {
-      "title": "Daily briefing: The sky as you’ve never seen it — the month’s best science images",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03141-9"
     },
     {
       "title": "Glioma margins gain a third dimension before surgery ends",
