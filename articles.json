@@ -1,10 +1,76 @@
 {
   "items": [
     {
+      "title": "Chimp and gorilla brains resist weight loss with age — unlike human brains",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03158-0"
+    },
+    {
+      "title": "The life of Darwin and the science of clouds: Books in brief",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03217-6"
+    },
+    {
+      "title": "Five movements from the edge of the singularity",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03116-w"
+    },
+    {
+      "title": "Author Correction: Histone readers MLLT1 and MLLT3 concentrate AID to confer locus specificity",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11266-0"
+    },
+    {
+      "title": "Editorial Expression of Concern: Maternal gut bacteria promote neurodevelopmental abnormalities in mouse offspring",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11070-w"
+    },
+    {
+      "title": "Women are talking about menopause — health systems must listen",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03218-5"
+    },
+    {
+      "title": "US proposes $100,000 charge for international students to do post-graduate work",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02921-7"
+    },
+    {
+      "title": "How to build a mouse: embryo development captured in stunning detail",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03193-x"
+    },
+    {
       "title": "Woody ‘blankets’ are being deployed on Arctic permafrost to reduce carbon emissions",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03045-8"
+    },
+    {
+      "title": "Will AI scoop your science? Some researchers see a gloomy future",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03128-6"
+    },
+    {
+      "title": "Plague scare: what scientists know — and what Russia won’t say",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03215-8"
+    },
+    {
+      "title": "Big dogs age faster than little ones — rogue ‘jumping genes’ might be to blame",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03199-5"
     },
     {
       "title": "UAE completes Arab world's first solo space probe <b>– </b>and sets course for an asteroid",
@@ -53,72 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03072-5"
-    },
-    {
-      "title": "Nuclear clocks tick for the first time",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03060-9"
-    },
-    {
-      "title": "Retrofitted LLM can count the letter ‘i’s in ‘artificial intelligence’",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03059-2"
-    },
-    {
-      "title": "Why sound, strong science alone isn’t enough in pandemic preparedness",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02985-5"
-    },
-    {
-      "title": "‘When prevention disappears, infections rise’: can the world still end AIDS?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03127-7"
-    },
-    {
-      "title": "The science of superintelligence and why AI is still a useful word",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03198-6"
-    },
-    {
-      "title": "Gut microbes that trace ancient human journeys",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02969-5"
-    },
-    {
-      "title": "An early predecessor to mammals could swim, suckle and swallow",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03069-0"
-    },
-    {
-      "title": "Can your brain grow new neurons? How researchers are solving a century-old puzzle",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03132-w"
-    },
-    {
-      "title": "Australia’s bush fires got worse after British colonization — this is why",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03184-y"
-    },
-    {
-      "title": "Why we must advocate for proper care on the frontlines of the Ebola outbreak",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02983-7"
-    },
-    {
-      "title": "Revealed: how this common gut microbe protects against heart disease",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03189-7"
     },
     {
       "title": "Glioma margins gain a third dimension before surgery ends",
@@ -241,124 +241,148 @@
       "url": "https://www.cell.com/cell/fulltext/S0092-8674(26)00933-5?rss=yes"
     },
     {
-      "title": "A medical mystery unfolds in middle America",
+      "title": "Demographic “doomsday” misses the mark",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ael1175?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael8752?af=R"
     },
     {
-      "title": "Walden and the wild roots of conservation science",
+      "title": "Golgi-derived vesicles containing PI(3,4)P2 drive mitochondrial fusion",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aej3535?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adx9628?af=R"
     },
     {
-      "title": "Mitochondrial carrier SLC25A34 links clock, diet, and temperature control of adipocyte lipid cycling",
+      "title": "The human gut microbiome primes fever after vaccination",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adz4797?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aea7733?af=R"
     },
     {
-      "title": "Quadrupolar sea level fluctuations reveal episodes of rapid polar wander",
+      "title": "Epigenetic aging and transposon dysregulation reflect size-related lifespan compression in dogs",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aec8423?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeb2986?af=R"
     },
     {
-      "title": "Loss of the tumor suppressor p53 generates a signaling gradient that drives epithelial clonal expansion",
+      "title": "Volatile eutectics to tailor crystallization for perovskite optoelectronics",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed3065?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeb4554?af=R"
     },
     {
-      "title": "Hypertension fuels osteoarthritis through neuroendocrine signaling",
+      "title": "Message in a bottleneck: Nested founder effects from French Polynesia to Rapa Nui and Hawaiʻi",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed8207?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec7662?af=R"
     },
     {
-      "title": "Incorporation of atmospheric components in planetary magma oceans through bubble–metal compounds",
+      "title": "Insights from more than a year of ongoing episodic lava fountaining at Kīlauea",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aef2542?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef2931?af=R"
     },
     {
-      "title": "Dynamic multimodal cation-carbon interaction for efficient adiponitrile electrosynthesis",
+      "title": "Asymmetric enzymatic hydrophosphorylation through O2 activation",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aef5175?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef3001?af=R"
     },
     {
-      "title": "Hierarchical crystalline organic-inorganic framework enabling high-modulus toughening in nacre",
+      "title": "Wafer-scale low-symmetry graphene moiré superlattice for integrated quantum rectifiers",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeg1070?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh3915?af=R"
     },
     {
-      "title": "Phage proteases activate CBASS antiphage immunity",
+      "title": "High-fidelity entangling gates and nonlocal circuits with neutral atoms",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeg3949?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aei1312?af=R"
     },
     {
-      "title": "Ultrahigh piezoelectricity by polaron-defect complexes",
+      "title": "Advancing mathematics research with AI-driven formal proof search",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeg4972?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aej2213?af=R"
     },
     {
-      "title": "Synergistic polar states by selective atomic gradients",
+      "title": "The genetic basis for the production of toxic quinolizidine alkaloids in lupins",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adv0235?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aei5520?af=R"
     },
     {
-      "title": "Precise length and charge segmentation of billion-dalton supramolecular polymers",
+      "title": "High-capacity associative memory in a quantum-optical spin glass",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeg5583?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec3917?af=R"
     },
     {
-      "title": "Stationary entanglement of a levitated oscillator with an optical field",
+      "title": "Natural 15N15N abundances constrain fixed nitrogen loss",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeh1375?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aei0940?af=R"
     },
     {
-      "title": "A Lifelong Focus on Women’s Health",
+      "title": "Marine snow viscosity regulates microbial degradation and the ocean carbon sink",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aem4087?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adx4170?af=R"
     },
     {
-      "title": "Shaping maternal physiology: Immune control of reproductive adaptation",
+      "title": "Recent strengthening of eastern Pacific ENSO in the last millennium paleorecord",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeh1405?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ady2660?af=R"
     },
     {
-      "title": "X and Y chromosomes as determinants of aging and disease",
+      "title": "Returning home",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeh0145?af=R"
-    },
-    {
-      "title": "Reframing menopause and menopause hormone therapy as opportunities for healthy aging",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeg5004?af=R"
-    },
-    {
-      "title": "Sex-specific mechanisms of chronic pain",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeh4468?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aem9878?af=R"
     },
     {
       "title": "In Other Journals",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aem8011?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aem9877?af=R"
+    },
+    {
+      "title": "Climate change reshapes the global mercury cycle",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh7034?af=R"
+    },
+    {
+      "title": "Before the immunological Big Bang",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael7318?af=R"
+    },
+    {
+      "title": "Chromosome crowding shapes spindle geometry",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02021-8"
+    },
+    {
+      "title": "Goals and challenges for senescence research",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02076-7"
+    },
+    {
+      "title": "In vivo DNA damage protection during cell migration across confining embryonic tissue environments",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02065-w"
+    },
+    {
+      "title": "Power-law scaling of mitotic spindles with genome sizes across eukaryotes is driven by chromosome crowding",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02005-8"
     },
     {
       "title": "Global and specific mechanisms stimulate mistranslation in cancer",
@@ -383,30 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02074-9"
-    },
-    {
-      "title": "Spatially resolved multiomics of human meningeal development reveal lineage and disease dynamics",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02075-8"
-    },
-    {
-      "title": "Scientific culture in the age of AI",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02070-z"
-    },
-    {
-      "title": "Taxane-induced conformational changes in the microtubule lattice activate GEF-H1-dependent RhoA signalling",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02079-4"
-    },
-    {
-      "title": "The dual-enhanced graph learning framework DePass allows paired data integration in single-cell and spatial multiomics",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02067-8"
     },
     {
       "title": "Senescent cells: Leaving cellular waste behind",
