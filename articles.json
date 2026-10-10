@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Breaking down nerve-cell scaffold relieves chronic pain in mice",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03159-z"
+    },
+    {
+      "title": "Briefing Chat: Top researchers are being misled by sham academic societies",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03216-7"
+    },
+    {
       "title": "Chimp and gorilla brains resist weight loss with age — unlike human brains",
       "journal": "Nature",
       "date": "",
@@ -11,6 +23,24 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03217-6"
+    },
+    {
+      "title": "Watch this invisible tattoo appear under UV light",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03210-z"
+    },
+    {
+      "title": "An experiment to glimpse the future Amazon — in pictures",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02909-3"
+    },
+    {
+      "title": "Publisher Correction: Sleep chart of biological ageing clocks in middle and late life",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11273-1"
     },
     {
       "title": "Five movements from the edge of the singularity",
@@ -89,36 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03208-7"
-    },
-    {
-      "title": "NASA releases trove of Moon data from historic Artemis II flight",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03197-7"
-    },
-    {
-      "title": "How we ditched presentations and embraced silence in our lab meetings",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02836-3"
-    },
-    {
-      "title": "Blend",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02864-z"
-    },
-    {
-      "title": "Semiconductors pushed into insulator territory",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02968-6"
-    },
-    {
-      "title": "Genome accessibility reveals disease risk that gene expression misses",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03072-5"
     },
     {
       "title": "Glioma margins gain a third dimension before surgery ends",
@@ -253,12 +253,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.adx9628?af=R"
     },
     {
-      "title": "The human gut microbiome primes fever after vaccination",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aea7733?af=R"
-    },
-    {
       "title": "Epigenetic aging and transposon dysregulation reflect size-related lifespan compression in dogs",
       "journal": "Science",
       "date": "",
@@ -313,12 +307,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aei5520?af=R"
     },
     {
-      "title": "High-capacity associative memory in a quantum-optical spin glass",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aec3917?af=R"
-    },
-    {
       "title": "Natural 15N15N abundances constrain fixed nitrogen loss",
       "journal": "Science",
       "date": "",
@@ -331,10 +319,22 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.adx4170?af=R"
     },
     {
+      "title": "High-capacity associative memory in a quantum-optical spin glass",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec3917?af=R"
+    },
+    {
       "title": "Recent strengthening of eastern Pacific ENSO in the last millennium paleorecord",
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.ady2660?af=R"
+    },
+    {
+      "title": "The human gut microbiome primes fever after vaccination",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aea7733?af=R"
     },
     {
       "title": "Returning home",
@@ -361,6 +361,30 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.ael7318?af=R"
     },
     {
+      "title": "Author Correction: YAP maintains the dynamics of TDP-43 condensates and antagonizes TDP-43 pathological aggregates",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02121-5"
+    },
+    {
+      "title": "RNA architecture regulates DNA replication",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02093-6"
+    },
+    {
+      "title": "A signal to boost cholesterol",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02084-7"
+    },
+    {
+      "title": "Precancerous evolution in pancreas",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02091-8"
+    },
+    {
       "title": "Chromosome crowding shapes spindle geometry",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -383,30 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02005-8"
-    },
-    {
-      "title": "Global and specific mechanisms stimulate mistranslation in cancer",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02088-3"
-    },
-    {
-      "title": "Retraction Note: Chromosomal translocation-derived aberrant Rab22a drives metastasis of osteosarcoma",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02090-9"
-    },
-    {
-      "title": "Quantification of lipid sorting during clathrin-mediated endocytosis",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02068-7"
-    },
-    {
-      "title": "Cell atlas of the developing human meninges reveals a dura-like nature of meningiomas",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02074-9"
     },
     {
       "title": "Senescent cells: Leaving cellular waste behind",
@@ -745,6 +745,12 @@
       "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00616-7?rss=yes"
     },
     {
+      "title": "Observation of electrically generated polaron-polaritons in a monolayer MoSe2 microcavity",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed2180?af=R"
+    },
+    {
       "title": "Self-buoyant cell-spheroid culture programming multi-spheroid assembly",
       "journal": "Science Advances",
       "date": "",
@@ -763,6 +769,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aei0096?af=R"
     },
     {
+      "title": "ALIX-dependent small extracellular vesicles from tissue-resident mesenchymal cells regulate pancreatic β cell proliferation in obesity",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aei1333?af=R"
+    },
+    {
       "title": "Escalating soil CO2 degassing correlates with ground uplift and seismicity during the ongoing unrest of Campi Flegrei (2005–2025)",
       "journal": "Science Advances",
       "date": "",
@@ -775,10 +787,46 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady9406?af=R"
     },
     {
+      "title": "Canonical Wnt induction by OTULIN prevents keratinocyte death and skin inflammation",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz0181?af=R"
+    },
+    {
+      "title": "Ocean circulation changes rather than global warming drove temperature trends across the Miocene Climatic Optimum",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz2555?af=R"
+    },
+    {
+      "title": "Contagion-preserving compression for multiscale epidemic modeling",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz4710?af=R"
+    },
+    {
+      "title": "Cell heterogeneity contributes to the variable response of HIV-1 to latency-reversing agents",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1435?af=R"
+    },
+    {
+      "title": "Record-setting heavy precipitation occurrence in 2024",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1692?af=R"
+    },
+    {
       "title": "Rise and spread of lead-silver metallurgy deciphered from peatland archives",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec1413?af=R"
+    },
+    {
+      "title": "Surficial carbonates in mantle plume sources revealed by magnesium isotopes",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee9247?af=R"
     },
     {
       "title": "Translocation-induced enhancer rewiring reveals cryptic oncogenic circuits in multiple myeloma",
@@ -787,82 +835,34 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg9610?af=R"
     },
     {
-      "title": "Endogenous retrovirus control of calbindin is essential for human early embryogenesis",
+      "title": "Insect-specific aldehyde synthase governs cuticle strength: a selective insecticide target",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee4523?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh0368?af=R"
     },
     {
-      "title": "A 256-year daily rainfall record reveals multiscale rainy-season variability and emerging hydroclimatic hazard over northern East Asia",
+      "title": "Long-term immunoprophylaxis by TLR9 ligand mediates macrophage-ILC cross-talk against respiratory viral infection",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6716?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6480?af=R"
     },
     {
-      "title": "Minimal-actuation feather star–inspired soft swimmers for multimodal 3D maneuverability",
+      "title": "SMCHD1 is a target for gene activation therapy to treat Prader-Willi syndrome",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg9211?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aej5702?af=R"
     },
     {
-      "title": "Epigenetic insights into extreme longevity in the world’s oldest terrestrial animal, Jonathan",
+      "title": "A neuronal GPCR modifies neuropeptide signaling to suppress proteostasis in distal tissues",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adw8887?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady6048?af=R"
     },
     {
-      "title": "AIMNet2-rxn: A machine-learned potential for generalized reaction modeling on a millions-of-pathways scale",
+      "title": "Targeting SUV39H2 exon skipping reverses resistance to CDK4/6 inhibitors via transcriptional activation of p21",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea1557?af=R"
-    },
-    {
-      "title": "3D DNA origami-enabled molecularly addressable optical nanocircuit",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2001?af=R"
-    },
-    {
-      "title": "Rapid protamine evolution suppresses meiotic drive in Drosophila",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb5514?af=R"
-    },
-    {
-      "title": "Real-time single-molecule imaging in zebrafish embryos uncovers noncanonical translation",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb6883?af=R"
-    },
-    {
-      "title": "Clonal lineage tracing and parallel multiomics profiling reveal transcriptional heterogeneity induced by ARID1A deficiency",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed7880?af=R"
-    },
-    {
-      "title": "Correlated one-dimensional electron conduction in ferroelastic domain walls through nematic-like charge stripes",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee1472?af=R"
-    },
-    {
-      "title": "From plankton to fish: 21st-century redistribution of marine biodiversity and the changing role of rare species",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee7253?af=R"
-    },
-    {
-      "title": "Targeted integration of extrachromosomal arrays in C. elegans using PhiC31 integrase",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef6902?af=R"
-    },
-    {
-      "title": "Kupffer cells are key mediators of antigen-specific immune tolerance by peptide-coupled red blood cells",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg6770?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea2001?af=R"
     }
   ]
 }
