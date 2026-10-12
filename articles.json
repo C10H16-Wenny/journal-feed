@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "title": "Award-winning microscopy image disqualified over AI use",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03240-7"
+    },
+    {
+      "title": "Author Correction: Timing and trajectory of <i>BCR::ABL1</i>-driven chronic myeloid leukaemia",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11253-5"
+    },
+    {
+      "title": "Keep medical doctors in academia — without them, health-care research will suffer",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03225-6"
+    },
+    {
+      "title": "Beyond the solvent fog: watching molecules dance in the crowd",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02970-y"
+    },
+    {
+      "title": "What does a PhD pay? Data reveal huge gaps across Europe",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03181-1"
+    },
+    {
+      "title": "Hidden signals in sleep can predict future health",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03207-8"
+    },
+    {
+      "title": "I told ChatGPT to ‘continue’ — it went too far",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02714-y"
+    },
+    {
+      "title": "Does the decline of book reading mark the end of rational thinking?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03224-7"
+    },
+    {
+      "title": "Private, offline and yours: how to search the literature with local AI systems",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03227-4"
+    },
+    {
       "title": "Breaking down nerve-cell scaffold relieves chronic pain in mice",
       "journal": "Nature",
       "date": "",
@@ -65,60 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03218-5"
-    },
-    {
-      "title": "US proposes $100,000 charge for international students to do post-graduate work",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02921-7"
-    },
-    {
-      "title": "How to build a mouse: embryo development captured in stunning detail",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03193-x"
-    },
-    {
-      "title": "Woody ‘blankets’ are being deployed on Arctic permafrost to reduce carbon emissions",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03045-8"
-    },
-    {
-      "title": "Will AI scoop your science? Some researchers see a gloomy future",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03128-6"
-    },
-    {
-      "title": "Plague scare: what scientists know — and what Russia won’t say",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03215-8"
-    },
-    {
-      "title": "Big dogs age faster than little ones — rogue ‘jumping genes’ might be to blame",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03199-5"
-    },
-    {
-      "title": "UAE completes Arab world's first solo space probe <b>– </b>and sets course for an asteroid",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03154-4"
-    },
-    {
-      "title": "A guide to Nature Index tables",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02999-z"
-    },
-    {
-      "title": "Nobel prizes 2026: ‘ghost’ particles, mirror molecules and light switches in the brain",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03208-7"
     },
     {
       "title": "Glioma margins gain a third dimension before surgery ends",
@@ -359,54 +359,6 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.ael7318?af=R"
-    },
-    {
-      "title": "Author Correction: YAP maintains the dynamics of TDP-43 condensates and antagonizes TDP-43 pathological aggregates",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02121-5"
-    },
-    {
-      "title": "RNA architecture regulates DNA replication",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02093-6"
-    },
-    {
-      "title": "A signal to boost cholesterol",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02084-7"
-    },
-    {
-      "title": "Precancerous evolution in pancreas",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02091-8"
-    },
-    {
-      "title": "Chromosome crowding shapes spindle geometry",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02021-8"
-    },
-    {
-      "title": "Goals and challenges for senescence research",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02076-7"
-    },
-    {
-      "title": "In vivo DNA damage protection during cell migration across confining embryonic tissue environments",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02065-w"
-    },
-    {
-      "title": "Power-law scaling of mitotic spindles with genome sizes across eukaryotes is driven by chromosome crowding",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02005-8"
     },
     {
       "title": "Senescent cells: Leaving cellular waste behind",
