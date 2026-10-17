@@ -1,10 +1,46 @@
 {
   "items": [
     {
+      "title": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03341-3"
+    },
+    {
+      "title": "The pianist who never played",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03112-0"
+    },
+    {
+      "title": "IceCube just won a Nobel prize. Protect astroparticle physics projects with the same potential",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03308-4"
+    },
+    {
+      "title": "Memory stays strong in old age when this brain enzyme is active",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03303-9"
+    },
+    {
+      "title": "Unprecedented atlas explores mitochondria across the tree of life",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03195-9"
+    },
+    {
       "title": "PhD students who write dissertation with AI less likely to stay in academia",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03253-2"
+    },
+    {
+      "title": "History’s long-secret codes are being cracked by amateurs using AI",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03338-y"
     },
     {
       "title": "Is AI eroding PhD students’ critical thinking and analysis skills?",
@@ -83,42 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03239-0"
-    },
-    {
-      "title": "<b>The world is closer to a major conservation target than scientists thought</b>",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03307-5"
-    },
-    {
-      "title": "Becoming real",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03114-y"
-    },
-    {
-      "title": "Lay of the land: terrestrial conservation efforts cover a wider area than thought",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03081-4"
-    },
-    {
-      "title": "Will my lack of country-specific grants limit my chances of employment abroad?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02442-3"
-    },
-    {
-      "title": "A guide to the Nature Index",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03206-9"
-    },
-    {
-      "title": "Nature Index reveals the four countries to watch in biomedical engineering",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03204-x"
     },
     {
       "title": "Milking the niche: Microbial control of neonatal hematopoiesis",
@@ -361,6 +361,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.ael9047?af=R"
     },
     {
+      "title": "Author Correction: A kinetics-based model of haematopoiesis reveals extrinsic regulation of skewed lineage output from stem cells",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02103-7"
+    },
+    {
       "title": "Author Correction: Remote control of AMPK via extracellular adenosine controls tissue growth",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -401,12 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02021-8"
-    },
-    {
-      "title": "Goals and challenges for senescence research",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02076-7"
     },
     {
       "title": "Squeezed to death: Mechanical control of MLKL beyond RIPK3",
@@ -745,10 +745,34 @@
       "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00655-6?rss=yes"
     },
     {
+      "title": "Latent effector capacity governs reversible T cell exhaustion: A theoretical mathematical model of PD-1 blockade response",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aei0840?af=R"
+    },
+    {
+      "title": "MFN2-associated astrocyte dysfunction contributes to neuronal hyperexcitability and depressive-like behaviors",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed8795?af=R"
+    },
+    {
+      "title": "Cell-intrinsic steroidogenesis regulates mast cell function",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea0260?af=R"
+    },
+    {
       "title": "Local control of Cre-regulated genetic modeling in vivo using wireless implantable optoelectronics",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed1014?af=R"
+    },
+    {
+      "title": "Kinetic-driven microphase separation and vitrification of crowded hydrogels with associative bonds",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed8808?af=R"
     },
     {
       "title": "Immune biomarkers of response and resistance to ipilimumab and nivolumab in metastatic castration-resistant prostate cancer",
@@ -779,6 +803,12 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh4023?af=R"
+    },
+    {
+      "title": "Peripheral nerve injury alters metabolic function and neuronal excitability through the Lin28/let-7 pathway",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6791?af=R"
     },
     {
       "title": "Bisulfate-mediated selective methane oxidation under mild aqueous conditions",
@@ -833,36 +863,6 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh7197?af=R"
-    },
-    {
-      "title": "Seabirds and native vegetation drive ecosystem processes that support atoll island resilience",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aei1145?af=R"
-    },
-    {
-      "title": "Deep hydrous melting of the mantle wedge recorded by Mg isotopes",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aei6572?af=R"
-    },
-    {
-      "title": "Comprehensive characterization of transposable element expression reveals regulatory circuitry and clinical implications in cancers",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec9550?af=R"
-    },
-    {
-      "title": "Reversible Atlantic overturning despite continued Greenland ice sheet melt",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee5373?af=R"
-    },
-    {
-      "title": "SPRIZ (CCDC127) protein conserved in deuterostome animals is a rigid OMM–IMM tether that locally sets mitochondrial IMS volume",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef3522?af=R"
     }
   ]
 }
