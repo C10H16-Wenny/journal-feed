@@ -1,6 +1,126 @@
 {
   "items": [
     {
+      "title": "How pregnancy reshapes the brain throughout life",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03312-8"
+    },
+    {
+      "title": "‘Fiercely stubborn’: the US scientists continuing their research amid funding cuts",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03315-5"
+    },
+    {
+      "title": "Three reasons why AI is not conscious and perhaps never will be",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03313-7"
+    },
+    {
+      "title": "Author Correction: Long-read sequencing reveals pre-meiotic gene conversion in sperm",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11290-0"
+    },
+    {
+      "title": "How to compare and strengthen research systems",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03309-3"
+    },
+    {
+      "title": "Lessons from Katrina: how to rebuild academia from the ground up",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02623-0"
+    },
+    {
+      "title": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03341-3"
+    },
+    {
+      "title": "The pianist who never played",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03112-0"
+    },
+    {
+      "title": "Daily briefing: We’re close to reaching a 30% land-conservation target",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03348-w"
+    },
+    {
+      "title": "IceCube just won a Nobel prize. Protect astroparticle physics projects with the same potential",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03308-4"
+    },
+    {
+      "title": "Memory stays strong in old age when this brain enzyme is active",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03303-9"
+    },
+    {
+      "title": "Unprecedented atlas explores mitochondria across the tree of life",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03195-9"
+    },
+    {
+      "title": "PhD students who write dissertation with AI less likely to stay in academia",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03253-2"
+    },
+    {
+      "title": "History’s long-secret codes are being cracked by amateurs using AI",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03338-y"
+    },
+    {
+      "title": "Is AI eroding PhD students’ critical thinking and analysis skills?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03178-w"
+    },
+    {
+      "title": "World’s timekeepers upend how they adjust time to avoid catastrophic ‘negative second’",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03329-z"
+    },
+    {
+      "title": "Orangutan mothers arrange play dates for their babies",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03238-1"
+    },
+    {
+      "title": "Daily briefing: Bleached corals revived by healthy neighbour’s touch",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03336-0"
+    },
+    {
+      "title": "Nearly half of reef-building corals face elevated relative risk of extinction",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11263-3"
+    },
+    {
+      "title": "Give me the good news: four science stories to brighten your day",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03152-6"
+    },
+    {
       "title": "Milking the niche: Microbial control of neonatal hematopoiesis",
       "journal": "Cell",
       "date": "",
@@ -241,6 +361,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.ael9047?af=R"
     },
     {
+      "title": "Monocyte surface Y RNAs potentiate innate immunity",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02100-w"
+    },
+    {
       "title": "Author Correction: A kinetics-based model of haematopoiesis reveals extrinsic regulation of skewed lineage output from stem cells",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -281,12 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02091-8"
-    },
-    {
-      "title": "Chromosome crowding shapes spindle geometry",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02021-8"
     },
     {
       "title": "Squeezed to death: Mechanical control of MLKL beyond RIPK3",
