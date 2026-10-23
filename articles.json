@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "title": "Elusive snow leopards and evasive particles: Books in brief",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03395-3"
+    },
+    {
+      "title": "Rebody",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03108-w"
+    },
+    {
+      "title": "Can a 'lullaby' save coral reefs from extinction?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03414-3"
+    },
+    {
+      "title": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03371-x"
+    },
+    {
+      "title": "Teen depression and anxiety predicted by childhood brain development",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03357-9"
+    },
+    {
+      "title": "Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03389-1"
+    },
+    {
+      "title": "Daily briefing: The tell-tale features of a Denisovan",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03438-9"
+    },
+    {
+      "title": "Current-Driven Molecular Machine with Rotation-Enhanced Conductance",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11312-x"
+    },
+    {
       "title": "<i>De novo</i> design of enantioselective artificial metalloenzyme photocatalysts",
       "journal": "Nature",
       "date": "",
@@ -19,6 +67,12 @@
       "url": "https://www.nature.com/articles/s41586-026-11252-6"
     },
     {
+      "title": "AI doctors’ orders come with a sky-high bill",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03320-8"
+    },
+    {
       "title": "Surprise! White dwarf stars come in a rainbow of colours",
       "journal": "Nature",
       "date": "",
@@ -35,12 +89,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03077-0"
-    },
-    {
-      "title": "Teen depression and anxiety predicted by childhood brain development",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03357-9"
     },
     {
       "title": "Using AI to offer personalized health advice",
@@ -71,54 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03110-2"
-    },
-    {
-      "title": "This is what the mysterious Denisovans looked like",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03360-0"
-    },
-    {
-      "title": "Can plants defend coasts against storms?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03063-6"
-    },
-    {
-      "title": "Worms live longer in cool conditions thanks to a muscle-derived molecule",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03066-3"
-    },
-    {
-      "title": "Cave stalagmites document global patterns in monsoon rainfall over the past 450,000 years",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03285-8"
-    },
-    {
-      "title": "Large-scale single crystals printed layer by layer",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03257-y"
-    },
-    {
-      "title": "A single antimatter particle in a cage opens door to ‘revolutionary’ physics",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03342-2"
-    },
-    {
-      "title": "Robert Williamson obituary: geneticist who mapped genes for muscular dystrophy and cystic fibrosis",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03375-7"
-    },
-    {
-      "title": "Fabric user interface can be worn on your sleeve — and machine-washed",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03064-5"
     },
     {
       "title": "Milking the niche: Microbial control of neonatal hematopoiesis",
@@ -241,124 +241,130 @@
       "url": "https://www.cell.com/cell/fulltext/S0092-8674(26)00803-2?rss=yes"
     },
     {
-      "title": "An elegy for the unsung world-builders",
+      "title": "The Monarch Bear",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aek0152?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aem5501?af=R"
     },
     {
-      "title": "Fear the bioengineered future",
+      "title": "The microscope and the metaphor",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aem4081?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aej4196?af=R"
     },
     {
-      "title": "Gate-tunable chiral spin mode in WSe2/WS2 moiré superlattices",
+      "title": "Thermodynamic origin of the phonon Hall effect in a honeycomb antiferromagnet",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adq6530?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adt1992?af=R"
     },
     {
-      "title": "A pair of chitosan receptors confer broad-spectrum fungal resistance",
+      "title": "Wireless electrocatalytic closed-loop system for drug-free management of diabesity",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ady7647?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ady8560?af=R"
     },
     {
-      "title": "Regulation of target gene expression by chromatin-associated protein-coding transcripts in plants",
+      "title": "BAK and BAX form a multiprotein complex to drive mtDNA efflux and caspase-independent cell death",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adz4903?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aea2181?af=R"
     },
     {
-      "title": "Dendritic computation for abstract rule-based flexible decision-making",
+      "title": "Intron retention regulates STAT2 function and associates with immunotherapy response in lung cancer",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adz5323?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aea7156?af=R"
     },
     {
-      "title": "Empirical constraints on ice cliff calving",
+      "title": "Late Holocene reexpansion of the Laurentide Ice Sheet",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aee0658?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aed3379?af=R"
     },
     {
-      "title": "Engineering ordered two-dimensional defect phases to strengthen structural alloys",
+      "title": "Ultrarapid decision-making in an avian brain",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeh1409?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aed6459?af=R"
     },
     {
-      "title": "Deterministic generation and distribution of genuine multipartite entanglement in macroscopic acoustic resonators",
+      "title": "Dynamic functionality–enabled fast and selective transport in nanochannels",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeh4273?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aed8319?af=R"
     },
     {
-      "title": "Stereoselective polysubstituted bicyclo[1.1.0]butane synthesis by rhodium-catalyzed kinetic resolution",
+      "title": "Imaging electron-hole asymmetry in the quantum melting of generalized Wigner crystals",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeh6251?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aee6967?af=R"
     },
     {
-      "title": "Modular van der Waals MOSFETs through layer-by-layer chalcogen substitutions",
+      "title": "Visualizing symmetry-broken Chern insulators and their quantum melting",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aei2693?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef0940?af=R"
     },
     {
-      "title": "In situ structure of the human ciliary transition zone links linker defects to primary ciliary dyskinesia",
+      "title": "Decoupled self-assembled monolayer and perovskite deposition for efficient flexible solar modules",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aei5957?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef9745?af=R"
     },
     {
-      "title": "Frequency encoding regulates cell type composition in the small intestine",
+      "title": "Natural product biosynthesis by guanidine prenyltransferases in plants and bacteria",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adt1928?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeg1821?af=R"
     },
     {
-      "title": "Structural basis for size-selective perception of chitin in plants",
+      "title": "Sequential diagnosis with language models",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adz4600?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh7930?af=R"
     },
     {
-      "title": "Airflows redefine the cost of aerial transport in the wild",
+      "title": "Noncoding transcription controls the developmental dynamics of long-range gene regulation",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aee6550?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aek5696?af=R"
     },
     {
-      "title": "Electrically driven chiral emission from plasmonic tunnel junctions",
+      "title": "Safeguarding global terrestrial vertebrate species from future sea level rise",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeh4015?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aed5772?af=R"
     },
     {
-      "title": "Glycan recognition by a plant damage-sensing immune receptor",
+      "title": "Electronic bound states in the continuum in a two-dimensional metal",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aec6740?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adt9825?af=R"
     },
     {
-      "title": "Speaking with authority",
+      "title": "The Virtual Biotech: A multi-agent AI framework for therapeutic discovery and development",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aen1238?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeg6779?af=R"
     },
     {
       "title": "In Other Journals",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aen1237?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aen3876?af=R"
     },
     {
-      "title": "Winds make bird flights cheaper",
+      "title": "My hidden homeless past",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ael9047?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aen3877?af=R"
+    },
+    {
+      "title": "Author Correction: Malonyl-CoA is a conserved endogenous ATP-competitive mTORC1 inhibitor",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02132-2"
     },
     {
       "title": "Keratin 9 regulates mechanosensitive YAP1 signalling in palmoplantar epidermis",
@@ -401,12 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02120-6"
-    },
-    {
-      "title": "Author Correction: YAP maintains the dynamics of TDP-43 condensates and antagonizes TDP-43 pathological aggregates",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02121-5"
     },
     {
       "title": "Squeezed to death: Mechanical control of MLKL beyond RIPK3",
