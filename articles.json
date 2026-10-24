@@ -1,16 +1,58 @@
 {
   "items": [
     {
+      "title": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11303-y"
+    },
+    {
       "title": "Elusive snow leopards and evasive particles: Books in brief",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03395-3"
     },
     {
+      "title": "Sleep declines in rural communities after electricity arrives",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03318-2"
+    },
+    {
+      "title": "Briefing Chat: How physicists successfully trapped the electron's antimatter equivalent",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03418-z"
+    },
+    {
+      "title": "First person infected with rare Shamonda virus: what we know",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03416-1"
+    },
+    {
+      "title": "Elizabeth Holmes film enthralls — but her legacy haunts science",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03383-7"
+    },
+    {
       "title": "Rebody",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03108-w"
+    },
+    {
+      "title": "Moderna mRNA vaccine almost halves the risk of skin cancer returning",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03417-0"
+    },
+    {
+      "title": "I’m expected to work excessive hours in the lab. Should I speak up about my disability?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02582-6"
     },
     {
       "title": "Can a 'lullaby' save coral reefs from extinction?",
@@ -77,48 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03319-1"
-    },
-    {
-      "title": "To heal sick cities, scientists and residents must work together",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03161-5"
-    },
-    {
-      "title": "An AI tool improves weather forecasts up to a month ahead",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03077-0"
-    },
-    {
-      "title": "Using AI to offer personalized health advice",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03065-4"
-    },
-    {
-      "title": "Global emissions slow — but world hurtles towards 2 °C of warming",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03355-x"
-    },
-    {
-      "title": "Huge mapping study reveals how your brain tracks what your body is feeling",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03334-2"
-    },
-    {
-      "title": "Plastics embedded with enzymes degrade readily in the sea",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03282-x"
-    },
-    {
-      "title": "The Bursar",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03110-2"
     },
     {
       "title": "Milking the niche: Microbial control of neonatal hematopoiesis",
@@ -283,12 +283,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aed3379?af=R"
     },
     {
-      "title": "Ultrarapid decision-making in an avian brain",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed6459?af=R"
-    },
-    {
       "title": "Dynamic functionality–enabled fast and selective transport in nanochannels",
       "journal": "Science",
       "date": "",
@@ -311,12 +305,6 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aef9745?af=R"
-    },
-    {
-      "title": "Natural product biosynthesis by guanidine prenyltransferases in plants and bacteria",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeg1821?af=R"
     },
     {
       "title": "Sequential diagnosis with language models",
@@ -343,10 +331,22 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.adt9825?af=R"
     },
     {
+      "title": "Natural product biosynthesis by guanidine prenyltransferases in plants and bacteria",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeg1821?af=R"
+    },
+    {
       "title": "The Virtual Biotech: A multi-agent AI framework for therapeutic discovery and development",
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aeg6779?af=R"
+    },
+    {
+      "title": "Ultrarapid decision-making in an avian brain",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aed6459?af=R"
     },
     {
       "title": "In Other Journals",
@@ -359,54 +359,6 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aen3877?af=R"
-    },
-    {
-      "title": "Author Correction: Malonyl-CoA is a conserved endogenous ATP-competitive mTORC1 inhibitor",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02132-2"
-    },
-    {
-      "title": "Keratin 9 regulates mechanosensitive YAP1 signalling in palmoplantar epidermis",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02087-4"
-    },
-    {
-      "title": "The rise of reducing reagent-resistant TfR1 dimer marks ferroptosis",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02107-3"
-    },
-    {
-      "title": "Spatial multi-omic atlas profiles early organogenesis of a Carnegie stage 12 human embryo",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02086-5"
-    },
-    {
-      "title": "Monocyte surface Y RNAs potentiate innate immunity",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02100-w"
-    },
-    {
-      "title": "Author Correction: A kinetics-based model of haematopoiesis reveals extrinsic regulation of skewed lineage output from stem cells",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02103-7"
-    },
-    {
-      "title": "Author Correction: Remote control of AMPK via extracellular adenosine controls tissue growth",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02104-6"
-    },
-    {
-      "title": "Author Correction: p300 nucleocytoplasmic shuttling underlies mTORC1 hyperactivation in Hutchinson–Gilford progeria syndrome",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02120-6"
     },
     {
       "title": "Squeezed to death: Mechanical control of MLKL beyond RIPK3",
@@ -751,6 +703,30 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh8129?af=R"
     },
     {
+      "title": "An in situ forming immunomodulatory hydrogel reinvigorates exhausted CD8+ T cells via preserving their mitochondrial fitness",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adz0039?af=R"
+    },
+    {
+      "title": "NRF2 coordinates cystine import and glutathione use to sustain ferroptosis resistance and formaldehyde tolerance in cancer",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea1431?af=R"
+    },
+    {
+      "title": "Primary tumor–derived lactate primes prostate cancer cells for a dormant fate",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8595?af=R"
+    },
+    {
+      "title": "CASTOR1 functional inactivation drives KRAS-mutant NSCLC and therapy resistance by a noncanonical mechanism of tumor suppression",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb9836?af=R"
+    },
+    {
       "title": "Coordinated mosquito biting dynamics at the human skin interface",
       "journal": "Science Advances",
       "date": "",
@@ -769,10 +745,40 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed5357?af=R"
     },
     {
+      "title": "Lineage-specific and gestational age–dependent DNA methylation programming orchestrates human placental development",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee0560?af=R"
+    },
+    {
       "title": "Predicting upcoming visual features during eye movements yields scene representations aligned with human visual cortex",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee1955?af=R"
+    },
+    {
+      "title": "PhagoID: Quantitative in situ proximity labeling defines the proteomes of bead- and microbe-containing phagosome lumina across species, maturation, and immune activation",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee3876?af=R"
+    },
+    {
+      "title": "SCML2 inhibits PrimPol-mediated DNA replication repriming and regulates replication gap-associated cancer cell vulnerability",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee4738?af=R"
+    },
+    {
+      "title": "Scalable architecture for measurement-induced squeezed light interferometers",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee5135?af=R"
+    },
+    {
+      "title": "RAF isoform selectivity of MEK inhibitors and rational design of a covalent ARAF-MEK inhibitor",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee5241?af=R"
     },
     {
       "title": "Scentronic: An artificial intelligence–assisted olfactory interface for remote odor sharing and transmission",
@@ -781,10 +787,22 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee9266?af=R"
     },
     {
+      "title": "Histone methyltransferase NSD2 shapes CD8+ T cell fates through the H3K36me2-Zbtb20 axis",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee9670?af=R"
+    },
+    {
       "title": "Ultrasonic metamaterial at MHz frequencies using microstructured glass",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef0666?af=R"
+    },
+    {
+      "title": "High-throughput droplet-based enzymatic DNA methylome profiling enables single-cell resolution of epigenetic heterogeneity",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef2844?af=R"
     },
     {
       "title": "CCAN forms the spherical shell-like structure in interphase kinetochores",
@@ -793,76 +811,10 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef4365?af=R"
     },
     {
-      "title": "Staphylococcus aureus wall teichoic acid structure dictates virulence potential and resistance to host defenses",
+      "title": "Loss of KAT5-dependent H2A.Z acetylation provokes chromosomal instability in recurrent pregnancy loss",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef7070?af=R"
-    },
-    {
-      "title": "p75NTR orchestrates chondrogenesis and mechanoadaptation to preserve temporomandibular joint development and homeostasis",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef7786?af=R"
-    },
-    {
-      "title": "RanGAP1 coordinates the ER-lamina interface to drive de novo nuclear envelope reassembly in mouse embryos",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef7931?af=R"
-    },
-    {
-      "title": "Stable coexistence and transport of lytic phage infections with migrating bacterial hosts",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef9265?af=R"
-    },
-    {
-      "title": "High ambipolar mobility fluorinated MXene for ultrasensitive biosensing transistors",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg5289?af=R"
-    },
-    {
-      "title": "Classical quantum chemical solution of the FeMo-cofactor model to chemical accuracy and its implications",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg7106?af=R"
-    },
-    {
-      "title": "Distinct chalcophile-element inheritance from subducted continental crust in metasomatized mantle",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh0254?af=R"
-    },
-    {
-      "title": "Anomalous phonon selection rules and Raman optical activity in RuO2",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh0887?af=R"
-    },
-    {
-      "title": "DMRT1 is required at two steps of ovarian differentiation in rabbits",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh1087?af=R"
-    },
-    {
-      "title": "Vortex-mediated spin current injection into two-dimensional superconductor NbSe2",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh1582?af=R"
-    },
-    {
-      "title": "Multiple allosteric sites allow for synergistic enhancement of GPCR signaling",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh3401?af=R"
-    },
-    {
-      "title": "Voice patches in the marmoset auditory cortex revealed by multimodal optical imaging",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh3885?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef6029?af=R"
     }
   ]
 }
