@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11328-3"
+    },
+    {
       "title": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
       "journal": "Nature",
       "date": "",
@@ -113,12 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03320-8"
-    },
-    {
-      "title": "Surprise! White dwarf stars come in a rainbow of colours",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03319-1"
     },
     {
       "title": "Milking the niche: Microbial control of neonatal hematopoiesis",
@@ -359,6 +359,54 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aen3877?af=R"
+    },
+    {
+      "title": "Author Correction: Malonyl-CoA is a conserved endogenous ATP-competitive mTORC1 inhibitor",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02132-2"
+    },
+    {
+      "title": "Keratin 9 regulates mechanosensitive YAP1 signalling in palmoplantar epidermis",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02087-4"
+    },
+    {
+      "title": "The rise of reducing reagent-resistant TfR1 dimer marks ferroptosis",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02107-3"
+    },
+    {
+      "title": "Spatial multi-omic atlas profiles early organogenesis of a Carnegie stage 12 human embryo",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02086-5"
+    },
+    {
+      "title": "Monocyte surface Y RNAs potentiate innate immunity",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02100-w"
+    },
+    {
+      "title": "Author Correction: A kinetics-based model of haematopoiesis reveals extrinsic regulation of skewed lineage output from stem cells",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02103-7"
+    },
+    {
+      "title": "Author Correction: Remote control of AMPK via extracellular adenosine controls tissue growth",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02104-6"
+    },
+    {
+      "title": "Author Correction: p300 nucleocytoplasmic shuttling underlies mTORC1 hyperactivation in Hutchinson–Gilford progeria syndrome",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02120-6"
     },
     {
       "title": "Squeezed to death: Mechanical control of MLKL beyond RIPK3",
