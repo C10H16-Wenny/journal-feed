@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Briefing Chat: <b>Dog years: could longevity science extend your pets' lives?</b>",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03553-7"
+    },
+    {
+      "title": "Author Correction: Rh<sup>3+</sup> stabilized in KRh@MFI catalyses regioselective hydroformylation",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11337-2"
+    },
+    {
       "title": "Patrick Stewart dies: how Captain Picard inspired today’s science leaders",
       "journal": "Nature",
       "date": "",
@@ -11,6 +23,18 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03368-6"
+    },
+    {
+      "title": "I built the UK government’s metascience unit — here’s what countries need to know",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03502-4"
+    },
+    {
+      "title": "Record-breaking retraction: scholarly publisher pulls 1,400 conference papers on one day",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03455-8"
     },
     {
       "title": "Are dinosaur fossils hogging top journals? Analysis sparks debate over ‘charismatic’ finds",
@@ -95,30 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03402-7"
-    },
-    {
-      "title": "Lactate takes a shortcut into mitochondria to power the heart",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03261-2"
-    },
-    {
-      "title": "Clues about complex life come from freshly cultivated archaea",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03294-7"
-    },
-    {
-      "title": "Preprint-centric publishing model gets major boost",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03445-w"
-    },
-    {
-      "title": "These three red flags could unmask dodgy journals",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03325-3"
     },
     {
       "title": "Roads not taken: The mismatch between safety and regulation of plant breeding innovation",
@@ -361,6 +361,54 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aen5956?af=R"
     },
     {
+      "title": "Rewired decoding fuels KRAS-driven cancer growth and drug resistance",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02089-2"
+    },
+    {
+      "title": "Cancer cells have got ‘MoVes’",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02108-2"
+    },
+    {
+      "title": "Twenty years of induced pluripotent stem cells",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02115-3"
+    },
+    {
+      "title": "Microtubule lattice state regulates Rho GTPase",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02111-7"
+    },
+    {
+      "title": "Phase separation of SMARCAL1 orchestrates epigenetic reprogramming and methionine metabolism to foster radioresistance and immunosuppression",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02099-0"
+    },
+    {
+      "title": "Methylated eEF1A selectively decodes mRNA to shape cancer proteomes",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02085-6"
+    },
+    {
+      "title": "Author Correction: Metabolic rewiring in skin epidermis drives tolerance to oncogenic mutations",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02139-9"
+    },
+    {
+      "title": "Author Correction: Spatiotemporal coordination of actin regulators generates invasive protrusions in cell–cell fusion",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02144-y"
+    },
+    {
       "title": "Squeezed to death: Mechanical control of MLKL beyond RIPK3",
       "journal": "Developmental Cell",
       "date": "",
@@ -577,10 +625,46 @@
       "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00655-6?rss=yes"
     },
     {
+      "title": "Decoder-FFPE-seq enables sensitive, genome-wide spatial transcriptomics of archival tissues at single-cell resolution",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady5085?af=R"
+    },
+    {
+      "title": "Graph-based pangenome analysis uncovers structural and functional impacts of allopolyploidization events",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea5812?af=R"
+    },
+    {
+      "title": "A nematic framework for sprouting angiogenesis",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1384?af=R"
+    },
+    {
       "title": "Trans-synaptic interaction of orphan GPCR GPR88 and adhesion GPCR BAI3 through C1ql1 maintains synapse integrity",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec0867?af=R"
+    },
+    {
+      "title": "Robust pan-junctional reinforcement preserves the gut epithelial barrier under mechanical stress",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed3122?af=R"
+    },
+    {
+      "title": "Chirality-selective second-harmonic response with Floquet engineering",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed6149?af=R"
+    },
+    {
+      "title": "RNA binding by ADARs prevents RNA interference from attacking self-produced dsRNA",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed7314?af=R"
     },
     {
       "title": "An oxidized ribonucleotide 8-oxoGTP drives neuroinflammation and accelerates cognitive decline",
@@ -589,16 +673,52 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee0110?af=R"
     },
     {
+      "title": "Monsoon zonal seesaw: Development of the South Asian monsoon aridified North Africa in the Cenozoic",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee1112?af=R"
+    },
+    {
       "title": "Harmonic brightness oscillations point to magnetar giant flares in rare short gamma-ray bursts",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee6388?af=R"
     },
     {
+      "title": "Enhanced room-temperature spin transport in a deuterated molecular single crystal",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee7789?af=R"
+    },
+    {
+      "title": "Evidence of active whole-genome doubling (WGD) subclones in non-WGD tumors",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee7939?af=R"
+    },
+    {
+      "title": "A soft wireless bioelectronic patch for noninvasive modulation of cavernosal microenvironment in diabetic erectile dysfunction",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef4772?af=R"
+    },
+    {
+      "title": "Human hair–bearing skin organoids reveal cell type–specific susceptibility and innate immune responses to herpes simplex virus 1",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef5563?af=R"
+    },
+    {
       "title": "Coupled carbonate-shale thallium isotopes reveal the evolution of deep-marine anoxia during the end-Permian mass extinction",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef5669?af=R"
+    },
+    {
+      "title": "General prediction of T cell receptor antigen specificity from sequence using AlphaFold 3",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef5674?af=R"
     },
     {
       "title": "Sustainable biobased packaging via integrated robotics/machine learning workflow for improved postharvest preservation",
@@ -623,78 +743,6 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef7843?af=R"
-    },
-    {
-      "title": "Glucose restriction induced by intermittent fasting promotes alternative metabolic fluxes leading to memory CD8+ T cell development",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg0361?af=R"
-    },
-    {
-      "title": "Dams not to blame for all reservoir carbon emissions from retained organic carbon",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg7676?af=R"
-    },
-    {
-      "title": "Cultural norms of exogamy and mobility shape genetic evolution of Central African hunter-gatherers",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh1658?af=R"
-    },
-    {
-      "title": "The structural history of Eukarya",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh2524?af=R"
-    },
-    {
-      "title": "Transient absorption signatures of asymmetric carrier cooling in semiconductors",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6002?af=R"
-    },
-    {
-      "title": "FOSL1-associated condensates modulate superenhancer-mediated selected IL-1 family gene activation in psoriasis",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6541?af=R"
-    },
-    {
-      "title": "Visible-light-mediated stereoselective construction of oxa-spiro bicyclohexanes via strain-release [2π + 2σ] cycloaddition",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh7873?af=R"
-    },
-    {
-      "title": "Lipid-sensing GPR183-KRAS signaling mediates TH17 autoimmunity and identifies fluvoxamine repurposing in uveitis",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh8465?af=R"
-    },
-    {
-      "title": "Broad-scale evaluations of biodiversity change need reference comparisons",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aei1959?af=R"
-    },
-    {
-      "title": "Presynaptic filopodia form kinapses and promote convective membrane flow to sustain synchronous neurotransmitter release",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aei2661?af=R"
-    },
-    {
-      "title": "Fire at the boundary: Airborne toxic metals from the 2025 Los Angeles urban firestorm",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aei4455?af=R"
-    },
-    {
-      "title": "A Full-Spectrum Generative Lead Discovery (FSGLD) pipeline via DRUG-GAN: A multiscale method for drug-like/target-specific compound library generation",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aei5257?af=R"
     }
   ]
 }
