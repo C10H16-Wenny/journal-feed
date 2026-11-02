@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "title": "Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11350-5"
+    },
+    {
+      "title": "Measles made a stealthy return as another virus took the spotlight",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03387-3"
+    },
+    {
+      "title": "Earth’s resources sustain humanity — but they come at a high price",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03506-0"
+    },
+    {
+      "title": "Iranian scientists in the United States face major upheaval",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03346-y"
+    },
+    {
+      "title": "Five overlooked steps to identify new epidemics, fast",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03509-x"
+    },
+    {
+      "title": "Meet Neuropixels: how probes that track hundreds of brain cells at once are revolutionizing neuroscience",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03511-3"
+    },
+    {
+      "title": "In Indonesia, PhD students blow the whistle on bad supervision",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02465-w"
+    },
+    {
+      "title": "How researchers debunked ‘race science’: ‘a triumph of scientific self-correction’",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03507-z"
+    },
+    {
       "title": "Briefing Chat: <b>Dog years: could longevity science extend your pets' lives?</b>",
       "journal": "Nature",
       "date": "",
@@ -71,54 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-11335-4"
-    },
-    {
-      "title": "Why did ancient humans avoid this lush paradise",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03486-1"
-    },
-    {
-      "title": "This Arabian desert was once a lush paradise. Why did ancient humans avoid it?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03484-3"
-    },
-    {
-      "title": "Accounting of Africa’s water reveals a management gap",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03260-3"
-    },
-    {
-      "title": "The brain liquidates billions of mutant neurons around the time we’re born",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03444-x"
-    },
-    {
-      "title": "Daily briefing: The big push to personalize psychiatry",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03531-z"
-    },
-    {
-      "title": "Tethered to stone: how rock and water availability shaped early desert occupation",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03263-0"
-    },
-    {
-      "title": "What students think about my teaching doesn’t matter. Am I wrong?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02202-3"
-    },
-    {
-      "title": "How personalization and psychedelics are revitalizing psychiatry",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03402-7"
     },
     {
       "title": "Roads not taken: The mismatch between safety and regulation of plant breeding innovation",
@@ -361,6 +361,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aen5956?af=R"
     },
     {
+      "title": "Condensates loosen chromatin’s grip on cancer",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02098-1"
+    },
+    {
       "title": "Rewired decoding fuels KRAS-driven cancer growth and drug resistance",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -401,12 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02139-9"
-    },
-    {
-      "title": "Author Correction: Spatiotemporal coordination of actin regulators generates invasive protrusions in cell–cell fusion",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02144-y"
     },
     {
       "title": "Squeezed to death: Mechanical control of MLKL beyond RIPK3",
