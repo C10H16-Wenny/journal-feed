@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "title": "Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11350-5"
-    },
-    {
-      "title": "Measles made a stealthy return as another virus took the spotlight",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03387-3"
-    },
-    {
-      "title": "Earth’s resources sustain humanity — but they come at a high price",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03506-0"
-    },
-    {
-      "title": "Iranian scientists in the United States face major upheaval",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03346-y"
-    },
-    {
-      "title": "Five overlooked steps to identify new epidemics, fast",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03509-x"
-    },
-    {
-      "title": "Meet Neuropixels: how probes that track hundreds of brain cells at once are revolutionizing neuroscience",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03511-3"
-    },
-    {
-      "title": "In Indonesia, PhD students blow the whistle on bad supervision",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-02465-w"
-    },
-    {
-      "title": "How researchers debunked ‘race science’: ‘a triumph of scientific self-correction’",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03507-z"
-    },
-    {
-      "title": "Briefing Chat: <b>Dog years: could longevity science extend your pets' lives?</b>",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03553-7"
-    },
-    {
-      "title": "Author Correction: Rh<sup>3+</sup> stabilized in KRh@MFI catalyses regioselective hydroformylation",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11337-2"
-    },
-    {
-      "title": "Patrick Stewart dies: how Captain Picard inspired today’s science leaders",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03543-9"
-    },
-    {
-      "title": "Somewhere over the transcontinental burrito tunnel",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03368-6"
-    },
-    {
-      "title": "I built the UK government’s metascience unit — here’s what countries need to know",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03502-4"
-    },
-    {
-      "title": "Record-breaking retraction: scholarly publisher pulls 1,400 conference papers on one day",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03455-8"
-    },
-    {
-      "title": "Are dinosaur fossils hogging top journals? Analysis sparks debate over ‘charismatic’ finds",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03512-2"
-    },
-    {
-      "title": "Even stupendous black holes can’t explain dark matter",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03386-4"
-    },
-    {
-      "title": "Daily briefing: The three red flags of suspicious journals",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03548-4"
-    },
-    {
-      "title": "How the US mid-term elections could shake up science",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03479-0"
-    },
-    {
-      "title": "Switchable Chlorine Atom Transfer Radical Reactions",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11348-z"
-    },
-    {
-      "title": "Back-to-monomer depolymerization of silicones by deoxygenative chlorination",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11335-4"
-    },
-    {
       "title": "Roads not taken: The mismatch between safety and regulation of plant breeding innovation",
       "journal": "Cell",
       "date": "",
@@ -361,6 +241,30 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aen5956?af=R"
     },
     {
+      "title": "Scrambling inflames the STING of chemoresistance",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02113-5"
+    },
+    {
+      "title": "Capturing human chorion emergence in a dish",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02080-x"
+    },
+    {
+      "title": "Reconstructing the emergence of the human chorion via Hippo-mediated trophoblast induction",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02082-9"
+    },
+    {
+      "title": "STING-dependent TNF signalling promotes IKKβ-mediated ATG9A phosphorylation and autophagy",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02101-9"
+    },
+    {
       "title": "Condensates loosen chromatin’s grip on cancer",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -383,30 +287,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02115-3"
-    },
-    {
-      "title": "Microtubule lattice state regulates Rho GTPase",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02111-7"
-    },
-    {
-      "title": "Phase separation of SMARCAL1 orchestrates epigenetic reprogramming and methionine metabolism to foster radioresistance and immunosuppression",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02099-0"
-    },
-    {
-      "title": "Methylated eEF1A selectively decodes mRNA to shape cancer proteomes",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02085-6"
-    },
-    {
-      "title": "Author Correction: Metabolic rewiring in skin epidermis drives tolerance to oncogenic mutations",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02139-9"
     },
     {
       "title": "Squeezed to death: Mechanical control of MLKL beyond RIPK3",
@@ -503,6 +383,126 @@
       "journal": "Developmental Cell",
       "date": "",
       "url": "https://www.cell.com/developmental-cell/fulltext/S1534-5807(26)00353-9?rss=yes"
+    },
+    {
+      "title": "In This Issue",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/iti4326123?af=R"
+    },
+    {
+      "title": "Ecological, physiological, and evolutionary drivers of stoichiometry in insects",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2537858123?af=R"
+    },
+    {
+      "title": "Multiple sources contribute to predictive tactile attenuation in the mouse whisker system",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2617276123?af=R"
+    },
+    {
+      "title": "Harry L. Swinney: Nonlinear science and chaos pioneer",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2634679123?af=R"
+    },
+    {
+      "title": "Local growth laws determine global shape of molluscan shells",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2614478123?af=R"
+    },
+    {
+      "title": "Extensive glacier loss in the coterminous United States",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2600941123?af=R"
+    },
+    {
+      "title": "Nutrient legacies from elephant megacarcasses create coldspots of biodiversity and hotspots of ecosystem processes",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2605332123?af=R"
+    },
+    {
+      "title": "The honey bee stinger: An unusual pump with collapsible double pistons",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2603916123?af=R"
+    },
+    {
+      "title": "Global origins of tuna and billfish fisheries reveal the transition from coastal access to oceanic exploitation",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2512066123?af=R"
+    },
+    {
+      "title": "Unique features of EIGHT fold—Proteins with the most complex 83 knotted topology",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2523017123?af=R"
+    },
+    {
+      "title": "mechanoLight: A genetically encoded fluorescent biosensor for visualizing 5-HT2AR mechanotransduction in live cells",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2610816123?af=R"
+    },
+    {
+      "title": "Neuromodulatory control of cortical function: Cell-type-specific regulation of neuronal information transfer",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2609893123?af=R"
+    },
+    {
+      "title": "Biotic response networks are an important organizer of the transcriptome in wild Arabidopsis thaliana populations",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2611539123?af=R"
+    },
+    {
+      "title": "Understory diversity is positively associated with overstory carbon sequestration",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2615624123?af=R"
+    },
+    {
+      "title": "Modeling the global potential of smart farming innovations",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2530081123?af=R"
+    },
+    {
+      "title": "Geography of groundwater use and depletion in internationally shared aquifers",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2619357123?af=R"
+    },
+    {
+      "title": "Calibration, accuracy, and domain variation across one million collective forecasts from prediction platforms",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2615627123?af=R"
+    },
+    {
+      "title": "Toward cooler cities by larger homogeneous functional clusters",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2617717123?af=R"
+    },
+    {
+      "title": "Leveraging existing grid infrastructure for rapid US renewable and storage deployment",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2603919123?af=R"
+    },
+    {
+      "title": "Catalytic reactive-hydrogen membranes for rapid capture and hydrodefluorination of six PFAS of regulatory concern",
+      "journal": "PNAS",
+      "date": "",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2613985123?af=R"
     },
     {
       "title": "Looking to the future of AI and molecular biology",
