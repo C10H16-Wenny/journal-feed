@@ -1,6 +1,126 @@
 {
   "items": [
     {
+      "title": "The oracle of the second quadrant",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03369-5"
+    },
+    {
+      "title": "Ecosystems depend on people: don’t abandon them",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03544-8"
+    },
+    {
+      "title": "Mysterious anthrax outbreak kills hippos in Africa — raising concerns for human spread",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03580-4"
+    },
+    {
+      "title": "When humans disappear, biodiversity takes a surprising turn",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03505-1"
+    },
+    {
+      "title": "Whence dragons?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03277-8"
+    },
+    {
+      "title": "Research bonuses need clear and fair rules",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03562-6"
+    },
+    {
+      "title": "Safety alerts must reach visiting PhD students",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03560-8"
+    },
+    {
+      "title": "Universities must measure learning, both with and without AI assistance",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03559-1"
+    },
+    {
+      "title": "China should share the evidence behind animal-testing alternatives openly",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03561-7"
+    },
+    {
+      "title": "Historic Marburg outbreak hints at long-term viral hideout",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03538-6"
+    },
+    {
+      "title": "Will AI grant reviews make science more conservative?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03340-4"
+    },
+    {
+      "title": "Trump’s executive order on women’s health feels like déjà vu",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03503-3"
+    },
+    {
+      "title": "Cities are changing — and architects must adapt",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03508-y"
+    },
+    {
+      "title": "How democracy depends on science — and must protect it",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03510-4"
+    },
+    {
+      "title": "Chinese doctoral students in clinical medicine can graduate without a thesis — more degrees to follow",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03480-7"
+    },
+    {
+      "title": "This cholesterol drug promised to be a game-changer. Why did it flop in the clinic — and is there still hope?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03504-2"
+    },
+    {
+      "title": "Biotech firms are meant to pay to use Earth’s genetic data. They’re not.",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03554-6"
+    },
+    {
+      "title": "Why we’re setting up an institute for radically broad thinking",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03397-1"
+    },
+    {
+      "title": "US social sciences face existential crisis after NSF cuts",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03540-y"
+    },
+    {
+      "title": "Nature awards recognize inspiring women in science",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03545-7"
+    },
+    {
       "title": "Roads not taken: The mismatch between safety and regulation of plant breeding innovation",
       "journal": "Cell",
       "date": "",
@@ -145,12 +265,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.adr9983?af=R"
     },
     {
-      "title": "Chiral altermagnon in MnTe",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adv3196?af=R"
-    },
-    {
       "title": "Rapid longitudinal flights cause time shifts and Sun compass error",
       "journal": "Science",
       "date": "",
@@ -223,16 +337,22 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aej0483?af=R"
     },
     {
+      "title": "Altermagnetism revealed by polarized neutrons in MnF2",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec2602?af=R"
+    },
+    {
       "title": "The global geography of threats to freshwater biodiversity",
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aeb7910?af=R"
     },
     {
-      "title": "Altermagnetism revealed by polarized neutrons in MnF2",
+      "title": "Chiral altermagnon in MnTe",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aec2602?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adv3196?af=R"
     },
     {
       "title": "In Other Journals",
@@ -388,121 +508,121 @@
       "title": "In This Issue",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/iti4326123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/iti4426123?af=R"
     },
     {
-      "title": "Ecological, physiological, and evolutionary drivers of stoichiometry in insects",
+      "title": "Susumu Tonegawa (1939–2026): A molecular biologist who transformed immunology and neuroscience",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2537858123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2632673123?af=R"
     },
     {
-      "title": "Multiple sources contribute to predictive tactile attenuation in the mouse whisker system",
+      "title": "Populations, exposures and outcomes: How social media data is poised to advance climate-demography research",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2617276123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2321161122?af=R"
     },
     {
-      "title": "Harry L. Swinney: Nonlinear science and chaos pioneer",
+      "title": "Decoding climate anomalies—From scientifically sound to societally relevant",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2634679123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2321154122?af=R"
     },
     {
-      "title": "Local growth laws determine global shape of molluscan shells",
+      "title": "Prioritize validation over discovery of novel antibiotics",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2614478123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2616439123?af=R"
     },
     {
-      "title": "Extensive glacier loss in the coterminous United States",
+      "title": "Profile of Barbara Sherwood Lollar",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2600941123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2635190123?af=R"
     },
     {
-      "title": "Nutrient legacies from elephant megacarcasses create coldspots of biodiversity and hotspots of ecosystem processes",
+      "title": "Orexin and pupillary modulation for hunger control",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2605332123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2619759123?af=R"
     },
     {
-      "title": "The honey bee stinger: An unusual pump with collapsible double pistons",
+      "title": "A symbiogenic merger enabled by oxygen initiated the evolution of eukaryotes",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2603916123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2620770123?af=R"
     },
     {
-      "title": "Global origins of tuna and billfish fisheries reveal the transition from coastal access to oceanic exploitation",
+      "title": "Complexity functions of infinite sequences",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2512066123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2627766123?af=R"
     },
     {
-      "title": "Unique features of EIGHT fold—Proteins with the most complex 83 knotted topology",
+      "title": "The ABCD hypothesis",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2523017123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2621223123?af=R"
     },
     {
-      "title": "mechanoLight: A genetically encoded fluorescent biosensor for visualizing 5-HT2AR mechanotransduction in live cells",
+      "title": "Historical trends show more declining than increasing species among European pollinators",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2610816123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2600774123?af=R"
     },
     {
-      "title": "Neuromodulatory control of cortical function: Cell-type-specific regulation of neuronal information transfer",
+      "title": "Widespread plasma jets in the Martian magnetosheath revealed by dual-spacecraft observations",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2609893123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2616582123?af=R"
     },
     {
-      "title": "Biotic response networks are an important organizer of the transcriptome in wild Arabidopsis thaliana populations",
+      "title": "Integrating ecology with genetics to explain gene reuse during repeated evolution",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2611539123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2422481123?af=R"
     },
     {
-      "title": "Understory diversity is positively associated with overstory carbon sequestration",
+      "title": "Contactless continuous guidance of matter in its main states using curved elongated Bessel-like acoustic fields",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2615624123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2614959123?af=R"
     },
     {
-      "title": "Modeling the global potential of smart farming innovations",
+      "title": "Human organ trafficking and missing persons in China",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2530081123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2608464123?af=R"
     },
     {
-      "title": "Geography of groundwater use and depletion in internationally shared aquifers",
+      "title": "A spatially deployable iron redox rheostat tunes root growth under nutritional stress",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2619357123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2614796123?af=R"
     },
     {
-      "title": "Calibration, accuracy, and domain variation across one million collective forecasts from prediction platforms",
+      "title": "Resource-driven release from lag phase triggers the world’s fastest and largest coastal plant invasion",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2615627123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2622290123?af=R"
     },
     {
-      "title": "Toward cooler cities by larger homogeneous functional clusters",
+      "title": "Spontaneous replication fork collapse regulates telomere length homeostasis in wild-type yeast",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2617717123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2536041123?af=R"
     },
     {
-      "title": "Leveraging existing grid infrastructure for rapid US renewable and storage deployment",
+      "title": "circEPSTI1 regulates miR-942-5p–SERPINE1–AKT1 signaling axis to enhance dengue infection and is suppressed by Tiplaxtinin",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2603919123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2602747123?af=R"
     },
     {
-      "title": "Catalytic reactive-hydrogen membranes for rapid capture and hydrodefluorination of six PFAS of regulatory concern",
+      "title": "Position-specific isotope signatures evolve during a reversible reaction",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2613985123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2617402123?af=R"
     },
     {
       "title": "Looking to the future of AI and molecular biology",
