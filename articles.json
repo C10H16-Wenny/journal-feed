@@ -7,10 +7,34 @@
       "url": "https://www.nature.com/articles/d41586-026-03595-x"
     },
     {
+      "title": "Cholera bacterium’s good deed: inspiring a glue with rare properties",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03630-x"
+    },
+    {
+      "title": "Briefing Chat: Meet the snakes that cartwheel away from trouble",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03632-9"
+    },
+    {
       "title": "Preprint platform offers to pay researchers to review papers, but questions remain",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03442-z"
+    },
+    {
+      "title": "In Vivo CRISPR Base Editing of <i>ANGPTL3</i> for Durable Lipid Lowering",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11233-9"
+    },
+    {
+      "title": "These AI agents design your perfect robot-powered lab — and run it for you",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03587-x"
     },
     {
       "title": "‘Mathematics is more than a mechanical process’ — why I think the field will survive OpenAI’s disruption",
@@ -67,7 +91,7 @@
       "url": "https://www.nature.com/articles/d41586-026-03539-5"
     },
     {
-      "title": "Toothbrush zaps bacteria with electricity made when bristles move",
+      "title": "Toothbrush zaps bacteria with electricity that’s made when bristles move",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03586-y"
@@ -95,30 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-11368-9"
-    },
-    {
-      "title": "Parkinson’s: beyond the brain",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03173-1"
-    },
-    {
-      "title": "AI agents run this automated biology lab that sequences DNA and more",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03552-8"
-    },
-    {
-      "title": "The oracle of the second quadrant",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03369-5"
-    },
-    {
-      "title": "X-ray stopwatch can measure durations of just attoseconds",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03423-2"
     },
     {
       "title": "Roads not taken: The mismatch between safety and regulation of plant breeding innovation",
@@ -361,6 +361,18 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aen8054?af=R"
     },
     {
+      "title": "Author Correction: The formation of migrasomes is initiated by the assembly of sphingomyelin synthase 2 foci at the leading edge of migrating cells",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02152-y"
+    },
+    {
+      "title": "Author Correction: Divergent metabolic programmes control two populations of MAIT cells that protect the lung",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02153-x"
+    },
+    {
       "title": "Tau monomers and fibrils escape microglial clearance via distinct cellular mechanisms",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -395,18 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02101-9"
-    },
-    {
-      "title": "Condensates loosen chromatin’s grip on cancer",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02098-1"
-    },
-    {
-      "title": "Rewired decoding fuels KRAS-driven cancer growth and drug resistance",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02089-2"
     },
     {
       "title": "Squeezed to death: Mechanical control of MLKL beyond RIPK3",
@@ -745,6 +745,24 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aek3138?af=R"
     },
     {
+      "title": "Identification of a specialized lipid barrier for Drosophila metamorphosis",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.adw6168?af=R"
+    },
+    {
+      "title": "Brainstem enkephalinergic neural circuit underlying cold-induced pain relief in mice",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea3106?af=R"
+    },
+    {
+      "title": "Mevalonate pathway regulates double-negative regulatory T cell stability in metabolic dysfunction–associated steatotic liver disease",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8568?af=R"
+    },
+    {
       "title": "Enigmatic HCl detections as a potential signature of igneous activity on Mars",
       "journal": "Science Advances",
       "date": "",
@@ -755,6 +773,12 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec2297?af=R"
+    },
+    {
+      "title": "Temporal dynamics of antigen-specific T cell expansion in primary SARS-CoV-2 infection",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec4195?af=R"
     },
     {
       "title": "Stony coral symbioses show variable responses to future ocean conditions",
@@ -769,10 +793,28 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed9351?af=R"
     },
     {
+      "title": "Comprehensive degron mapping in human transcription factors",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee1766?af=R"
+    },
+    {
+      "title": "Shape-memory scaffold targets inflammation and fibrosis to restore endometrium and fertility in intrauterine adhesions",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee4682?af=R"
+    },
+    {
       "title": "Local translational program at the muscle-tendon junction endows domain identity in muscle syncytia",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee6166?af=R"
+    },
+    {
+      "title": "Ultrafast Meissner-levitated microrotor",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee6434?af=R"
     },
     {
       "title": "Clinically derived micro- and nanoplastic uptake drives spatiotemporally confined metabolic stress revealed by bond-selective imaging",
@@ -781,10 +823,22 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee7712?af=R"
     },
     {
+      "title": "Electron competition in azobenzene programs infection-adaptive antibacterial therapy",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee7761?af=R"
+    },
+    {
       "title": "Persistent bistability of Nordic Seas overflow waters over 800,000 years",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee7886?af=R"
+    },
+    {
+      "title": "Explainable AI identifies recombination and chromatin environment as key predictors of subgenome evolution in maize and Brassica",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee9459?af=R"
     },
     {
       "title": "On-going retinal neuronal degeneration despite clinical stability in glaucoma",
@@ -793,70 +847,16 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef3222?af=R"
     },
     {
+      "title": "A robust spin-coupled tetraradical via nonalternant design",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef6604?af=R"
+    },
+    {
       "title": "Oxygen-mediated projection microstereolithography for sub–100-μm zirconia dental veneers",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef9661?af=R"
-    },
-    {
-      "title": "BCLAF1 links RNA splicing to ATF4-dependent metabolic adaptation in acute myeloid leukemia",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg0571?af=R"
-    },
-    {
-      "title": "Engineered synbiotic microspheres enable system-level reprogramming of the gut-immune-vascular axis in chronic inflammatory vascular disease",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg1718?af=R"
-    },
-    {
-      "title": "Hoxa10 governs lifelong skeletal stem cell maintenance and bone repair",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg2088?af=R"
-    },
-    {
-      "title": "Ultrasound neural interface enabling acute spinal cord monitoring and blood flow modulation",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg2342?af=R"
-    },
-    {
-      "title": "Common transcriptional changes in the brain during hibernation and Alzheimer’s disease",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg3486?af=R"
-    },
-    {
-      "title": "Genetic dissection of cell type–specific congenital heart disease variants reveals ETS1 control of vascular smooth muscle cell fate",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg4687?af=R"
-    },
-    {
-      "title": "Unveiling the underlying spin mechanism in quasi-2D perovskite spin-polarized lasing",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg4834?af=R"
-    },
-    {
-      "title": "Self-charged toothbrush facilitates tooth healthcare maintenance",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg5744?af=R"
-    },
-    {
-      "title": "Thermalization of quantum light induced by classical nonlinear wave dynamics",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg6518?af=R"
-    },
-    {
-      "title": "N6-methyladenosine–dependent ARv7 translation couples lactate metabolism with enzalutamide resistance in prostate cancer",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg8317?af=R"
     }
   ]
 }
