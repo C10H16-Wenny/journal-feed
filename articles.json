@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title": "The super El Niño is more than a climate shock – it’s a health one, too",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03628-5"
+    },
+    {
+      "title": "Carlo Rovelli says fundamental physics is overrated",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03626-7"
+    },
+    {
+      "title": "COP31 kicks off as planet faces imminent overshoot of 1.5 °C climate target",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03631-w"
+    },
+    {
+      "title": "Author Correction: Histone H3 trimethylation at lysine 36 guides m<sup>6</sup>A RNA modification co-transcriptionally",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11375-w"
+    },
+    {
+      "title": "AI has transformed maths — this is how we got here",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03627-6"
+    },
+    {
+      "title": "How academic freedom is changing around the world — by the numbers",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02998-0"
+    },
+    {
+      "title": "What postdoc ads ask for and what they leave unsaid",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-02903-9"
+    },
+    {
       "title": "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
       "journal": "Nature",
       "date": "",
@@ -23,6 +65,12 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03442-z"
+    },
+    {
+      "title": "Daily briefing: Ancient cave art found hiding in plain sight",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03648-1"
     },
     {
       "title": "In Vivo CRISPR Base Editing of <i>ANGPTL3</i> for Durable Lipid Lowering",
@@ -71,54 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03568-0"
-    },
-    {
-      "title": "Daily briefing: Toothbrush zaps bacteria to clear plaque",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03596-w"
-    },
-    {
-      "title": "Spider snooze stages",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03487-0"
-    },
-    {
-      "title": "Why not to wait even a few minutes before fleeing a tsunami",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03539-5"
-    },
-    {
-      "title": "Toothbrush zaps bacteria with electricity that’s made when bristles move",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03586-y"
-    },
-    {
-      "title": "First-of-its-kind planetary wreckage holds clues to our Solar System’s fate",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03537-7"
-    },
-    {
-      "title": "A guide to Nature Index tables",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03344-0"
-    },
-    {
-      "title": "Ancient DNA charts spread of Celtic and Germanic languages",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03582-2"
-    },
-    {
-      "title": "Carbon radical generation by irreversible metal-to-ligand charge transfer",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11368-9"
     },
     {
       "title": "Roads not taken: The mismatch between safety and regulation of plant breeding innovation",
@@ -361,6 +361,18 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aen8054?af=R"
     },
     {
+      "title": "Surface Y RNAs at the gut–immune interface",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02102-8"
+    },
+    {
+      "title": "Full-length RNA sequencing profiles intracellular and extracellular RNAs in euploid and aneuploid human embryos",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02123-3"
+    },
+    {
       "title": "Author Correction: The formation of migrasomes is initiated by the assembly of sphingomyelin synthase 2 foci at the leading edge of migrating cells",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -395,18 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02080-x"
-    },
-    {
-      "title": "Reconstructing the emergence of the human chorion via Hippo-mediated trophoblast induction",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02082-9"
-    },
-    {
-      "title": "STING-dependent TNF signalling promotes IKKβ-mediated ATG9A phosphorylation and autophagy",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02101-9"
     },
     {
       "title": "Squeezed to death: Mechanical control of MLKL beyond RIPK3",
