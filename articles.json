@@ -1,10 +1,82 @@
 {
   "items": [
     {
+      "title": "PhD funding mechanisms should protect the right to disagree with supervisors",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03645-4"
+    },
+    {
+      "title": "A practically perfect plesiosaur",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03278-7"
+    },
+    {
+      "title": "Chile’s postdoc rules risk driving talent away",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03643-6"
+    },
+    {
+      "title": "Students need AI-free spaces to learn core skills",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03644-5"
+    },
+    {
+      "title": "Why your physics project needs an anthropologist",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03623-w"
+    },
+    {
+      "title": "How microbes can secure the critical minerals the world needs",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03629-4"
+    },
+    {
+      "title": "Mongolia’s iconic grasslands are in crisis — invisible fungi could help save them",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03589-9"
+    },
+    {
+      "title": "PhDs worldwide are having a shake up — why now?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03017-y"
+    },
+    {
+      "title": "The public trusts scientists with AI — more than it does anyone else",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03578-y"
+    },
+    {
+      "title": "Some people are resistant to dementia — here’s what their genes can teach us",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03625-8"
+    },
+    {
+      "title": "He spent a year on ‘Mars’: NASA science officer emerges from mock mission",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03588-w"
+    },
+    {
       "title": "The super El Niño is more than a climate shock – it’s a health one, too",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03628-5"
+    },
+    {
+      "title": "How to make failure your friend and teacher in science",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03654-3"
     },
     {
       "title": "Carlo Rovelli says fundamental physics is overrated",
@@ -47,78 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03595-x"
-    },
-    {
-      "title": "Cholera bacterium’s good deed: inspiring a glue with rare properties",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03630-x"
-    },
-    {
-      "title": "Briefing Chat: Meet the snakes that cartwheel away from trouble",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03632-9"
-    },
-    {
-      "title": "Preprint platform offers to pay researchers to review papers, but questions remain",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03442-z"
-    },
-    {
-      "title": "Daily briefing: Ancient cave art found hiding in plain sight",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03648-1"
-    },
-    {
-      "title": "In Vivo CRISPR Base Editing of <i>ANGPTL3</i> for Durable Lipid Lowering",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11233-9"
-    },
-    {
-      "title": "These AI agents design your perfect robot-powered lab — and run it for you",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03587-x"
-    },
-    {
-      "title": "‘Mathematics is more than a mechanical process’ — why I think the field will survive OpenAI’s disruption",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03622-x"
-    },
-    {
-      "title": "ESC (DC)<sup>2</sup>",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03450-z"
-    },
-    {
-      "title": "The palaeo cave art that hid in plain sight for 26,000 years",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03585-z"
-    },
-    {
-      "title": "Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11336-3"
-    },
-    {
-      "title": "Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11351-4"
-    },
-    {
-      "title": "The surprising reason women in academia do more parenting than men",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03568-0"
     },
     {
       "title": "Roads not taken: The mismatch between safety and regulation of plant breeding innovation",
@@ -361,6 +361,36 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aen8054?af=R"
     },
     {
+      "title": "Theoretical considerations regarding an acidic nanolayer surrounding lysosomes",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02125-1"
+    },
+    {
+      "title": "Author Correction: A tumour-resident Lgr5<sup>+</sup> stem-cell-like pool drives the establishment and progression of advanced gastric cancers",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02145-x"
+    },
+    {
+      "title": "NAD<sup>+</sup>-responsive circuit for muscle health",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02136-y"
+    },
+    {
+      "title": "Improving CAR T cells",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02137-x"
+    },
+    {
+      "title": "Clusters amplify gene expression",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02142-0"
+    },
+    {
       "title": "Surface Y RNAs at the gut–immune interface",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -377,36 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02152-y"
-    },
-    {
-      "title": "Author Correction: Divergent metabolic programmes control two populations of MAIT cells that protect the lung",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02153-x"
-    },
-    {
-      "title": "Tau monomers and fibrils escape microglial clearance via distinct cellular mechanisms",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02118-0"
-    },
-    {
-      "title": "Positional replication fork instability drives PARP inhibitor cytotoxicity",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02126-0"
-    },
-    {
-      "title": "Scrambling inflames the STING of chemoresistance",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02113-5"
-    },
-    {
-      "title": "Capturing human chorion emergence in a dish",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02080-x"
     },
     {
       "title": "Squeezed to death: Mechanical control of MLKL beyond RIPK3",
