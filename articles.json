@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "title": "Is the climate totally cooked? What the data say",
+      "title": "Number of international students arriving in US plunges — worrying scientists",
       "journal": "Nature",
       "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03716-6"
+      "url": "https://www.nature.com/articles/d41586-026-03668-x"
     },
     {
       "title": "Chinese graduate students are now choosing to stay closer to home",
@@ -17,6 +17,18 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03516-y"
+    },
+    {
+      "title": "This AI ‘mechanic’ can peer inside the black box of other neural networks",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03679-8"
+    },
+    {
+      "title": "Is the climate totally cooked? What the data say",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03716-6"
     },
     {
       "title": "Found: a protein that drives ageing without unleashing inflammation",
@@ -107,18 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03660-5"
-    },
-    {
-      "title": "Microplastics change the colour of the sea near the Great Pacific Garbage Patch",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03637-4"
-    },
-    {
-      "title": "Salty grains in Saturn’s outermost ring formed from the slow freeze of plumes from the moon Enceladus",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03489-y"
     },
     {
       "title": "Collaboration across scales: More than the sum of its parts",
@@ -745,6 +745,12 @@
       "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00702-1?rss=yes"
     },
     {
+      "title": "The persistent multidomain health effects of the early-life exposome",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec2089?af=R"
+    },
+    {
       "title": "Superoxide dismutase shapes manganese stoichiometry in Southern Ocean diatoms",
       "journal": "Science Advances",
       "date": "",
@@ -755,6 +761,12 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aei1896?af=R"
+    },
+    {
+      "title": "When and how particles are removed by drops",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef8434?af=R"
     },
     {
       "title": "A primordial heavy water reservoir in the outer solar system",
@@ -773,6 +785,18 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aei5736?af=R"
+    },
+    {
+      "title": "An end-to-end machine-learning system for global eddy-resolving ocean forecast",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh9058?af=R"
+    },
+    {
+      "title": "MAIT cells exacerbate early liver fibrosis by downsizing the intrahepatic regulatory T cell compartment",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aej0496?af=R"
     },
     {
       "title": "Integrating biomass production platform and identification approach for stereochemical assignment of super-carbon-chain compounds",
@@ -799,10 +823,28 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aei6265?af=R"
     },
     {
+      "title": "Origins of low density and low accretion rate in classical T Tauri stars",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed1073?af=R"
+    },
+    {
       "title": "Single-cell profiling of the duodenum during chronic human norovirus infection",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aej2676?af=R"
+    },
+    {
+      "title": "Acid-promoted photocatalyzed C1-ketonylation of glycosyl benzoates, oxalates, and sulfides",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aek9427?af=R"
+    },
+    {
+      "title": "Battery-free ingestible electronic capsule with programmable high-output soft actuation for active gastrointestinal interventions",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh3758?af=R"
     },
     {
       "title": "Asymmetric cell division is predictive of human T cell vaccine responses",
@@ -817,52 +859,10 @@
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aej0737?af=R"
     },
     {
-      "title": "Segmented projection image translation for large-area, high-resolution vat photopolymerization",
+      "title": "An LHX2-DACH1 regulatory innovation drives basal progenitor expansion in the primate neocortex",
       "journal": "Science Advances",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef7779?af=R"
-    },
-    {
-      "title": "Dual-action small-molecule VSP-51-2 ameliorates polycystic ovary syndrome via PPARγ modulation and AKR1C3 inhibition",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee9754?af=R"
-    },
-    {
-      "title": "Multimodal switches exploiting electromechanical snap-through for versatile robotic information processing",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aei4613?af=R"
-    },
-    {
-      "title": "Real-time complex-valued RF blind source separation via in-physics computing",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg1515?af=R"
-    },
-    {
-      "title": "Controllable fabrication of visible-spectrum 3D photonic crystals",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aej0287?af=R"
-    },
-    {
-      "title": "Reprogramming electron transfer at single-atom Pt sites to break the interference barrier in uric acid detection",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef1075?af=R"
-    },
-    {
-      "title": "The transcription factors OsIDD and OsSHR jointly regulate ground tissue patterning and differentiation in rice roots",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6396?af=R"
-    },
-    {
-      "title": "Cocrystals for sequestering and separating large PAHs",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aei5388?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed3856?af=R"
     }
   ]
 }
