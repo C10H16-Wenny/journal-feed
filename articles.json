@@ -1,10 +1,58 @@
 {
   "items": [
     {
+      "title": "Conference networking made simple, in three short videos",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03678-9"
+    },
+    {
+      "title": "How to make AI data centres more sustainable",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03708-6"
+    },
+    {
+      "title": "Microbiome home tests are taking off. Can they be trusted?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03710-y"
+    },
+    {
+      "title": "Are you a budding science sleuth? Take our plagiarism quiz to test your skills",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03040-z"
+    },
+    {
+      "title": "A grant to hand out more grants — and build a research area",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03689-6"
+    },
+    {
+      "title": "The right to do wrong",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03517-x"
+    },
+    {
+      "title": "Meet the ‘celestial bodies of fathomless powerful darkness’",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03750-4"
+    },
+    {
       "title": "The prospect of a ‘super’ El Niño demands better ocean monitoring",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03744-2"
+    },
+    {
+      "title": "Dinosaur’s rest break leaves a lasting impression",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03749-x"
     },
     {
       "title": "AI wearables could exploit people’s most vulnerable moments",
@@ -31,6 +79,12 @@
       "url": "https://www.nature.com/articles/d41586-026-03772-y"
     },
     {
+      "title": "‘Light and sound’ therapy for Alzheimer’s flops in long-anticipated trial",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03770-0"
+    },
+    {
       "title": "New US Congress should ‘reimagine’ science — not just return to the past",
       "journal": "Nature",
       "date": "",
@@ -41,6 +95,12 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03711-x"
+    },
+    {
+      "title": "Measles is back in the US: what worries scientists",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03747-z"
     },
     {
       "title": "Open up peer review to early-career researchers",
@@ -59,66 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03672-1"
-    },
-    {
-      "title": "<b>The climate is in </b><b>crisis</b><b> — here’s four things we can do</b>",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03760-2"
-    },
-    {
-      "title": "Architecture of a portal complex embedded in the poxvirus core",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11399-2"
-    },
-    {
-      "title": "As El Niño builds, studies of extreme marine heatwaves must start now",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03715-7"
-    },
-    {
-      "title": "US Supreme Court rebuffs White House effort to cut research grants",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03765-x"
-    },
-    {
-      "title": "Secrets of the vampires: genomes reveal how these bats live off blood alone",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03706-8"
-    },
-    {
-      "title": "The psychology of imaginary friends — and why they are good for kids",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03713-9"
-    },
-    {
-      "title": "Can AI actually help the climate? Nations want to harness the technology to cut emissions",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03763-z"
-    },
-    {
-      "title": "Chinese scientist sacked after child died in gene-editing trial",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03752-2"
-    },
-    {
-      "title": "Is the sixth great extinction imminent? Scientists must draw on natural history for clues",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03712-w"
-    },
-    {
-      "title": "Genetic variant that reshaped the human brain was inherited from Neanderthals",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03762-0"
     },
     {
       "title": "Collaboration across scales: More than the sum of its parts",
@@ -361,6 +361,12 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aeo0222?af=R"
     },
     {
+      "title": "Author Correction: Mitochondria-localised ZNFX1 functions as a dsRNA sensor to initiate antiviral responses through MAVS",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02161-x"
+    },
+    {
       "title": "Editorial Expression of Concern: MicroRNAs <i>17-5p–20a–106a</i> control monocytopoiesis through AML1 targeting and M-CSF receptor upregulation",
       "journal": "Nature Cell Biology",
       "date": "",
@@ -401,12 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02135-z"
-    },
-    {
-      "title": "Theoretical considerations regarding an acidic nanolayer surrounding lysosomes",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02125-1"
     },
     {
       "title": "VAPA connects contact sites to surfactant homeostasis",
@@ -514,121 +514,121 @@
       "title": "In This Issue",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/iti4526123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/iti4626123?af=R"
     },
     {
-      "title": "Where intention goes, responsibility flows: Grounding AI accountability in the machine learning paradigm",
+      "title": "How Antoni Gaudí used math to make his basilica soar",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2610670123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2638043123?af=R"
     },
     {
-      "title": "Mark A. Ratner (1942–2026): Founded molecular electronics while spearheading the growth of science at Northwestern University",
+      "title": "Heme signatures in mineralized red blood cells within vascular canals of a 115-million-year-old dinosaur bone",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2633584123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2614248123?af=R"
     },
     {
-      "title": "Profile of Françoise Combes",
+      "title": "Ancient genomes from Mendoza, Argentina, trace the dynamics of colonial urban formation in the Southern Cone of the Americas",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2636817123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2609419123?af=R"
     },
     {
-      "title": "Some theoretical limitations of t-SNE",
+      "title": "Rapid soil degradation of a cross-linked, semicrystalline polyethylene-like polyester produced by Colletes bees",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2613435123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2607098123?af=R"
     },
     {
-      "title": "New molecular and historical evidence on ancient Egyptian embalming",
+      "title": "Simply aging",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2624362123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2605454123?af=R"
     },
     {
-      "title": "Behavioral evidence for two-stage sleep in spiders",
+      "title": "Intensification of compound wind drought and heatwave events under climate change",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2618030123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2604442123?af=R"
     },
     {
-      "title": "Rembrandt through the eyes of the machine: Toward explainable Human–AI collaboration in painting attribution",
+      "title": "Leaf hydraulic and photosynthetic traits mediate forest-scale resource use efficiencies across the continental United States",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2626989123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2526434123?af=R"
     },
     {
-      "title": "Synchronous end-Permian mass extinction zenith in marine and low–middle latitude terrestrial North China",
+      "title": "Structural basis of hypervariable region 1 dynamics on HCV envelope glycoproteins in immune evasion",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2538105123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2606727123?af=R"
     },
     {
-      "title": "CD8+ regulatory T cells limit immunopathology but impair viral clearance in Hantaan virus infection",
+      "title": "Active and passive crowding pathways drive topological and mechanical divergence in myoblasts",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2536836123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2618900123?af=R"
     },
     {
-      "title": "Binding sites as dynamic hubs of coevolution encoded information flow",
+      "title": "Loss of DUSP2–RPA signaling enhances virtual memory T cell–mediated innate-like antiviral immunity",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2612667123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2620849123?af=R"
     },
     {
-      "title": "TLR7-independent control of retroviral infection",
+      "title": "Coevolution of social network structure and life history in toothed whales",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2615151123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2631011123?af=R"
     },
     {
-      "title": "Kinome profiling enabled development of a LATS1/2 inhibitor with wound healing potential",
+      "title": "Generating interesting scientific ideas using knowledge graphs and LLMs: Evaluations with 100 research group leaders",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2602240123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2611349123?af=R"
     },
     {
-      "title": "Molecular basis of quorum-sensing signal transduction by CqsS and its inhibition by CqsA, the autoinducer synthase",
+      "title": "Targeting of STEAP3 by a selenium D–π–A photosensitizer that activates ferroptosis",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2617274123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2622307123?af=R"
     },
     {
-      "title": "Rising temperatures, shifting population: Changes in children’s ambient heat exposure in China",
+      "title": "Signaling mechanism of the transmembrane energy receptor Aer",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2615409123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2621083123?af=R"
     },
     {
-      "title": "Transcranial magnetic stimulation to the dorsolateral prefrontal cortex modulates single-neuron activity in humans",
+      "title": "History-dependent droplet friction driven by contact-line aging",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2610803123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2619504123?af=R"
     },
     {
-      "title": "Active immunotherapy against IL-1β restores tissue repair under chronic inflammation",
+      "title": "Rapid vaterite-mediated shell repair for acid-induced damage in a deep-sea mussel",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2609135123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2616760123?af=R"
     },
     {
-      "title": "Pericyte contraction generates angiostatic effect via cell force–dependent activation of TGFβ",
+      "title": "Belonging to a group with shared ideology leads preschool children to resist revising their beliefs despite disconfirming evidence",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2631760123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2622764123?af=R"
     },
     {
-      "title": "Lifetime stressor exposure is associated with altered trust formation and social learning in dynamic interactions",
+      "title": "A replaceable soma enables negative senescence in harvester ants",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2608572123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2612817123?af=R"
     },
     {
-      "title": "Paradoxical effects of opioids in suppression of colonic motility",
+      "title": "Isotopically heavy carbon in the core",
       "journal": "PNAS",
       "date": "",
-      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2608905123?af=R"
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2610912123?af=R"
     },
     {
       "title": "Hidden diversity from transposable element RNAs in cancer",
