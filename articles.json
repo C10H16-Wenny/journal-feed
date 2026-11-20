@@ -1,16 +1,94 @@
 {
   "items": [
     {
+      "title": "How AI is affecting science careers",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03680-1"
+    },
+    {
+      "title": "Lifting weights reduces muscle loss from obesity drugs",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03751-3"
+    },
+    {
+      "title": "Fraud helps little fire ants to survive and conquer",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03776-8"
+    },
+    {
+      "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03590-2"
+    },
+    {
+      "title": "‘Incredibly frustrating’: prestigious fellowship applications close in just 21 hours",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03805-6"
+    },
+    {
+      "title": "US science academy urges journals to fix errors more quickly",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03787-5"
+    },
+    {
+      "title": "Author Correction: SARS-CoV-2 mRNA vaccines sensitize tumours to immune checkpoint blockade",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-10974-x"
+    },
+    {
+      "title": "Ruminations on a last movement",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03519-9"
+    },
+    {
+      "title": "Claude, find me a planet: amateur astronomers are using AI with mixed results",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03790-w"
+    },
+    {
+      "title": "How to turn impostor syndrome into a superpower",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03465-6"
+    },
+    {
       "title": "Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-11388-5"
     },
     {
+      "title": "Calcium catalysed nucleophilic fluorination",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11445-z"
+    },
+    {
+      "title": "More tropical cyclones hit peak fury at the worst possible time",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03748-y"
+    },
+    {
       "title": "People entering old age now have better memory than their parents did",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03783-9"
+    },
+    {
+      "title": "University students are biggest spreaders of COVID",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03746-0"
     },
     {
       "title": "Sore throat? The brain has surprising control over how ill you feel",
@@ -25,6 +103,12 @@
       "url": "https://www.nature.com/articles/d41586-026-03753-1"
     },
     {
+      "title": "What do various cancers have in common?",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03379-3"
+    },
+    {
       "title": "Author Correction: Pharmacological inhibition of METTL1 as a therapy against solid and blood cancers",
       "journal": "Nature",
       "date": "",
@@ -35,90 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/s41586-026-11436-0"
-    },
-    {
-      "title": "AI is turbocharging cyberattacks — can computer scientists catch up?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03775-9"
-    },
-    {
-      "title": "Bacteria and viruses team up to hasten the demise of algal blooms",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03606-x"
-    },
-    {
-      "title": "Conference networking made simple, in three short videos",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03678-9"
-    },
-    {
-      "title": "First observation of a giant star swallowing its neighbour",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03784-8"
-    },
-    {
-      "title": "How to make AI data centres more sustainable",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03708-6"
-    },
-    {
-      "title": "Microbiome home tests are taking off. Can they be trusted?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03710-y"
-    },
-    {
-      "title": "Tropical land-use intensification reshapes biodiversity in expected and unexpected ways",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03602-1"
-    },
-    {
-      "title": "Kings of the jungle? This early human had surprising survival skills that rivalled ours",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03777-7"
-    },
-    {
-      "title": "Daily briefing: Can you spot the ‘tortured phrases’?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03791-9"
-    },
-    {
-      "title": "Intra-stellar: a star inside a giant star",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03273-y"
-    },
-    {
-      "title": "Glucose-powered implant brings devices for treating diabetes a step closer",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03377-5"
-    },
-    {
-      "title": "Band-Edge-Extended Heterointerfaces for Perovskite Solar Cells and Tandems",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11427-1"
-    },
-    {
-      "title": "Poxviruses probably evolved in the digestive system of animals",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03436-x"
-    },
-    {
-      "title": "Meet ‘egoviruses’: the surprise microbes living in the guts of millions of people",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03766-w"
     },
     {
       "title": "Collaboration across scales: More than the sum of its parts",
@@ -241,124 +241,148 @@
       "url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01219-5?rss=yes"
     },
     {
-      "title": "Mysticism meets empiricism",
+      "title": "Digital doubles and the modern crisis of identity",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aei8923?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael6252?af=R"
     },
     {
-      "title": "Tales from the Viking dead",
+      "title": "A thalamo-amygdalar circuit drives female vulnerability to chronic pain after early-life stress",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ael6608?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adx5757?af=R"
     },
     {
-      "title": "Differentiation of stem-like CD4+ T cells modulates early effector responses in colorectal cancer",
+      "title": "The fate of poised pre-mRNAs shapes mitochondrial activity and cellular differentiation",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ady7788?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aee8018?af=R"
     },
     {
-      "title": "Giant elastoresistance in magic-angle twisted bilayer graphene",
+      "title": "Quiet within, chaos without: Turbulence shelters drive selective particle capture and release",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adz0597?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aee9889?af=R"
     },
     {
-      "title": "AI-monitored bioadhesive for sutureless microvascular anastomosis",
+      "title": "A neural code for generative speech production in human Wernicke’s area",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed8712?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef8963?af=R"
     },
     {
-      "title": "Limited genomic predictability of complex trait evolution despite genotype-phenotype stability",
+      "title": "Interpenetrating bottlebrush elastomer for low-loss soft ultrasonic interfaces",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aee0342?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef9553?af=R"
     },
     {
-      "title": "A trapped catalytic product acts as molecular glue for innate immune signalosome assembly",
+      "title": "Atmospheric organic nitrogen is a major nutrient source to global oceans",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aef3150?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeg4265?af=R"
     },
     {
-      "title": "Increased demographic turnover and isolation precede social fragmentation in Asian elephants",
+      "title": "Angular momentum transfer from an optical vortex to an atomic rotor",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aef6714?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh0182?af=R"
     },
     {
-      "title": "Direct monitoring of breaching in deltaic submarine landslides",
+      "title": "Elastic-field reorganization stabilizes soft-lattice perovskites for durable solar cells",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aef8444?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh3114?af=R"
     },
     {
-      "title": "Poisoned hunting weapons, megafauna, and plant use at a 125,000-year-old Arabian paleolakeshore",
+      "title": "Divergent activation of the RXFP1 relaxin receptor by protein and small-molecule agonists",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aef9342?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aei0135?af=R"
     },
     {
-      "title": "Climate aridity amplifies global riverine nitrate beyond human inputs",
+      "title": "Meso–microporous zeolitic materials with thin walls containing ordered 10-ring channels",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeg2366?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aei6161?af=R"
     },
     {
-      "title": "The genetic landscape of canine tumors: Insights from the Canine Cancer Genome Atlas (CCGA)",
+      "title": "Molecular adhesion for durable metal halide perovskite modules",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeg8777?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aej5001?af=R"
     },
     {
-      "title": "TMEM184 proteins are Ca2+ uptake transporters in lysosomes",
+      "title": "Quantum-classical separation in bounded-resource tasks arising from measurement contextuality",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeh3996?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aec3042?af=R"
     },
     {
-      "title": "Geodetic observations in West Antarctica reveal geodynamically consistent 3D mantle viscosity",
+      "title": "Balancing redox-mediated cytotoxicity and catalysis in natural product biosynthesis",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeh5525?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aee2641?af=R"
     },
     {
-      "title": "ESCRT-0 condensation and cargo clustering drive extracellular vesicle budding from cilia",
+      "title": "Telemetric calorimetry for wireless continuous reaction profiling",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aej7530?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aei7840?af=R"
     },
     {
-      "title": "Quantitative measurement of viscosity in two-dimensional electron fluids",
+      "title": "A DNA Typewriter records the cell lineage history of a mouse, from zygote to late organogenesis",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adr5469?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.ael0508?af=R"
     },
     {
-      "title": "Carbon dioxide and amorphous water ices in the debris disk around β Pictoris",
+      "title": "The power of feedback",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adw7770?af=R"
-    },
-    {
-      "title": "Atmospheric O2 reveals a strengthening ocean carbon sink and a stagnant net land sink since 1990",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aed9544?af=R"
-    },
-    {
-      "title": "Antiferroelectric hafnia down to the 2D limit",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ady5526?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeo2220?af=R"
     },
     {
       "title": "In Other Journals",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeo0222?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeo2219?af=R"
+    },
+    {
+      "title": "A quantum paradox at work",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aem4000?af=R"
+    },
+    {
+      "title": "Mammalian development, recorded and decoded",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aem7343?af=R"
+    },
+    {
+      "title": "Author Correction: Publisher Correction: Reactive oxygen species regulate axonal regeneration through the release of exosomal NADPH oxidase 2 complexes into injured axons",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02157-7"
+    },
+    {
+      "title": "Author Correction: Assembly of Tetraspanin-enriched macrodomains contains membrane damage to facilitate repair",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02159-5"
+    },
+    {
+      "title": "Endolysosomal damage promotes intraluminal protein condensate formation that limits cytosolic leakage",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02119-z"
+    },
+    {
+      "title": "Author Correction: Transcriptional repression facilitates RNA:DNA hybrid accumulation at DNA double-strand breaks",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02167-5"
     },
     {
       "title": "Author Correction: RBFOX2 recognizes <i>N</i><sup>6</sup>-methyladenosine to suppress transcription and block myeloid leukaemia differentiation",
@@ -383,30 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02154-w"
-    },
-    {
-      "title": "Diffuse assemblies drive oncogenic signalling",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02114-4"
-    },
-    {
-      "title": "Low-order assemblies drive oncogenic RTK fusion signalling without condensation",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02112-6"
-    },
-    {
-      "title": "The optogenetic tool ASAP acutely inhibits autophagy",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02124-2"
-    },
-    {
-      "title": "Mapping mammalian placental formation and implantation transitions with single-cell transcriptomics and live imaging",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02134-0"
     },
     {
       "title": "VAPA connects contact sites to surfactant homeostasis",
@@ -631,118 +631,118 @@
       "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2610912123?af=R"
     },
     {
-      "title": "Hidden diversity from transposable element RNAs in cancer",
+      "title": "Synthetic viability: FANCM loss enhances the fitness of BRCA2 mutant cells",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00739-2?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00746-X?rss=yes"
     },
     {
-      "title": "ecDNA hubs as intrinsic redox reactors that shield extrachromosomal oncogenes",
+      "title": "The METTL orchestra plays on a loop, keeping the volume just right",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00677-5?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00750-1?rss=yes"
     },
     {
-      "title": "One pocket, two poses: How sequence context shapes non-additive binding",
+      "title": "Amyloid couriers for the sperm RNA code",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00678-7?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00749-5?rss=yes"
     },
     {
-      "title": "A VIPR that wraps: A triplex biochemistry for next-gen biotechnology",
+      "title": "When two become one: Chimeric RNAs regulating innate immunity",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00703-3?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00752-5?rss=yes"
     },
     {
-      "title": "Myosin heavy-chain 9 executes cuproptosis",
+      "title": "Beneath the surface: Hidden degrons and untapped ligases for molecular glue degrader discovery",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00736-7?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00748-3?rss=yes"
     },
     {
-      "title": "Small genomes, big lessons: What viruses teach us about structure-based riboregulation",
+      "title": "Structural basis of directionality control in large serine integrases",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00706-9?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00672-6?rss=yes"
     },
     {
-      "title": "PARP1 directly disassembles nucleosomes to regulate DNA repair",
+      "title": "A genome-scale adaptation map identifies the FANCM-RMI1/2 complex as an opposing modulator of cell fitness upon BRCA1 or BRCA2 loss",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00705-7?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00660-X?rss=yes"
     },
     {
-      "title": "HP1 can act independently of H3K9 methylation to promote heterochromatin focus formation, gene repression, and organogenesis",
+      "title": "The 9-1-1 complex protects ssDNA gaps in BRCA2-deficient cancer",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00707-0?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00710-0?rss=yes"
     },
     {
-      "title": "5-Azacytosine induces cytotoxicity via 5-methylcytosine depletion on chromatin-associated RNA in leukemia",
+      "title": "Molecular mechanism of residue-specific nucleosome acetylation",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00587-3?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00662-3?rss=yes"
     },
     {
-      "title": "Transposable element splicing reveals a tumor-enriched class of gene-independent transcripts",
+      "title": "P-TEFb regulates nucleosome positioning at promoters",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00658-1?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00716-1?rss=yes"
     },
     {
-      "title": "Inherent electrochemical activity of extrachromosomal DNA hub shapes spatial redox environment in nucleus",
+      "title": "A TORC1-regulated H3K4me reader preserves promoter chromatin stability, and its degradation promotes meiotic remodeling",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00661-1?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00718-5?rss=yes"
     },
     {
-      "title": "How the TREX-2 complex associates with the nuclear pore",
+      "title": "A feedback mechanism of m6A via PARP1-mediated ADP ribosylation of METTL3/METTL14",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00711-2?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00671-4?rss=yes"
     },
     {
-      "title": "Proteome-wide C-degron activity profiling connects conditional regulation of the CTLH E3 ligase complex to ribosome biogenesis",
+      "title": "Protein arginine methylation promotes global 3′UTR shortening in proliferating cells",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00679-9?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00708-2?rss=yes"
     },
     {
-      "title": "Reverse transcribed ssDNA derepresses translation of a retron antiviral protein",
+      "title": "Identification and regulation of an ACC1-associated lipogenic metabolon in liver",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00669-6?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00737-9?rss=yes"
     },
     {
-      "title": "PHYHD1-mediated translational control regulates renal cell carcinoma progression",
+      "title": "Bacterial 2′,3′-cGAMP signaling induces membrane splitting in antiphage CBASS immunity",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00663-5?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00719-7?rss=yes"
     },
     {
-      "title": "A CK2-β-TrCP kinase-E3 ubiquitin ligase cascade is a metabolic sensor regulating tryptophan 2,3-dioxygenase stability",
+      "title": "Amyloid-mediated RNA uptake by sperm for embryonic delivery",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00666-0?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00709-4?rss=yes"
     },
     {
-      "title": "The binding of OTULIN restrains LUBAC activity to prevent TNF-driven immunopathology",
+      "title": "Oligo(uridine) tailing and exonucleolytic decay drive 40S ribosome degradation in response to stress",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00704-5?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00664-7?rss=yes"
     },
     {
-      "title": "STING engages PKR to drive lysosomal cell death in lung ischemia-reperfusion injury",
+      "title": "40S ribosome remodeling triggers 18S rRNA U-tailing and DIS3L2-dependent decay",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00667-2?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00665-9?rss=yes"
     },
     {
-      "title": "Regulatable in vivo gene expression via adaptamers",
+      "title": "The chromatin context differently impacts prime editors and base editors and controls the fidelity and purity of base editing",
       "journal": "Molecular Cell",
       "date": "",
-      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00702-1?rss=yes"
+      "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00717-3?rss=yes"
     },
     {
       "title": "TRIM28-mediated SUMOylation of ERG at K389 conveys PARP inhibitor resistance by inhibiting 53BP1 expression in CRPC",
