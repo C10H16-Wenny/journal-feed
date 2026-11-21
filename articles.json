@@ -13,6 +13,12 @@
       "url": "https://www.nature.com/articles/d41586-026-03751-3"
     },
     {
+      "title": "Briefing Chat: Voyager 1 is now one ‘light day’ from Earth — setting a cosmic record",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03806-5"
+    },
+    {
       "title": "Fraud helps little fire ants to survive and conquer",
       "journal": "Nature",
       "date": "",
@@ -29,6 +35,24 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03805-6"
+    },
+    {
+      "title": "Net zero emissions won’t reverse climate change — some nations look to ‘net negative’",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03789-3"
+    },
+    {
+      "title": "Mathematician says he and AI solved Riemann hypothesis — the field’s biggest outstanding challenge",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03812-7"
+    },
+    {
+      "title": "Sleuth finds ‘impossible proteins’ in hundreds of research papers",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03799-1"
     },
     {
       "title": "US science academy urges journals to fix errors more quickly",
@@ -61,6 +85,12 @@
       "url": "https://www.nature.com/articles/d41586-026-03465-6"
     },
     {
+      "title": "These gaps in weather data affect forecasts everywhere: plugging them is not charity",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03811-8"
+    },
+    {
       "title": "Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale",
       "journal": "Nature",
       "date": "",
@@ -89,36 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03746-0"
-    },
-    {
-      "title": "Sore throat? The brain has surprising control over how ill you feel",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03774-w"
-    },
-    {
-      "title": "AI is ditching hallucinated references — and other bad habits",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03753-1"
-    },
-    {
-      "title": "What do various cancers have in common?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03379-3"
-    },
-    {
-      "title": "Author Correction: Pharmacological inhibition of METTL1 as a therapy against solid and blood cancers",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11421-7"
-    },
-    {
-      "title": "Author Correction: Replication-stress-induced chromatin loops protect fork stability",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41586-026-11436-0"
     },
     {
       "title": "Collaboration across scales: More than the sum of its parts",
@@ -277,12 +277,6 @@
       "url": "https://www.science.org/doi/abs/10.1126/science.aef9553?af=R"
     },
     {
-      "title": "Atmospheric organic nitrogen is a major nutrient source to global oceans",
-      "journal": "Science",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeg4265?af=R"
-    },
-    {
       "title": "Angular momentum transfer from an optical vortex to an atomic rotor",
       "journal": "Science",
       "date": "",
@@ -329,6 +323,12 @@
       "journal": "Science",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/science.aei7840?af=R"
+    },
+    {
+      "title": "Atmospheric organic nitrogen is a major nutrient source to global oceans",
+      "journal": "Science",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeg4265?af=R"
     },
     {
       "title": "A DNA Typewriter records the cell lineage history of a mouse, from zygote to late organogenesis",
@@ -745,16 +745,70 @@
       "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00717-3?rss=yes"
     },
     {
+      "title": "SeqA-mediated sister loci cohesion regulates the efficiency and fidelity of DNA double-strand break repair across the E. coli genome",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady3050?af=R"
+    },
+    {
+      "title": "Evolution of MEIS transcription factor activity during metazoan neural development—born to be wild",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea7093?af=R"
+    },
+    {
       "title": "TRIM28-mediated SUMOylation of ERG at K389 conveys PARP inhibitor resistance by inhibiting 53BP1 expression in CRPC",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec9042?af=R"
     },
     {
+      "title": "Self-assembly of bacterial volumetric patterns directed by a synthetic reaction-diffusion circuit",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec9323?af=R"
+    },
+    {
+      "title": "Immune infiltrate predicts response to αPD1/αCTLA4 but not αPD1 and distinguishes programs of primary resistance in metastatic melanoma",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed0035?af=R"
+    },
+    {
+      "title": "Roseburia intestinalis counteracts TBEP-exacerbated atherosclerosis",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed2040?af=R"
+    },
+    {
+      "title": "A membrane-guided strategy for optimizing proton exchange membrane fuel cells via spatially controlled acid distribution",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed2935?af=R"
+    },
+    {
+      "title": "Cyclin-dependent kinase-like 5 (CDKL5) binds talin and is anchored at the postsynaptic density by direct PDZ interactions",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed3338?af=R"
+    },
+    {
       "title": "Auditory cortical coding of spectrotemporal modulations is sufficient to support perceptual categorization of speech and music",
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed8025?af=R"
+    },
+    {
+      "title": "THERM-D uncovers distinct neural mechanisms separating morning and evening body temperature rhythms in Drosophila",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed8055?af=R"
+    },
+    {
+      "title": "Dynamic nuclear pores dictate the emergence of lamina-associated domains and UV protection during embryogenesis",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed8143?af=R"
     },
     {
       "title": "Ribosome-associated vesicles promote activity-dependent local translation in neurons",
@@ -767,6 +821,12 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee0802?af=R"
+    },
+    {
+      "title": "Subclonal evolution can shape the transition toward a sarcomatoid phenotype in pleural mesothelioma",
+      "journal": "Science Advances",
+      "date": "",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee4872?af=R"
     },
     {
       "title": "Machine-learning-driven identification of cooperative descriptors for polysulfide conversion on spinel oxides",
@@ -803,66 +863,6 @@
       "journal": "Science Advances",
       "date": "",
       "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef9541?af=R"
-    },
-    {
-      "title": "A state-dependent neural circuit resolves approach-avoidance conflict",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg1944?af=R"
-    },
-    {
-      "title": "Membrane-confined self-assembly enables localized bioorthogonal prodrug activation and selective cancer therapy",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg8356?af=R"
-    },
-    {
-      "title": "A floss-based platform for native gingival crevicular fluid analysis enables noninvasive systemic and oral health monitoring",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg8698?af=R"
-    },
-    {
-      "title": "USP8 inhibition suppresses prostate tumorigenesis via promoting RICTOR degradation to inhibit mTORC2 signaling",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh0679?af=R"
-    },
-    {
-      "title": "Pten regulates neurogenic radial glia lineage progression and tunes neocortical astrocyte production in Mapk1/3-dependent pathway",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh1717?af=R"
-    },
-    {
-      "title": "Engineering interfacial nucleation and growth for long-life, ultrahigh-rate anode-free sodium batteries",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh3524?af=R"
-    },
-    {
-      "title": "Posttranscriptional regulation by TIA1 and TIAL1 controls the transcriptional program enforcing T cell quiescence",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh4461?af=R"
-    },
-    {
-      "title": "In vivo screening reveals new regulators of natural killer cell development and functional response to acute cytomegalovirus infection",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh5393?af=R"
-    },
-    {
-      "title": "Spheroid-laden hydrogels with dual biomimetic intra- and perispheroidal niches for enhanced bone healing",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6253?af=R"
-    },
-    {
-      "title": "Dynein-dependent positioning of multiple organelles regulates adaptive gene expression during oxidative stress",
-      "journal": "Science Advances",
-      "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6455?af=R"
     }
   ]
 }
