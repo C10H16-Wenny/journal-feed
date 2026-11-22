@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03803-8"
+    },
+    {
       "title": "How AI is affecting science careers",
       "journal": "Nature",
       "date": "",
@@ -43,7 +49,7 @@
       "url": "https://www.nature.com/articles/d41586-026-03789-3"
     },
     {
-      "title": "Mathematician says he and AI solved Riemann hypothesis — the field’s biggest outstanding challenge",
+      "title": "Mathematicians astounded by AI and human-written proofs of iconic Riemann hypothesis",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03812-7"
@@ -113,12 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03783-9"
-    },
-    {
-      "title": "University students are biggest spreaders of COVID",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03746-0"
     },
     {
       "title": "Collaboration across scales: More than the sum of its parts",
