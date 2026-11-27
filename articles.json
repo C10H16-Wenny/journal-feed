@@ -1,16 +1,70 @@
 {
   "items": [
     {
+      "title": "The haunting loveliness of boglands: Books in brief",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03885-4"
+    },
+    {
+      "title": "Brain area’s mysterious role in speech decoded at last",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03800-x"
+    },
+    {
+      "title": "Life-saving cancer drug pumped out by a plant",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03801-w"
+    },
+    {
+      "title": "Postcards from your graves",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03523-z"
+    },
+    {
+      "title": "Why the incoming US Congress should ban the development of self-improving AI",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03849-8"
+    },
+    {
+      "title": "Editorial Expression of Concern: Dual control of nuclear EIN3 by bifurcate MAPK cascades in C<sub>2</sub>H<sub>4</sub> signalling",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41586-026-11475-7"
+    },
+    {
+      "title": "Chromosome ‘glue’ could boost fertility by stabilizing ageing eggs",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03874-7"
+    },
+    {
       "title": "Navigating grief in academia: ways to find balance",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-02752-6"
     },
     {
+      "title": "Has AI just cracked Internet encryption? Rumoured ‘bombshell’ stuns scientists",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03875-6"
+    },
+    {
       "title": "Orangutans face bleak future after Indonesia’s devastating wildfires",
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03828-z"
+    },
+    {
+      "title": "Daily briefing: A guide to the Riemann hypothesis",
+      "journal": "Nature",
+      "date": "",
+      "url": "https://www.nature.com/articles/d41586-026-03894-3"
     },
     {
       "title": "The leading cities in the world for high-quality research in 2025",
@@ -65,60 +119,6 @@
       "journal": "Nature",
       "date": "",
       "url": "https://www.nature.com/articles/d41586-026-03718-4"
-    },
-    {
-      "title": "Can Beijing scale up its smart-city ambitions?",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03470-9"
-    },
-    {
-      "title": "From sketch to publication-ready flowchart: how AI tools can bridge the gap",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03513-1"
-    },
-    {
-      "title": "The world’s leading science cities are changing — here’s why",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03466-5"
-    },
-    {
-      "title": "Gut microbes can adapt to our ageing bodies",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03268-9"
-    },
-    {
-      "title": "China’s AI-powered smart-city model is going global",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03473-6"
-    },
-    {
-      "title": "Pockets in compacted DNA tune gene activation",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03492-3"
-    },
-    {
-      "title": "Helsinki puts trust at the heart of its smart-city model",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03469-2"
-    },
-    {
-      "title": "London’s people-first approach to smart-city development",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03471-8"
-    },
-    {
-      "title": "Bogong moths can migrate using an internal geomagnetic compass",
-      "journal": "Nature",
-      "date": "",
-      "url": "https://www.nature.com/articles/d41586-026-03693-w"
     },
     {
       "title": "A pincer attack to take down cancer",
@@ -241,124 +241,148 @@
       "url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01009-3?rss=yes"
     },
     {
-      "title": "Digital doubles and the modern crisis of identity",
+      "title": "The absent-minded physicist who bested them all",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ael6252?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aem8414?af=R"
     },
     {
-      "title": "A thalamo-amygdalar circuit drives female vulnerability to chronic pain after early-life stress",
+      "title": "The original researchers would like a word",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.adx5757?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aej2312?af=R"
     },
     {
-      "title": "The fate of poised pre-mRNAs shapes mitochondrial activity and cellular differentiation",
+      "title": "Priming of AGO2 by type I interferons balances inflammation and antiviral immunity",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aee8018?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adx9551?af=R"
     },
     {
-      "title": "Quiet within, chaos without: Turbulence shelters drive selective particle capture and release",
+      "title": "Mitochondrial profiling links tumor genotype to metabolic and immune vulnerabilities in liver cancer",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aee9889?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeb7608?af=R"
     },
     {
-      "title": "A neural code for generative speech production in human Wernicke’s area",
+      "title": "Shared patterns of human milk composition link mammary gland function to infant growth",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aef8963?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aee7240?af=R"
     },
     {
-      "title": "Interpenetrating bottlebrush elastomer for low-loss soft ultrasonic interfaces",
+      "title": "Magic state cultivation on a superconducting quantum processor",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aef9553?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aee7961?af=R"
     },
     {
-      "title": "Angular momentum transfer from an optical vortex to an atomic rotor",
+      "title": "Nutritional interventions’ impacts on human milk: Three trials in low-resource settings",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeh0182?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aee9284?af=R"
     },
     {
-      "title": "Elastic-field reorganization stabilizes soft-lattice perovskites for durable solar cells",
+      "title": "Counter-ion confinement reverses ion selectivity in subnanometer channels",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeh3114?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef1323?af=R"
     },
     {
-      "title": "Divergent activation of the RXFP1 relaxin receptor by protein and small-molecule agonists",
+      "title": "Rough fracture zone as a gateway to the 2025 Mw 8.8 Kamchatka earthquake",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aei0135?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aef2089?af=R"
     },
     {
-      "title": "Meso–microporous zeolitic materials with thin walls containing ordered 10-ring channels",
+      "title": "An engineered cohesion system reduces errors in aged mammalian eggs",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aei6161?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aei5852?af=R"
     },
     {
-      "title": "Molecular adhesion for durable metal halide perovskite modules",
+      "title": "A tryptophan cation radical determines radical transfer kinetics and catalytic rate in a ribonucleotide reductase",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aej5001?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aei8950?af=R"
     },
     {
-      "title": "Quantum-classical separation in bounded-resource tasks arising from measurement contextuality",
+      "title": "Millisecond-scale imaging of fragmented earthquake rupture by near-source fiber-optic sensing",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aec3042?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aei0507?af=R"
     },
     {
-      "title": "Balancing redox-mediated cytotoxicity and catalysis in natural product biosynthesis",
+      "title": "Abrupt surface water decline during 2023–2024 record warming",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aee2641?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aei2575?af=R"
     },
     {
-      "title": "Telemetric calorimetry for wireless continuous reaction profiling",
+      "title": "A fast radio burst at redshift 2, three billion years after the Big Bang",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aei7840?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.adz2675?af=R"
     },
     {
-      "title": "Atmospheric organic nitrogen is a major nutrient source to global oceans",
+      "title": "Atomic functional site scaffolding in biopolymers with RFdiffusion3",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeg4265?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh2982?af=R"
     },
     {
-      "title": "A DNA Typewriter records the cell lineage history of a mouse, from zygote to late organogenesis",
+      "title": "Stereodivergent telomerization of linear functionalized dienes with amines",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.ael0508?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh7895?af=R"
     },
     {
-      "title": "The power of feedback",
+      "title": "Integrating established and emerging tools to assess wildlife condition from the ground, up",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeo2220?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aed3374?af=R"
     },
     {
       "title": "In Other Journals",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aeo2219?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeo3371?af=R"
     },
     {
-      "title": "A quantum paradox at work",
+      "title": "A new growth curve",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aem4000?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeo3372?af=R"
     },
     {
-      "title": "Mammalian development, recorded and decoded",
+      "title": "Deception in motion",
       "journal": "Science",
       "date": "",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aem7343?af=R"
+      "url": "https://www.science.org/doi/abs/10.1126/science.aek0041?af=R"
+    },
+    {
+      "title": "Tissue-wide single-cell CRISPR screening for microproteins unveils hidden layers of ribosomal complexity",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02131-3"
+    },
+    {
+      "title": "Membraneless barriers compartmentalize RNA surveillance",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02148-8"
+    },
+    {
+      "title": "Cell-autonomous inflammation in VEXAS is mediated by ERAD failure and cGAS–STING",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02122-4"
+    },
+    {
+      "title": "SLBP-independent control of maternal histone mRNA",
+      "journal": "Nature Cell Biology",
+      "date": "",
+      "url": "https://www.nature.com/articles/s41556-026-02141-1"
     },
     {
       "title": "Tissue stiffening induces histone serotonylation and primes migratory cell states in vivo",
@@ -383,30 +407,6 @@
       "journal": "Nature Cell Biology",
       "date": "",
       "url": "https://www.nature.com/articles/s41556-026-02156-8"
-    },
-    {
-      "title": "Author Correction: Spatial and functional separation of mTORC1 signalling in response to different amino acid sources",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02169-3"
-    },
-    {
-      "title": "Author Correction: Mapping putative enhancers in mouse oocytes and early embryos reveals TCF3/12 as key folliculogenesis regulators",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02168-4"
-    },
-    {
-      "title": "A prime-editing-based strategy for pooled protein tagging and subcellular localization mapping",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02110-8"
-    },
-    {
-      "title": "Author Correction: Publisher Correction: Reactive oxygen species regulate axonal regeneration through the release of exosomal NADPH oxidase 2 complexes into injured axons",
-      "journal": "Nature Cell Biology",
-      "date": "",
-      "url": "https://www.nature.com/articles/s41556-026-02157-7"
     },
     {
       "title": "VAPA connects contact sites to surfactant homeostasis",
